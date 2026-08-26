@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Otel Yönetimi | MT Travel Admin</title>
+    <meta name="description" content="MT Travel yönetim paneli.">
+    <link rel="canonical" href="https://www.mttravel.com/admin/hotels.html">
+    <meta name="robots" content="noindex, nofollow">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Otel Yönetimi | MT Travel Admin">
+    <meta property="og:description" content="MT Travel yönetim paneli.">
+    <meta property="og:image" content="../assets/images/common/og-image.jpg">
+    <meta property="og:url" content="https://www.mttravel.com/admin/hotels.html">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Otel Yönetimi | MT Travel Admin">
+    <meta name="twitter:description" content="MT Travel yönetim paneli.">
+    <meta name="twitter:image" content="../assets/images/common/og-image.jpg">
+    <link rel="icon" type="image/png" sizes="32x32" href="../assets/images/common/favicon-32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../assets/images/common/favicon-16.png">
+    <link rel="apple-touch-icon" href="../assets/images/common/apple-touch-icon.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../assets/css/variables.css">
+    <link rel="stylesheet" href="../assets/css/base.css">
+    <link rel="stylesheet" href="../assets/css/layout.css">
+    <link rel="stylesheet" href="../assets/css/components.css">
+    <link rel="stylesheet" href="../assets/css/pages.css">
+    <link rel="stylesheet" href="../assets/css/animations.css">
+    <link rel="stylesheet" href="../assets/css/admin.css">
+</head>
+<body class="admin-body">
+  <div class="admin-shell">
+    <aside class="admin-sidebar" id="adminSidebar">
+      <div class="admin-sidebar__brand">
+        <a href="../index.html" class="logo ">
+      <span class="logo__mark"><img src="../assets/images/common/logo-mark.png" alt="MT Travel" width="388" height="200"></span>
+      <span class="logo__text"><strong>MT</strong><span>TRAVEL</span></span>
+    </a>
+      </div>
+      <div class="admin-sidebar__scroll">
+        <p class="admin-nav-label" data-i18n="admin.management">Management</p>
+        <ul class="admin-nav">
+        <li><a href="dashboard.html" class=""><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg><span data-i18n="admin.dashboard">Dashboard</span></a></li>
+        <li><a href="reservations.html" class=""><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"/><rect x="8" y="2" width="8" height="4" rx="1"/><polyline points="9 14 11 16 15 12"/></svg><span data-i18n="admin.bookings">Reservations</span></a></li>
+        <li><a href="tours.html" class=""><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"/><line x1="8" y1="2" x2="8" y2="18"/><line x1="16" y1="6" x2="16" y2="22"/></svg><span data-i18n="admin.tours">Tours</span></a></li>
+        <li><a href="hotels.html" class="is-active"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="3 10 12 4 21 10"/><line x1="3" y1="21" x2="21" y2="21"/><line x1="5" y1="10" x2="5" y2="21"/><line x1="10" y1="10" x2="10" y2="21"/><line x1="14" y1="10" x2="14" y2="21"/><line x1="19" y1="10" x2="19" y2="21"/></svg><span data-i18n="admin.hotels">Hotels</span></a></li>
+        <li><a href="customers.html" class=""><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg><span data-i18n="admin.customers">Customers</span></a></li>
+        <li><a href="media.html" class=""><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><polyline points="21 15 16 10 5 21"/></svg><span data-i18n="admin.media">Media Library</span></a></li>
+        <li><a href="reports.html" class=""><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="20" x2="12" y2="10"/><line x1="18" y1="20" x2="18" y2="4"/><line x1="6" y1="20" x2="6" y2="16"/></svg><span data-i18n="admin.reports">Reports</span></a></li>
+        <li><a href="settings.html" class=""><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.9l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.9-.3 1.7 1.7 0 0 0-1 1.6V21a2 2 0 0 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.6 1.7 1.7 0 0 0-1.9.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.9 1.7 1.7 0 0 0-1.6-1H3a2 2 0 0 1 0-4h.1a1.7 1.7 0 0 0 1.6-1 1.7 1.7 0 0 0-.3-1.9l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.9.3H9a1.7 1.7 0 0 0 1-1.6V3a2 2 0 0 1 4 0v.1a1.7 1.7 0 0 0 1 1.6 1.7 1.7 0 0 0 1.9-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.9V9a1.7 1.7 0 0 0 1.6 1H21a2 2 0 0 1 0 4h-.1a1.7 1.7 0 0 0-1.6 1Z"/></svg><span data-i18n="admin.settings">Settings</span></a></li>
+        </ul>
+      </div>
+      <div class="admin-sidebar__foot">
+        <a href="../index.html" target="_blank"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10Z"/></svg><span data-i18n="admin.view_website">View Website</span></a>
+        <a href="login.html" data-admin-logout style="margin-top:10px;"><svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg><span data-i18n="admin.logout">Logout</span></a>
+      </div>
+    </aside>
+    <div class="admin-main">
+      <div class="admin-topbar">
+      <div class="admin-topbar__title">
+        <button class="admin-burger" id="adminBurger" aria-label="Toggle menu" data-i18n-aria-label="a11y.toggle_menu"><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg></button>
+        <h1 data-i18n="admin.hotels_title">Hotel Management</h1>
+        <span class="badge badge--outline" id="globalDataSourceBadge" style="margin-left:10px;" data-i18n="admin.connecting">Connecting...</span>
+      </div>
+      <div class="admin-topbar__actions">
+        <div class="tb-dropdown" id="adminLangDropdown">
+          <button class="tb-dropdown__btn" type="button" style="color:var(--ink-900);">
+            <img class="tb-dropdown__flag" id="currentLangFlag" data-rel="../" src="../assets/icons/flags/tr.png" alt="">
+            <span id="currentLangLabel">TR</span><svg class="chev" width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9"/></svg>
+          </button>
+          <div class="tb-dropdown__menu">
+          <button class="tb-dropdown__item" data-lang="tr"><img class="tb-dropdown__flag" src="../assets/icons/flags/tr.png" alt=""> Turkce</button><button class="tb-dropdown__item is-active" data-lang="en"><img class="tb-dropdown__flag" src="../assets/icons/flags/gb.png" alt=""> English</button><button class="tb-dropdown__item" data-lang="de"><img class="tb-dropdown__flag" src="../assets/icons/flags/de.png" alt=""> Deutsch</button><button class="tb-dropdown__item" data-lang="ru"><img class="tb-dropdown__flag" src="../assets/icons/flags/ru.png" alt=""> Russkiy</button><button class="tb-dropdown__item" data-lang="pl"><img class="tb-dropdown__flag" src="../assets/icons/flags/pl.png" alt=""> Polski</button>
+          </div>
+        </div>
+        <button class="admin-notif" id="adminNotifBtn" aria-label="Notifications">
+          <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg><span class="admin-notif__dot"></span>
+        </button>
+        <div class="tb-dropdown" id="adminNotifWrap" style="position:relative;">
+          <div class="tb-dropdown__menu" id="adminNotifPanel" style="right:0; left:auto; min-width:300px;">
+            <div style="padding:10px 12px; font-weight:800; font-size:.85rem; color:var(--navy-900);" data-i18n="admin.recent_notifications">Recent Notifications</div>
+            <div style="padding:16px 12px; font-size:.82rem; color:var(--slate-400);" data-i18n="admin.loading">Loading...</div>
+          </div>
+        </div>
+        <div class="admin-user">
+          <img src="../assets/images/common/avatar-admin.png" alt="Admin user" data-i18n-alt="a11y.admin_user">
+          <div><strong data-i18n="admin.user_name">Admin User</strong><span data-i18n="admin.user_role">Administrator</span></div>
+        </div>
+      </div>
+    </div>
+      <div class="admin-content">
+<div id="adminHotelsApp">
+  <div class="panel" style="margin-bottom:20px;">
+    <div class="calendar-note" style="margin:0;">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg><span data-i18n="admin.hotels_note">Hotels added here appear instantly in the searchable "Hotel Name" field on the booking page. Guests can still type a hotel that isn't on this list.</span>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div style="display:flex; justify-content:space-between; align-items:center; gap:16px; margin-bottom:18px; flex-wrap:wrap;">
+      <div class="search-box" style="max-width:320px; flex:1;">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input data-i18n-placeholder="admin.search_hotels_placeholder" id="hotelsSearch" placeholder="Otel ara..." type="text">
+      </div>
+      <button class="btn btn--primary" id="addHotelBtn" type="button"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg><span data-i18n="admin.add_hotel">Add Hotel</span></button>
+    </div>
+
+    <div id="hotelsListWrap">
+      <div class="data-table-wrap">
+      <table class="data-table">
+        <thead>
+          <tr>
+            <th data-i18n="admin.hotel_name">Hotel Name</th>
+            <th data-i18n="admin.date_added">Date Added</th>
+            <th style="width:110px;"></th>
+          </tr>
+        </thead>
+        <tbody id="hotelsTableBody"></tbody>
+      </table>
+      </div>
+      <div id="hotelsEmptyState" style="display:none; text-align:center; padding:40px 20px; color:var(--slate-500);">
+        <span data-i18n="admin.no_hotels_found">No hotels found.</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="hotelFormModal">
+    <div class="modal-box" style="position:relative; max-width:440px;">
+      <button class="modal-close" data-modal-close type="button" aria-label="Close"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg></button>
+      <h3 id="hotelFormTitle" style="margin-bottom:20px;" data-i18n="admin.add_hotel">Add Hotel</h3>
+      <form id="hotelForm">
+        <input type="hidden" id="hotelFormId">
+        <div class="field">
+          <label class="field-label" for="hotelFormName" data-i18n="admin.hotel_name">Hotel Name</label>
+          <input class="input" id="hotelFormName" required autocomplete="off">
+        </div>
+        <div id="hotelFormErrorBox" class="field-error" style="display:none; margin-top:4px;"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m10.29 3.86-8.18 14.14A2 2 0 0 0 3.82 21h16.36a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg><span></span></div>
+        <div style="display:flex; gap:10px; justify-content:flex-end; margin-top:22px;">
+          <button type="button" class="btn btn--ghost" data-modal-close data-i18n="admin.cancel">Cancel</button>
+          <button type="submit" class="btn btn--primary" data-i18n="admin.save">Save</button>
+        </div>
+      </form>
+    </div>
+  </div>
+<div class="modal-overlay" id="hotelDeleteModal">
+    <div class="modal-box" style="max-width:400px; text-align:center;">
+      <div style="width:52px; height:52px; border-radius:50%; background:var(--danger-100); color:var(--danger-600); display:flex; align-items:center; justify-content:center; margin:0 auto 16px;">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m10.29 3.86-8.18 14.14A2 2 0 0 0 3.82 21h16.36a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      </div>
+      <h3 data-i18n="admin.delete_hotel_title">Delete this hotel?</h3>
+      <p style="color:var(--slate-500); font-size:.88rem; margin-bottom:24px;" data-i18n="admin.delete_hotel_body">This hotel will no longer appear in the booking page's hotel list. This can't be undone.</p>
+      <div style="display:flex; gap:10px; justify-content:center;">
+        <button type="button" class="btn btn--ghost" data-delete-cancel data-i18n="admin.cancel">Cancel</button>
+        <button type="button" class="btn btn--danger" data-delete-confirm data-i18n="admin.delete">Delete</button>
+      </div>
+    </div>
+  </div>
+      </div>
+    </div>
+  </div>
+  <script src="../assets/js/utils.js"></script>
+  <script src="../assets/js/data/site-data.js"></script>
+  <script src="../assets/js/data/tours-data.js"></script>
+  <script src="../assets/js/data/countries-data.js"></script>
+  <script src="../assets/js/i18n/bundle.js"></script>
+  <script src="../assets/js/api-client.js"></script>
+  <script src="../assets/js/language.js"></script>
+  <script src="../assets/js/main.js"></script>
+  <script src="../assets/js/admin-common.js"></script>
+  <script src="../assets/js/admin-hotels.js"></script>
+</body>
+</html>

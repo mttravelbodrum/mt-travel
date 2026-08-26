@@ -1,0 +1,425 @@
+{
+ "vip-transfer": {
+  "de": {
+   "name": "VIP-Transfer",
+   "short": "Ein Premiumfahrzeug und privater Chauffeur für Gäste, die zusätzlichen Komfort unterwegs wünschen.",
+   "location": "Bodrum-Halbinsel und Umgebung, Türkei",
+   "duration": "45-70 Minuten (routenabhängig)",
+   "departure": "Auf Anfrage, rund um die Uhr",
+   "return_time": "Nach Vereinbarung",
+   "meeting_point": "Ankunftshalle des Flughafens / Ihre Hotellobby",
+   "description": [
+    "Der VIP-Transfer nimmt den Standard-Flughafen- oder Punkt-zu-Punkt-Transfer und wertet jeden Teil davon auf: ein Premiumfahrzeug, ein professioneller Chauffeur in formeller Kleidung, Flaschenwasser und WLAN an Bord sowie eine spürbar ruhigere Fahrt.",
+    "Eine beliebte Wahl für Geschäftsreisende, Flitterwöchner und alle, die möchten, dass der erste und letzte Eindruck ihrer Reise ebenso stilvoll wirkt wie der Urlaub selbst. Derselbe Premiumstandard gilt, egal ob es zum Flughafen, in eine andere Stadt auf der Halbinsel oder weiter geht."
+   ],
+   "highlights": [
+    "Premium-Fahrzeugklasse (z. B. Mercedes Vito oder gleichwertig)",
+    "Professioneller, formell gekleideter Chauffeur",
+    "Flaschenwasser und WLAN an Bord",
+    "Empfang mit Namensschild",
+    "Verfügbar für Flughafen- oder Überlandrouten",
+    "Rund um die Uhr verfügbar"
+   ],
+   "included": [
+    "Premium-Privatfahrzeug und Chauffeur",
+    "Empfang mit Namensschild",
+    "Flugverfolgung (bei Flughafenrouten)",
+    "Flaschenwasser und WLAN an Bord",
+    "Alle Mautgebühren und Abgaben",
+    "24/7 Verfügbarkeit"
+   ],
+   "excluded": [
+    "Zusätzliche Stopps über die vereinbarte Route hinaus",
+    "Kindersitz (auf Anfrage verfügbar)",
+    "Trinkgeld für den Chauffeur",
+    "Wartezeit über eine Stunde nach Landung hinaus"
+   ],
+   "program": [
+    {"time": "Auf Anfrage", "title": "Buchung bestätigt", "text": "Wir bestätigen Ihren Abholpunkt und -zeit im Voraus."},
+    {"time": "Bei Ankunft", "title": "Empfang", "text": "Ihr Chauffeur empfängt Sie mit einem Namensschild."},
+    {"time": "Unterwegs", "title": "Premium-Fahrt", "text": "Entspannen Sie mit Wasser und WLAN auf dem Weg zu Ihrem Ziel."}
+   ],
+   "faq": [
+    {"q": "Wie unterscheidet sich der VIP-Transfer vom Standard-Flughafentransfer?", "a": "Der VIP-Transfer nutzt eine höhere Fahrzeugklasse, einen formell gekleideten Chauffeur und bietet zusätzliche Annehmlichkeiten wie WLAN - ideal, wenn Komfort ebenso wichtig ist wie das Ankommen."},
+    {"q": "Kann der VIP-Transfer für andere Strecken als den Flughafen genutzt werden?", "a": "Ja, er ist für jede Punkt-zu-Punkt-Strecke in der Region verfügbar, einschließlich Überlandfahrten - teilen Sie uns bei der Buchung einfach Ihre Route mit."},
+    {"q": "Eignet sich das für Geschäftsreisen?", "a": "Ja, es ist eine beliebte Option für Geschäftsgäste, die einen pünktlichen, professionellen Transfer wünschen."},
+    {"q": "Kann ich einen Rück-VIP-Transfer buchen?", "a": "Ja, beide Richtungen können gemeinsam oder separat gebucht werden - teilen Sie uns einfach Ihre Reisedaten bei der Buchung mit."}
+   ]
+  },
+  "ru": {
+   "name": "VIP-трансфер",
+   "short": "Премиальный автомобиль и личный шофёр для гостей, желающих дополнительного комфорта в пути.",
+   "location": "Полуостров Бодрум и окрестности, Турция",
+   "duration": "45-70 минут (в зависимости от маршрута)",
+   "departure": "По запросу, круглосуточно",
+   "return_time": "По договорённости",
+   "meeting_point": "Зал прилёта аэропорта / лобби вашего отеля",
+   "description": [
+    "VIP-трансфер берёт стандартный трансфер из аэропорта или между точками и улучшает каждую его деталь: премиальный автомобиль, профессиональный шофёр в официальной форме, питьевую воду и Wi-Fi в салоне, а также заметно более плавную поездку.",
+    "Популярный выбор среди бизнес-путешественников, молодожёнов и всех, кто хочет, чтобы первое и последнее впечатление от поездки было таким же изысканным, как и сам отдых. Тот же премиальный стандарт применяется независимо от того, едете ли вы в аэропорт, в другой город полуострова или дальше."
+   ],
+   "highlights": [
+    "Автомобиль премиум-класса (например, Mercedes Vito или аналог)",
+    "Профессиональный шофёр в официальной форме",
+    "Питьевая вода и Wi-Fi в салоне",
+    "Встреча с табличкой с именем",
+    "Доступен для маршрутов в аэропорт или между городами",
+    "Доступность 24/7"
+   ],
+   "included": [
+    "Премиальный частный автомобиль и шофёр",
+    "Встреча с табличкой с именем",
+    "Отслеживание рейса (для маршрутов в аэропорт)",
+    "Питьевая вода и Wi-Fi в салоне",
+    "Все дорожные сборы и пошлины",
+    "Доступность 24/7"
+   ],
+   "excluded": [
+    "Дополнительные остановки сверх согласованного маршрута",
+    "Детское автокресло (доступно по запросу)",
+    "Чаевые шофёру",
+    "Время ожидания свыше часа после посадки"
+   ],
+   "program": [
+    {"time": "По запросу", "title": "Подтверждение брони", "text": "Мы заранее согласуем точку и время вашего трансфера."},
+    {"time": "По прибытии", "title": "Встреча", "text": "Ваш шофёр встречает вас с табличкой с именем."},
+    {"time": "В пути", "title": "Премиальная поездка", "text": "Отдыхайте с водой и Wi-Fi по пути к месту назначения."}
+   ],
+   "faq": [
+    {"q": "Чем VIP-трансфер отличается от стандартного трансфера из аэропорта?", "a": "VIP-трансфер использует автомобиль более высокого класса, шофёра в официальной форме и дополнительные удобства, такие как Wi-Fi - идеально, если комфорт важен так же, как и сама поездка."},
+    {"q": "Можно ли использовать VIP-трансфер для маршрутов, отличных от аэропорта?", "a": "Да, он доступен для любых маршрутов между точками в регионе, включая поездки между городами - просто сообщите нам маршрут при бронировании."},
+    {"q": "Подходит ли это для деловых поездок?", "a": "Да, это популярный вариант среди деловых гостей, которые хотят пунктуального, профессионального трансфера."},
+    {"q": "Могу ли я забронировать обратный VIP-трансфер?", "a": "Да, оба направления можно забронировать вместе или отдельно - просто сообщите нам детали поездки при бронировании."}
+   ]
+  },
+  "pl": {
+   "name": "Transfer VIP",
+   "short": "Pojazd klasy premium i prywatny szofer dla gości pragnących dodatkowego komfortu w podróży.",
+   "location": "Półwysep Bodrum i okolice, Turcja",
+   "duration": "45-70 minut (zależnie od trasy)",
+   "departure": "Na życzenie, 24/7",
+   "return_time": "Do uzgodnienia",
+   "meeting_point": "Hala przylotów na lotnisku / lobby hotelowe",
+   "description": [
+    "Transfer VIP bierze standardowy transfer z lotniska lub między punktami i podnosi jakość każdego jego elementu: pojazd klasy premium, profesjonalnego szofera w oficjalnym stroju, wodę butelkowaną i Wi-Fi na pokładzie oraz zauważalnie płynniejszą jazdę.",
+    "To popularny wybór wśród podróżujących służbowo, nowożeńców i każdego, kto chce, by pierwsze i ostatnie wrażenie z podróży było równie eleganckie, co sam wyjazd. Ten sam standard premium obowiązuje niezależnie od tego, czy jadą Państwo na lotnisko, do innego miasta na półwyspie, czy dalej."
+   ],
+   "highlights": [
+    "Pojazd klasy premium (np. Mercedes Vito lub podobny)",
+    "Profesjonalny, oficjalnie ubrany szofer",
+    "Woda butelkowana i Wi-Fi na pokładzie",
+    "Powitanie z tabliczką z nazwiskiem",
+    "Dostępny dla tras lotniskowych i międzymiastowych",
+    "Dostępność 24/7"
+   ],
+   "included": [
+    "Prywatny pojazd klasy premium i szofer",
+    "Powitanie z tabliczką z nazwiskiem",
+    "Śledzenie lotu (dla tras lotniskowych)",
+    "Woda butelkowana i Wi-Fi na pokładzie",
+    "Wszystkie opłaty drogowe i inne",
+    "Dostępność 24/7"
+   ],
+   "excluded": [
+    "Dodatkowe postoje poza uzgodnioną trasą",
+    "Fotelik dziecięcy (dostępny na życzenie)",
+    "Napiwek dla szofera",
+    "Czas oczekiwania powyżej godziny po lądowaniu"
+   ],
+   "program": [
+    {"time": "Na życzenie", "title": "Potwierdzenie rezerwacji", "text": "Potwierdzamy z wyprzedzeniem miejsce i godzinę odbioru."},
+    {"time": "Po przybyciu", "title": "Powitanie", "text": "Szofer spotyka Państwa z tabliczką z nazwiskiem."},
+    {"time": "W trasie", "title": "Jazda klasy premium", "text": "Odpoczywajcie z wodą i Wi-Fi w drodze do celu."}
+   ],
+   "faq": [
+    {"q": "Czym Transfer VIP różni się od standardowego Transferu z Lotniska?", "a": "Transfer VIP wykorzystuje pojazd wyższej klasy, oficjalnie ubranego szofera i dodatkowe udogodnienia, takie jak Wi-Fi - idealny, gdy komfort liczy się tak samo jak dotarcie na miejsce."},
+    {"q": "Czy Transfer VIP można wykorzystać do tras innych niż lotnisko?", "a": "Tak, jest dostępny dla dowolnej trasy między punktami w regionie, w tym podróży międzymiastowych - wystarczy podać nam trasę przy rezerwacji."},
+    {"q": "Czy to dobra opcja na podróż służbową?", "a": "Tak, to popularna opcja wśród gości biznesowych, którzy chcą punktualnego, profesjonalnego transferu."},
+    {"q": "Czy mogę zarezerwować powrotny Transfer VIP?", "a": "Tak, obie trasy można zarezerwować razem lub osobno - wystarczy podać nam szczegóły podróży przy rezerwacji."}
+   ]
+  }
+ },
+ "bodrum-transfer": {
+  "de": {
+   "name": "Bodrum Lokaltransfer",
+   "short": "Komfortable Punkt-zu-Punkt-Transfers zwischen Städten und Hotels auf der gesamten Bodrum-Halbinsel.",
+   "location": "Bodrum, Gumbet, Bitez, Turgutreis, Yalikavak, Gundogan, Torba und weitere",
+   "duration": "20-60 Minuten (routenabhängig)",
+   "departure": "Auf Anfrage",
+   "return_time": "Nach Vereinbarung",
+   "meeting_point": "Ihr Hotel, die Marina oder gewünschter Abholpunkt",
+   "description": [
+    "Die Bodrum-Halbinsel erstreckt sich über mehr Fläche, als es auf der Karte erscheint, mit Ferienorten wie Gumbet, Bitez, Turgutreis, Yalikavak und Gundogan entlang der Küste. Dieser lokale Transferservice bringt Sie schnell und komfortabel zwischen zwei beliebigen Punkten, ohne auf öffentliche Verkehrsfahrpläne oder Taxistände angewiesen zu sein.",
+    "Ob Sie mitten im Aufenthalt das Hotel wechseln, zum Abendessen in die Stadt Bodrum fahren oder Freunde treffen, die anderswo auf der Halbinsel wohnen - Sie werden zur vereinbarten Zeit abgeholt und direkt an Ihr Ziel gebracht."
+   ],
+   "highlights": [
+    "Direkte Transfers zwischen zwei beliebigen Punkten der Halbinsel",
+    "Deckt Bodrum, Gumbet, Bitez, Turgutreis, Yalikavak und mehr ab",
+    "Komfortable, klimatisierte Fahrzeuge",
+    "Bei Buchung vereinbarter Festpreis",
+    "Flexible Zeitplanung passend zu Ihren Plänen",
+    "Freundliche, englischsprachige Fahrer"
+   ],
+   "included": [
+    "Privates Transferfahrzeug",
+    "Abholung am gewünschten Ort",
+    "Direktes Absetzen an Ihrem Ziel",
+    "Flaschenwasser an Bord",
+    "Alle Mautgebühren und Abgaben",
+    "Flexible Terminplanung"
+   ],
+   "excluded": [
+    "Zusätzliche Stopps über die vereinbarte Route hinaus",
+    "Wartezeit über 15 Minuten hinaus",
+    "Trinkgeld für den Fahrer",
+    "Gepäck über das Standardlimit hinaus bei sehr großen Gruppen"
+   ],
+   "program": [
+    {"time": "Auf Anfrage", "title": "Buchung bestätigt", "text": "Wir bestätigen Ihren Abholpunkt, Zielort und die Uhrzeit."},
+    {"time": "Pünktlich", "title": "Abholung", "text": "Ihr Fahrer trifft am vereinbarten Ort ein."},
+    {"time": "Direkt", "title": "Transfer", "text": "Eine direkte, komfortable Fahrt zu Ihrem Ziel."}
+   ],
+   "faq": [
+    {"q": "Kann ich einen Lokaltransfer für denselben Tag buchen?", "a": "Ja, lokale Transfers lassen sich in der Regel kurzfristig arrangieren, abhängig von der Fahrerverfügbarkeit - kontaktieren Sie uns direkt für dringende Anfragen."},
+    {"q": "Decken Sie alle Orte auf der Halbinsel ab?", "a": "Ja, wir bedienen die Stadt Bodrum und alle umliegenden Ferienorte, einschließlich Gumbet, Bitez, Turgutreis, Yalikavak, Gundogan und Torba."},
+    {"q": "Ist dies ein geteiltes oder privates Fahrzeug?", "a": "Dies ist ein privater, direkter Transfer nur für Ihre Gruppe."},
+    {"q": "Kann ich eine Hin- und Rückfahrt buchen?", "a": "Ja, teilen Sie uns bei der Buchung einfach Ihre Hin- und Rückfahrtzeiten mit."}
+   ]
+  },
+  "ru": {
+   "name": "Местный трансфер по Бодруму",
+   "short": "Комфортные трансферы между городами и отелями по всему полуострову Бодрум.",
+   "location": "Бодрум, Гюмбет, Битез, Тургутреис, Ялыкавак, Гюндоган, Торба и другие",
+   "duration": "20-60 минут (в зависимости от маршрута)",
+   "departure": "По запросу",
+   "return_time": "По договорённости",
+   "meeting_point": "Ваш отель, марина или запрошенная точка встречи",
+   "description": [
+    "Полуостров Бодрум занимает большую территорию, чем кажется на карте, а курортные городки, такие как Гюмбет, Битез, Тургутреис, Ялыкавак и Гюндоган, растянуты вдоль побережья. Эта услуга местного трансфера быстро и комфортно доставит вас между любыми двумя точками, без привязки к расписанию общественного транспорта или стоянкам такси.",
+    "Переезжаете ли вы в другой отель в середине отдыха, направляетесь на ужин в город Бодрум или встречаетесь с друзьями, остановившимися в другой части полуострова - вас заберут в согласованное время и отвезут прямо к месту назначения."
+   ],
+   "highlights": [
+    "Прямые трансферы между любыми двумя точками полуострова",
+    "Охватывает Бодрум, Гюмбет, Битез, Тургутреис, Ялыкавак и другие",
+    "Комфортные кондиционированные автомобили",
+    "Фиксированная цена, согласованная при бронировании",
+    "Гибкое время в соответствии с вашими планами",
+    "Дружелюбные англоговорящие водители"
+   ],
+   "included": [
+    "Частный автомобиль трансфера",
+    "Забор из выбранного места",
+    "Прямая высадка в пункте назначения",
+    "Питьевая вода в машине",
+    "Все дорожные сборы и пошлины",
+    "Гибкое планирование"
+   ],
+   "excluded": [
+    "Дополнительные остановки сверх согласованного маршрута",
+    "Время ожидания свыше 15 минут",
+    "Чаевые водителю",
+    "Багаж сверх стандартной нормы для очень больших групп"
+   ],
+   "program": [
+    {"time": "По запросу", "title": "Подтверждение брони", "text": "Мы согласуем точку отправления, назначения и время."},
+    {"time": "Вовремя", "title": "Встреча", "text": "Ваш водитель прибывает в согласованное место."},
+    {"time": "Напрямую", "title": "Трансфер", "text": "Прямая, комфортная поездка до места назначения."}
+   ],
+   "faq": [
+    {"q": "Можно ли забронировать местный трансфер в тот же день?", "a": "Да, местные трансферы обычно можно организовать с небольшим уведомлением, в зависимости от наличия водителей - для срочных запросов свяжитесь с нами напрямую."},
+    {"q": "Вы обслуживаете все города на полуострове?", "a": "Да, мы обслуживаем город Бодрум и все окрестные курортные зоны, включая Гюмбет, Битез, Тургутреис, Ялыкавак, Гюндоган и Торба."},
+    {"q": "Это общий или частный автомобиль?", "a": "Это частный, прямой трансфер только для вашей группы."},
+    {"q": "Могу ли я забронировать поездку туда и обратно?", "a": "Да, просто сообщите нам время отправления и возвращения при бронировании."}
+   ]
+  },
+  "pl": {
+   "name": "Transfer Lokalny w Bodrum",
+   "short": "Komfortowe transfery między miastami a hotelami na całym półwyspie Bodrum.",
+   "location": "Bodrum, Gumbet, Bitez, Turgutreis, Yalikavak, Gundogan, Torba i dalej",
+   "duration": "20-60 minut (zależnie od trasy)",
+   "departure": "Na życzenie",
+   "return_time": "Do uzgodnienia",
+   "meeting_point": "Państwa hotel, marina lub żądany punkt odbioru",
+   "description": [
+    "Półwysep Bodrum zajmuje większy obszar, niż wydaje się na mapie, a miejscowości wypoczynkowe takie jak Gumbet, Bitez, Turgutreis, Yalikavak i Gundogan rozciągają się wzdłuż wybrzeża. Ta lokalna usługa transferowa szybko i komfortowo przewiezie Państwa między dowolnymi dwoma punktami, bez polegania na rozkładach transportu publicznego czy postojach taksówek.",
+    "Niezależnie od tego, czy zmieniają Państwo hotel w trakcie pobytu, jadą na kolację do miasta Bodrum, czy spotykają się z przyjaciółmi zatrzymanymi gdzie indziej na półwyspie - zostaną Państwo odebrani o uzgodnionej porze i zawiezieni bezpośrednio do celu."
+   ],
+   "highlights": [
+    "Bezpośrednie transfery między dowolnymi dwoma punktami półwyspu",
+    "Obejmuje Bodrum, Gumbet, Bitez, Turgutreis, Yalikavak i więcej",
+    "Komfortowe, klimatyzowane pojazdy",
+    "Stała cena uzgodniona przy rezerwacji",
+    "Elastyczny czas dostosowany do Państwa planów",
+    "Przyjaźni, anglojęzyczni kierowcy"
+   ],
+   "included": [
+    "Prywatny pojazd transferowy",
+    "Odbiór z wybranej lokalizacji",
+    "Bezpośrednie dowiezienie do celu",
+    "Woda butelkowana w pojeździe",
+    "Wszystkie opłaty drogowe i inne",
+    "Elastyczne planowanie"
+   ],
+   "excluded": [
+    "Dodatkowe postoje poza uzgodnioną trasą",
+    "Czas oczekiwania powyżej 15 minut",
+    "Napiwek dla kierowcy",
+    "Bagaż powyżej standardowego limitu dla bardzo dużych grup"
+   ],
+   "program": [
+    {"time": "Na życzenie", "title": "Potwierdzenie rezerwacji", "text": "Potwierdzamy punkt odbioru, cel podróży i godzinę."},
+    {"time": "Na czas", "title": "Odbiór", "text": "Kierowca przybywa na uzgodnione miejsce."},
+    {"time": "Bezpośrednio", "title": "Transfer", "text": "Bezpośrednia, komfortowa jazda do celu."}
+   ],
+   "faq": [
+    {"q": "Czy mogę zarezerwować transfer lokalny tego samego dnia?", "a": "Tak, transfery lokalne zazwyczaj można zorganizować z krótkim wyprzedzeniem, w zależności od dostępności kierowców - w pilnych sprawach prosimy o bezpośredni kontakt."},
+    {"q": "Czy obsługujecie wszystkie miejscowości na półwyspie?", "a": "Tak, obsługujemy miasto Bodrum i wszystkie okoliczne miejscowości wypoczynkowe, w tym Gumbet, Bitez, Turgutreis, Yalikavak, Gundogan i Torba."},
+    {"q": "Czy to pojazd współdzielony czy prywatny?", "a": "To prywatny, bezpośredni transfer wyłącznie dla Państwa grupy."},
+    {"q": "Czy mogę zarezerwować przejazd w obie strony?", "a": "Tak, wystarczy podać nam godziny wyjazdu i powrotu przy rezerwacji."}
+   ]
+  }
+ },
+ "private-tours": {
+  "de": {
+   "name": "Private Touren",
+   "short": "Ein eigener Guide und Fahrzeug, um jedes unserer Ziele zu einem vollständig personalisierten Tag zu gestalten.",
+   "location": "Bodrum-Halbinsel und Region, Türkei",
+   "duration": "Flexibel - Ganz- oder Halbtägig",
+   "departure": "Flexibel, nach Vereinbarung",
+   "return_time": "Flexibel",
+   "meeting_point": "Ihre Hotellobby",
+   "description": [
+    "Private Touren gibt es für Gäste, die ihren Tag lieber nicht mit einem Bus voller Fremder teilen möchten. Sie erhalten ein eigenes Fahrzeug, einen Fahrer und einen englischsprachigen Guide sowie ein Programm, das um das aufgebaut ist, was Sie wirklich sehen möchten - sei es ein Ziel in entspanntem Tempo oder mehrere an einem einzigen Tag.",
+    "Besonders beliebt bei Familien mit kleinen Kindern, Gästen mit eingeschränkter Mobilität und allen, die einen besonderen Anlass feiern und die volle Kontrolle über die Zeitplanung wünschen. Teilen Sie uns Ihre Interessen und Ihren Reisestil mit, und wir schlagen eine passende Route vor."
+   ],
+   "highlights": [
+    "Eigenes privates Fahrzeug und Guide",
+    "Vollständig anpassbares Programm und Tempo",
+    "Kombinieren Sie bei Bedarf mehrere Ziele an einem Tag",
+    "Flexible Startzeit und Dauer",
+    "Ideal für Familien und besondere Anlässe",
+    "Persönliche Empfehlungen unterwegs"
+   ],
+   "included": [
+    "Privates Fahrzeug und Fahrer für den Tag",
+    "Englischsprachiger privater Guide",
+    "Hotelabholung und -rückbringung",
+    "Routenplanungsberatung vor Ihrer Reise",
+    "Flaschenwasser an Bord",
+    "Reiseversicherung"
+   ],
+   "excluded": [
+    "Eintrittsgebühren zu besuchten Stätten (je nach Programm unterschiedlich)",
+    "Mittagessen und Getränke (auf Anfrage arrangierbar)",
+    "Optionale Aktivitäten innerhalb des Programms",
+    "Trinkgeld für Guide und Fahrer"
+   ],
+   "program": [
+    {"time": "Vor der Reise", "title": "Programmplanung", "text": "Wir besprechen Ihre Interessen und schlagen eine personalisierte Route vor."},
+    {"time": "Nach Vereinbarung", "title": "Hotelabholung", "text": "Ihr privater Guide und Fahrer holen Sie zur vereinbarten Zeit ab."},
+    {"time": "Flexibel", "title": "Ihr Tag, Ihr Tempo", "text": "Besuchen Sie Ihre ausgewählten Ziele mit so viel Zeit wie gewünscht an jedem Ort."},
+    {"time": "Flexibel", "title": "Rückfahrt", "text": "Rückkehr zu Ihrem Hotel, wann immer Ihr Tag sich natürlich abrundet."}
+   ],
+   "faq": [
+    {"q": "Können wir mehr als ein Ziel kombinieren?", "a": "Ja, das ist eine der beliebtesten Nutzungen einer privaten Tour - wir helfen Ihnen, basierend auf den Reisezeiten eine realistische Kombination zu planen."},
+    {"q": "Wie weit im Voraus sollten wir buchen?", "a": "Wir empfehlen mindestens 2-3 Tage Vorlauf, damit wir die Route ordentlich planen können, obwohl kurzfristige Anfragen manchmal möglich sind."},
+    {"q": "Ist das teurer als eine Gruppentour?", "a": "Ja, private Touren kosten mehr als die Teilnahme an einer geteilten Gruppentour, was das eigene Fahrzeug, den Guide und das flexible Programm widerspiegelt."},
+    {"q": "Kann der Guide andere Sprachen als Englisch sprechen?", "a": "Bitte teilen Sie uns bei der Anfrage Ihre bevorzugte Sprache mit, wir bemühen uns, Sie mit einem passenden Guide zusammenzubringen."}
+   ]
+  },
+  "ru": {
+   "name": "Частные туры",
+   "short": "Персональный гид и автомобиль, чтобы превратить любое из наших направлений в полностью индивидуальный день.",
+   "location": "Полуостров Бодрум и регион, Турция",
+   "duration": "Гибко - весь день или полдня",
+   "departure": "Гибко, по договорённости",
+   "return_time": "Гибко",
+   "meeting_point": "Лобби вашего отеля",
+   "description": [
+    "Частные туры существуют для гостей, которые предпочитают не делить свой день с автобусом, полным незнакомцев. Вы получаете отдельный автомобиль, водителя и англоговорящего гида, а программа строится вокруг того, что вы действительно хотите увидеть - будь то одно направление в спокойном темпе или несколько за один день.",
+    "Особенно популярен среди семей с маленькими детьми, гостей с ограниченной подвижностью и всех, кто отмечает особый случай и хочет полностью контролировать расписание. Расскажите нам о своих интересах и стиле путешествия, и мы предложим подходящий маршрут."
+   ],
+   "highlights": [
+    "Персональный частный автомобиль и гид",
+    "Полностью настраиваемая программа и темп",
+    "При желании объедините несколько направлений в один день",
+    "Гибкое время начала и продолжительность",
+    "Идеально для семей и особых случаев",
+    "Персональные рекомендации в пути"
+   ],
+   "included": [
+    "Частный автомобиль и водитель на весь день",
+    "Англоговорящий частный гид",
+    "Трансфер от отеля и обратно",
+    "Консультация по планированию маршрута перед поездкой",
+    "Питьевая вода в машине",
+    "Страховка"
+   ],
+   "excluded": [
+    "Входные билеты в посещаемые места (различаются в зависимости от программы)",
+    "Обед и напитки (можно организовать по запросу)",
+    "Дополнительные активности в рамках программы",
+    "Чаевые гиду и водителю"
+   ],
+   "program": [
+    {"time": "Перед поездкой", "title": "Планирование программы", "text": "Мы обсуждаем ваши интересы и предлагаем индивидуальный маршрут."},
+    {"time": "По договорённости", "title": "Трансфер из отеля", "text": "Ваш личный гид и водитель забирают вас в согласованное время."},
+    {"time": "Гибко", "title": "Ваш день, ваш темп", "text": "Посетите выбранные направления, уделяя каждому столько времени, сколько пожелаете."},
+    {"time": "Гибко", "title": "Возвращение", "text": "Возвращение в отель, когда ваш день естественным образом подойдёт к концу."}
+   ],
+   "faq": [
+    {"q": "Можем ли мы объединить несколько направлений?", "a": "Да, это один из самых популярных вариантов использования частного тура - мы поможем спланировать реалистичную комбинацию с учётом времени в пути."},
+    {"q": "За сколько нужно бронировать заранее?", "a": "Рекомендуем как минимум 2-3 дня для того, чтобы мы могли правильно спланировать маршрут, хотя иногда возможны и запросы в последний момент."},
+    {"q": "Это дороже группового тура?", "a": "Да, частные туры стоят дороже участия в групповом туре, что отражает отдельный автомобиль, гида и гибкую программу."},
+    {"q": "Может ли гид говорить на языках, кроме английского?", "a": "Пожалуйста, сообщите нам предпочитаемый язык при запросе, и мы постараемся подобрать подходящего гида."}
+   ]
+  },
+  "pl": {
+   "name": "Wycieczki Prywatne",
+   "short": "Dedykowany przewodnik i pojazd, by zamienić dowolne z naszych miejsc w w pełni spersonalizowany dzień.",
+   "location": "Półwysep Bodrum i region, Turcja",
+   "duration": "Elastyczny - Cały lub pół dnia",
+   "departure": "Elastyczny, do uzgodnienia",
+   "return_time": "Elastyczny",
+   "meeting_point": "Lobby Państwa hotelu",
+   "description": [
+    "Wycieczki Prywatne istnieją dla gości, którzy wolą nie dzielić swojego dnia z autobusem pełnym obcych osób. Otrzymują Państwo dedykowany pojazd, kierowcę i anglojęzycznego przewodnika oraz program zbudowany wokół tego, co naprawdę chcą Państwo zobaczyć - niezależnie od tego, czy to jedno miejsce w spokojnym tempie, czy kilka w jednym dniu.",
+    "Szczególnie popularne wśród rodzin z małymi dziećmi, gości z ograniczoną mobilnością oraz wszystkich świętujących szczególną okazję, którzy chcą mieć pełną kontrolę nad harmonogramem. Proszę powiedzieć nam o swoich zainteresowaniach i stylu podróżowania, a zaproponujemy odpowiednią trasę."
+   ],
+   "highlights": [
+    "Dedykowany prywatny pojazd i przewodnik",
+    "W pełni dostosowywalny program i tempo",
+    "Możliwość połączenia kilku miejsc w jednym dniu",
+    "Elastyczna godzina rozpoczęcia i czas trwania",
+    "Idealne dla rodzin i szczególnych okazji",
+    "Osobiste rekomendacje w trakcie podróży"
+   ],
+   "included": [
+    "Prywatny pojazd i kierowca na cały dzień",
+    "Anglojęzyczny prywatny przewodnik",
+    "Odbiór i powrót z hotelu",
+    "Konsultacja w zakresie planowania trasy przed wyjazdem",
+    "Woda butelkowana w pojeździe",
+    "Ubezpieczenie podróżne"
+   ],
+   "excluded": [
+    "Bilety wstępu do odwiedzanych miejsc (różnią się w zależności od programu)",
+    "Obiad i napoje (można zorganizować na życzenie)",
+    "Opcjonalne atrakcje w ramach programu",
+    "Napiwki dla przewodnika i kierowcy"
+   ],
+   "program": [
+    {"time": "Przed podróżą", "title": "Planowanie programu", "text": "Omawiamy Państwa zainteresowania i proponujemy spersonalizowaną trasę."},
+    {"time": "Do uzgodnienia", "title": "Odbiór z hotelu", "text": "Państwa prywatny przewodnik i kierowca odbierają Państwa o uzgodnionej porze."},
+    {"time": "Elastyczny", "title": "Wasz dzień, wasze tempo", "text": "Odwiedźcie wybrane miejsca, spędzając w każdym tyle czasu, ile zechcecie."},
+    {"time": "Elastyczny", "title": "Powrót", "text": "Powrót do hotelu, gdy Państwa dzień naturalnie dobiegnie końca."}
+   ],
+   "faq": [
+    {"q": "Czy możemy połączyć więcej niż jedno miejsce?", "a": "Tak, to jedno z najpopularniejszych zastosowań Wycieczki Prywatnej - pomożemy zaplanować realistyczną kombinację w oparciu o czas podróży."},
+    {"q": "Z jakim wyprzedzeniem powinniśmy rezerwować?", "a": "Zalecamy co najmniej 2-3 dni wyprzedzenia, abyśmy mogli odpowiednio zaplanować trasę, choć czasem możliwe są też prośby z krótkim wyprzedzeniem."},
+    {"q": "Czy to droższe niż wycieczka grupowa?", "a": "Tak, wycieczki prywatne kosztują więcej niż udział we wspólnej wycieczce grupowej, co odzwierciedla dedykowany pojazd, przewodnika i elastyczny program."},
+    {"q": "Czy przewodnik może mówić w innych językach niż angielski?", "a": "Prosimy o podanie preferowanego języka przy zapytaniu, a dołożymy starań, aby dobrać odpowiedniego przewodnika."}
+   ]
+  }
+ }
+}

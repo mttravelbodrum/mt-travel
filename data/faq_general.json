@@ -1,0 +1,122 @@
+{
+  "categories": [
+    {
+      "id": "booking",
+      "title_en": "Booking",
+      "title_tr": "Rezervasyon",
+      "items": [
+        {
+          "q_en": "How do I book a tour with MT Travel?",
+          "q_tr": "MT Travel ile bir turu nasıl rezerve ederim?",
+          "a_en": "You can book directly on our website by selecting a tour, choosing your date and number of guests, and completing the booking form. You can also book by phone or WhatsApp if you'd prefer to speak with our team first.",
+          "a_tr": "Web sitemizden bir tur seçip tarih ve misafir sayınızı belirleyerek ve rezervasyon formunu doldurarak doğrudan rezervasyon yapabilirsiniz. Önce ekibimizle konuşmayı tercih ederseniz telefon veya WhatsApp üzerinden de rezervasyon yapabilirsiniz."
+        },
+        {
+          "q_en": "How far in advance should I book?",
+          "q_tr": "Ne kadar önceden rezervasyon yapmalıyım?",
+          "a_en": "Island tours (Kos, Leros, Kalymnos) require at least one day's advance notice due to ferry scheduling. Most other tours can be booked the same day, subject to availability, though we recommend booking a few days ahead in peak season.",
+          "a_tr": "Ada turları (Kos, Leros, Kalymnos), feribot programı nedeniyle en az bir gün önceden bildirim gerektirir. Diğer turların çoğu müsaitlik durumuna bağlı olarak aynı gün rezerve edilebilir, ancak yoğun sezonda birkaç gün önceden rezervasyon yapmanızı öneririz."
+        },
+        {
+          "q_en": "Can I change my booking date after confirming?",
+          "q_tr": "Onayladıktan sonra rezervasyon tarihimi değiştirebilir miyim?",
+          "a_en": "Yes, contact our team as early as possible and we'll do our best to move your booking to a new date, subject to availability.",
+          "a_tr": "Evet, mümkün olan en kısa sürede ekibimizle iletişime geçin, müsaitlik durumuna bağlı olarak rezervasyonunuzu yeni bir tarihe taşımak için elimizden geleni yapalım."
+        },
+        {
+          "q_en": "Do you offer group discounts?",
+          "q_tr": "Grup indirimi sunuyor musunuz?",
+          "a_en": "Yes, larger groups may be eligible for a discount depending on the tour and season. Contact us directly with your group size for a custom quote.",
+          "a_tr": "Evet, tura ve sezona bağlı olarak büyük gruplar indirimden yararlanabilir. Özel bir fiyat teklifi için grup büyüklüğünüzle birlikte doğrudan bizimle iletişime geçin."
+        }
+      ]
+    },
+    {
+      "id": "payment",
+      "title_en": "Payment",
+      "title_tr": "Ödeme",
+      "items": [
+        {
+          "q_en": "What payment methods do you accept?",
+          "q_tr": "Hangi ödeme yöntemlerini kabul ediyorsunuz?",
+          "a_en": "We accept secure online card payment, a Reserve Now Pay Later option settled on the day of your tour, and direct bank transfer.",
+          "a_tr": "Güvenli çevrimiçi kart ödemesi, turunuzun günü ödenen Şimdi Ayırt Sonra Öde seçeneği ve doğrudan banka havalesini kabul ediyoruz."
+        },
+        {
+          "q_en": "Is online payment secure?",
+          "q_tr": "Çevrimiçi ödeme güvenli mi?",
+          "a_en": "Yes, all online payments are processed through an encrypted, secure checkout. We never store your full card details on our servers.",
+          "a_tr": "Evet, tüm çevrimiçi ödemeler şifrelenmiş, güvenli bir ödeme sayfası üzerinden işlenir. Kart bilgilerinizin tamamını sunucularımızda asla saklamayız."
+        },
+        {
+          "q_en": "Is there a discount for paying online?",
+          "q_tr": "Çevrimiçi ödemede indirim var mı?",
+          "a_en": "Yes, guests who pay online in advance receive a small discount compared to the standard tour price, shown clearly at checkout.",
+          "a_tr": "Evet, önceden çevrimiçi ödeme yapan misafirler, ödeme sayfasında açıkça gösterilen, standart tur fiyatına göre küçük bir indirimden yararlanır."
+        },
+        {
+          "q_en": "How does bank transfer payment work?",
+          "q_tr": "Banka havalesi ödemesi nasıl işliyor?",
+          "a_en": "After choosing bank transfer at checkout, you'll receive our IBAN and instructions. Please include your booking number and tour name in the transfer description, then send us the receipt by WhatsApp or email.",
+          "a_tr": "Ödeme sayfasında banka havalesini seçtikten sonra IBAN bilgilerimizi ve talimatları alırsınız. Lütfen havale açıklamasına rezervasyon numaranızı ve tur adını ekleyin, ardından dekontu WhatsApp veya e-posta ile bize gönderin."
+        }
+      ]
+    },
+    {
+      "id": "tours",
+      "title_en": "Tours & Activities",
+      "title_tr": "Turlar ve Aktiviteler",
+      "items": [
+        {
+          "q_en": "Do I need a passport for the island tours?",
+          "q_tr": "Ada turları için pasaport gerekli mi?",
+          "a_en": "Yes, a valid passport is required for the Kos, Leros and Kalymnos island tours, as they involve a ferry crossing into Greece. Please check any visa requirements for your nationality before booking.",
+          "a_tr": "Evet, Kos, Leros ve Kalymnos ada turları Yunanistan'a feribotla geçiş içerdiğinden geçerli bir pasaport gereklidir. Rezervasyon öncesinde uyruğunuza ait vize şartlarını kontrol etmenizi rica ederiz."
+        },
+        {
+          "q_en": "Is hotel pick-up included?",
+          "q_tr": "Otel alışı dahil mi?",
+          "a_en": "Most of our tours include hotel pick-up and drop-off across the Bodrum peninsula. This is confirmed on each individual tour page.",
+          "a_tr": "Turlarımızın çoğu, Bodrum yarımadası genelinde otel alış ve bırakış hizmetini içerir. Bu durum her tur sayfasında ayrı ayrı teyit edilmektedir."
+        },
+        {
+          "q_en": "What should I bring on a boat tour?",
+          "q_tr": "Bir tekne turuna ne getirmeliyim?",
+          "a_en": "A swimsuit, towel, sunscreen and a change of clothes are recommended for any of our boat trips or water-based tours.",
+          "a_tr": "Tekne turlarımızın veya su bazlı turlarımızın herhangi biri için mayo, havlu, güneş kremi ve yedek kıyafet önerilir."
+        },
+        {
+          "q_en": "Are your tours suitable for children?",
+          "q_tr": "Turlarınız çocuklar için uygun mu?",
+          "a_en": "Most tours are family-friendly and offer a discounted child price. A few adventure tours have minimum age guidance, which is listed on each tour's FAQ section.",
+          "a_tr": "Turlarımızın çoğu aile dostudur ve indirimli çocuk fiyatı sunar. Bazı macera turlarında minimum yaş yönlendirmesi bulunur, bu bilgi her turun SSS bölümünde belirtilmiştir."
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title_en": "General",
+      "title_tr": "Genel",
+      "items": [
+        {
+          "q_en": "What languages does your team speak?",
+          "q_tr": "Ekibiniz hangi dilleri konuşuyor?",
+          "a_en": "Our guides and support team communicate in Turkish, English, German, Russian and Polish.",
+          "a_tr": "Rehberlerimiz ve destek ekibimiz Turkce, Ingilizce, Almanca, Rusca ve Lehce dillerinde iletisim kurabilmektedir."
+        },
+        {
+          "q_en": "How can I contact MT Travel?",
+          "q_tr": "MT Travel ile nasıl iletişime geçebilirim?",
+          "a_en": "You can reach us by phone, WhatsApp or email, all listed in the top information bar and on our Contact page. Our team is available daily.",
+          "a_tr": "Üst bilgi çubuğunda ve İletişim sayfamızda yer alan telefon, WhatsApp veya e-posta yoluyla bize ulaşabilirsiniz. Ekibimiz her gün hizmetinizdedir."
+        },
+        {
+          "q_en": "What is your cancellation policy?",
+          "q_tr": "İptal politikanız nedir?",
+          "a_en": "Cancellation terms vary slightly by tour and are outlined in full in our Cancellation Policy, linked in the footer of every page.",
+          "a_tr": "İptal koşulları tura göre az miktarda değişiklik gösterebilir ve her sayfanın alt bilgisinde yer alan İptal Politikamızda tam olarak açıklanmıştır."
+        }
+      ]
+    }
+  ]
+}

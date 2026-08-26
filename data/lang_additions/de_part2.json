@@ -1,0 +1,340 @@
+{
+  "jeep-safari": {
+    "name": "Jeep Safari Abenteuer",
+    "short": "Ein offener Jeep-Konvoi durch Bodrums Hügel, Mandarinenhaine und Bergdörfer.",
+    "location": "Hinterland der Bodrum-Halbinsel, Türkei",
+    "duration": "6 Stunden - Halbtags",
+    "departure": "09:00 Uhr, täglich",
+    "return_time": "15:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Tauschen Sie die Küste gegen die Berge bei diesem offenen Jeep-Konvoi durch die wildere Seite der Bodrum-Halbinsel. Ihr Fahrer führt eine kleine Gruppe von Geländewagen über Feldwege durch Pinienwälder, Mandarinen- und Olivenhaine sowie verschlafene Bergdörfer, die die meisten Besucher nie zu Gesicht bekommen.",
+      "Es gibt regelmäßige Fotostopps an Panoramablicken über die Ägäis, einen Wasser- und Schlammabschnitt, der immer für Lacher sorgt, sowie eine Dorfpause, bei der Sie frische lokale Produkte oder ein kaltes Getränk erwerben können. Ein staubiger, energiegeladener Kontrast zu einem Strandtag - und ein guter dazu."
+    ],
+    "highlights": [
+      "Offener Geländewagen-Konvoi durch das Hinterland der Halbinsel",
+      "Bergaussichtspunkte über die Ägäisküste",
+      "Mandarinen- und Olivenhain-Landschaft",
+      "Spielerischer Wasser- und Schlammabschnitt",
+      "Stopp in einem traditionellen Bergdorf",
+      "Kleiner Konvoi für ein persönliches Tempo"
+    ],
+    "included": [
+      "Jeepsitz in einem gemeinsamen Geländewagen-Konvoi",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachiger Fahrer-Guide",
+      "Wasserflaschen im Fahrzeug",
+      "Dorfstopp mit Freizeit",
+      "Versicherung während des Ausflugs"
+    ],
+    "excluded": [
+      "Mittagessen und Snacks (im Dorf erhältlich)",
+      "Persönliche Ausgaben und Souvenirs",
+      "Wechselkleidung bei Teilnahme am Schlammabschnitt",
+      "Trinkgeld für den Fahrer"
+    ],
+    "program": [
+      {"time": "09:00", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Startpunkt des Konvois."},
+      {"time": "09:45", "title": "In die Berge", "text": "Der Jeep-Konvoi beginnt den Aufstieg über Wald- und Hainwege."},
+      {"time": "11:00", "title": "Aussichtspunkt-Stopp", "text": "Fotostopp mit Blick über die Ägäisküste."},
+      {"time": "12:00", "title": "Wasser- und Schlammabschnitt", "text": "Ein spielerischer Geländeabschnitt mit Wasser- und Schlammdurchquerungen."},
+      {"time": "13:00", "title": "Dorfpause", "text": "Freizeit in einem Bergdorf für ein Getränk oder lokalen Snack."},
+      {"time": "14:30", "title": "Rückfahrt", "text": "Der Konvoi kehrt zurück, Sie werden an Ihrem Hotel abgesetzt."}
+    ],
+    "faq": [
+      {"q": "Brauche ich Geländewagen-Erfahrung?", "a": "Nein, ein erfahrener Fahrer-Guide führt den Konvoi in einem gemeinsamen Jeep - Sie genießen einfach die Fahrt."},
+      {"q": "Werde ich nass oder schmutzig?", "a": "Die Teilnahme am Wasser- und Schlammabschnitt ist optional, aber etwas Wasser oder Staub auf der Strecke gehört zum Spaß dazu - wir empfehlen Kleidung, die schmutzig werden darf."},
+      {"q": "Ist die Jeep Safari für Kinder geeignet?", "a": "Ja, Kinder sind willkommen, das holprige Gelände eignet sich jedoch am besten für Kinder ab 5 Jahren."},
+      {"q": "Ist das Mittagessen inbegriffen?", "a": "Das Mittagessen ist nicht inbegriffen, im Dorfstopp gibt es jedoch Snack- und Getränkeoptionen; lassen Sie uns wissen, wenn Sie eine Tour mit Mittagessen bevorzugen."}
+    ]
+  },
+  "atv-safari": {
+    "name": "ATV Safari",
+    "short": "Übernehmen Sie das Steuer für ein selbstgefahrenes Quad-Abenteuer auf den Feldwegen der Halbinsel.",
+    "location": "Hinterland der Bodrum-Halbinsel, Türkei",
+    "duration": "3 Stunden - Halbtags",
+    "departure": "10:00 und 14:00 Uhr, täglich",
+    "return_time": "13:00 / 17:00 Uhr",
+    "meeting_point": "ATV-Basislager (Hotelabholung verfügbar)",
+    "description": [
+      "Wenn es bei der Jeep Safari um die Aussicht geht, dreht sich die ATV Safari ums Fahren. Nach einer kurzen Sicherheitseinweisung übernehmen Sie das Steuer Ihres eigenen Quads und folgen Ihrem Guide über staubige Pfade, Waldwege und offenes Land am Rand der Halbinsel.",
+      "Es sind aktive, praktische Stunden - Quads mit einem oder zwei Sitzen stehen zur Verfügung, sodass sich das Angebot gleichermaßen für Alleinreisende und Paare eignet. Ein kurzer Rastplatz lässt Sie verschnaufen und Fotos machen, bevor es zurück zur Basis geht."
+    ],
+    "highlights": [
+      "Selbstgefahrenes Quad, kein Führerschein erforderlich",
+      "Geführter Konvoi über Wald- und Feldwege",
+      "Ein- und Zweisitzer-Quads verfügbar",
+      "Sicherheitseinweisung und Helm inklusive",
+      "Malerischer Rastplatz auf halber Strecke",
+      "Kompaktes Halbtagesformat"
+    ],
+    "included": [
+      "Quad-Miete für die Strecke",
+      "Helm und Sicherheitsausrüstung",
+      "Sicherheitseinweisung und Proberunde",
+      "Englischsprachiger Guide",
+      "Hotelabholung und -rückbringung",
+      "Wasserflasche"
+    ],
+    "excluded": [
+      "Kraftstoffzuschlag bei längeren Strecken (selten, wird vorab mitgeteilt)",
+      "Persönliche Ausgaben",
+      "Foto-/Videopaket (käuflich erhältlich)",
+      "Trinkgeld für den Guide"
+    ],
+    "program": [
+      {"time": "09:30", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Basislager."},
+      {"time": "10:00", "title": "Sicherheitseinweisung", "text": "Erklärung der Quad-Bedienung und Sicherheitsregeln sowie eine kurze Proberunde."},
+      {"time": "10:20", "title": "Geführte Fahrt", "text": "Folgen Sie Ihrem Guide über Wald- und Landpfade."},
+      {"time": "11:15", "title": "Rastplatz", "text": "Kurze Pause für Wasser und Fotos an einem malerischen Punkt."},
+      {"time": "12:40", "title": "Rückkehr zur Basis", "text": "Der Konvoi kehrt zum Basislager zurück, Transfer zu Ihrem Hotel."}
+    ],
+    "faq": [
+      {"q": "Brauche ich einen Führerschein für die ATV Safari?", "a": "Für die bei dieser Tour verwendeten Quads ist kein Führerschein erforderlich, das Mindestalter zum Fahren beträgt jedoch 16 Jahre (jüngere Gäste können als Beifahrer mit einem Erwachsenen mitfahren)."},
+      {"q": "Können sich zwei Personen ein Quad teilen?", "a": "Ja, für Paare oder Eltern mit Kind stehen Zweisitzer-Quads zur Verfügung - teilen Sie uns Ihre Präferenz bei der Buchung mit."},
+      {"q": "Was sollte ich anziehen?", "a": "Geschlossene Schuhe, Sonnenbrille und Kleidung, die staubig werden darf, werden empfohlen. Helme werden gestellt."},
+      {"q": "Ist die ATV Safari körperlich anstrengend?", "a": "Sie ist moderat aktiv - Sie steuern und beschleunigen selbst - aber Vorerfahrung ist nicht erforderlich."}
+    ]
+  },
+  "horse-riding": {
+    "name": "Reittour",
+    "short": "Ein geführter Ausritt durch die Landschaft und entlang der Küste bei Bodrum, geeignet für Anfänger.",
+    "location": "Ländliches Bodrum, Türkei",
+    "duration": "2 Stunden",
+    "departure": "09:00 und 17:00 Uhr, täglich",
+    "return_time": "11:00 / 19:00 Uhr",
+    "meeting_point": "Reitstall, Hotelabholung verfügbar",
+    "description": [
+      "Dieser geführte Ausritt ist für Reiter jeden Niveaus konzipiert, auch für absolute Anfänger. Nach einer kurzen Einführung in Ihr Pferd und den grundlegenden Umgang führt Ihr Guide die Gruppe in gemächlichem Tempo durch Olivenhaine und offenes Land, oft mit Blick auf die Ägäis.",
+      "Der Abendtermin ist wegen des weicheren Lichts und kühlerer Temperaturen besonders beliebt, beide Routen beinhalten einen Stopp zum Absteigen, Dehnen und Fotografieren, bevor es zurückgeht. Die Pferde werden dem Erfahrungsniveau der Reiter angepasst, für Komfort und Selbstvertrauen."
+    ],
+    "highlights": [
+      "Geeignet für absolute Anfänger",
+      "Landschafts- und Küstenausblicke entlang der Route",
+      "Morgens oder in der goldenen Abendstunde buchbar",
+      "Pferde passend zu Ihrem Erfahrungsniveau",
+      "Kleine Gruppengröße mit persönlichem Guide",
+      "Fotostopp entlang der Strecke"
+    ],
+    "included": [
+      "Pferd und geführter Ausritt",
+      "Reithelm",
+      "Grundlegende Reitanweisung vor dem Start",
+      "Englischsprachiger Guide",
+      "Hotelabholung und -rückbringung",
+      "Wasserflasche"
+    ],
+    "excluded": [
+      "Professionelles Fotopaket",
+      "Persönliche Ausgaben",
+      "Reitstiefel (geschlossenes Schuhwerk erforderlich, bitte mitbringen)",
+      "Trinkgeld für den Guide"
+    ],
+    "program": [
+      {"time": "08:30", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Stall."},
+      {"time": "09:00", "title": "Ihr Pferd kennenlernen", "text": "Kurze Sicherheitseinweisung und Einführung in den Umgang mit Ihrem Pferd."},
+      {"time": "09:20", "title": "Geführter Ausritt", "text": "Reiten Sie durch Olivenhaine und offenes Land."},
+      {"time": "10:15", "title": "Fotostopp", "text": "Absteigen für eine kurze Pause, Dehnen und Fotos."},
+      {"time": "10:45", "title": "Rückkehr zum Stall", "text": "Rückritt zum Stall und Transfer zu Ihrem Hotel."}
+    ],
+    "faq": [
+      {"q": "Brauche ich Reiterfahrung?", "a": "Nein, diese Tour heißt sowohl absolute Anfänger als auch erfahrene Reiter willkommen - Pferde und Tempo werden entsprechend angepasst."},
+      {"q": "Gibt es eine Gewichts- oder Altersgrenze?", "a": "Reiter sollten in der Regel mindestens 8 Jahre alt sein; bitte kontaktieren Sie uns im Voraus bei speziellen Gewichts- oder Gesundheitsfragen, damit wir Sie mit dem passenden Pferd zusammenbringen können."},
+      {"q": "Was sollte ich anziehen?", "a": "Geschlossene Schuhe und bequeme Hosen werden empfohlen. Ein Reithelm wird gestellt."},
+      {"q": "Welcher Termin ist besser, morgens oder abends?", "a": "Beide sind schön - Morgen sind kühler und ruhiger, während der Abendtermin weicheres goldenes Licht bietet, besonders schön für Fotos."}
+    ]
+  },
+  "scuba-diving": {
+    "name": "Tauch-Erlebnis",
+    "short": "Entdecken Sie die Ägäis unter Wasser bei einem anfängerfreundlichen Schnuppertauchgang oder einem geführten Tauchgang für zertifizierte Taucher.",
+    "location": "Tauchplätze der Bodrum-Halbinsel, Türkei",
+    "duration": "4 Stunden - Halbtags",
+    "departure": "09:30 Uhr, täglich (wetterabhängig)",
+    "return_time": "13:30 Uhr",
+    "meeting_point": "Tauchzentrum in der Bodrum Marina",
+    "description": [
+      "Bodrums klares Wasser und sanftes Unterwassergelände machen es zu einem der beliebtesten Orte der Türkei, um das Tauchen zum ersten Mal auszuprobieren - und auch für zertifizierte Taucher lohnenswert. Einsteiger nehmen an einer 'Discover Scuba'-Sitzung teil: eine kurze Einweisung an Land, dann ein flacher, vollständig beaufsichtigter Tauchgang mit einem Instruktor stets an Ihrer Seite.",
+      "Zertifizierte Taucher können an einem geführten Tauchgang zu tieferen Plätzen mit Riffleben teilnehmen und je nach Bedingungen die Chance haben, Oktopusse, Muränen und Brassenschwärme zu entdecken. Die gesamte Ausrüstung wird gestellt, und jeder Tauchgang wird von einem lizenzierten Instruktor geleitet."
+    ],
+    "highlights": [
+      "Anfängerfreundlicher Schnuppertauchgang, keine Erfahrung nötig",
+      "Geführte Tauchgänge für zertifizierte Taucher verfügbar",
+      "Kleine Gruppen mit lizenziertem Instruktor",
+      "Vollständige Ausrüstung inbegriffen",
+      "Klare Sichtweiten in der Ägäis",
+      "Unterwasser-Fotomöglichkeiten"
+    ],
+    "included": [
+      "Vollständige Tauchausrüstung (Neoprenanzug, Tank, Regler, Maske, Flossen)",
+      "Lizenzierter Instruktor und Sicherheitseinweisung",
+      "Bootstransfer zum Tauchplatz",
+      "Ein Tauchgang (Schnupper- oder geführter Tauchgang, je nach Zertifizierung)",
+      "Hotelabholung und -rückbringung",
+      "Wasserflasche und Handtuch"
+    ],
+    "excluded": [
+      "PADI- oder SSI-Zertifizierungskurs (separat erhältlich)",
+      "Unterwasser-Foto-/Videopaket (käuflich erhältlich)",
+      "Zusätzlicher zweiter Tauchgang",
+      "Trinkgeld für den Instruktor"
+    ],
+    "program": [
+      {"time": "09:00", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Tauchzentrum."},
+      {"time": "09:30", "title": "Einweisung und Ausrüstung", "text": "Sicherheitseinweisung und Anpassung der Ausrüstung mit Ihrem Instruktor."},
+      {"time": "10:15", "title": "Bootstransfer", "text": "Kurze Bootsfahrt zum Tauchplatz."},
+      {"time": "10:45", "title": "Der Tauchgang", "text": "Ein flacher Schnupper- oder geführter Tauchgang, durchgehend vollständig beaufsichtigt."},
+      {"time": "12:30", "title": "Rückkehr", "text": "Rückfahrt zur Marina und Transfer zu Ihrem Hotel."}
+    ],
+    "faq": [
+      {"q": "Brauche ich Taucherfahrung, um teilzunehmen?", "a": "Nein, der Schnuppertauchgang ist für absolute Anfänger konzipiert und beinhaltet vollständige Beaufsichtigung durch einen lizenzierten Instruktor in geringer Tiefe."},
+      {"q": "Was, wenn ich bereits zertifizierter Taucher bin?", "a": "Zertifizierte Taucher können an einem geführten Tauchgang zu einem tieferen Platz teilnehmen - bringen Sie einfach Ihre Zertifizierungskarte zur Buchung mit."},
+      {"q": "Ist es sicher für Personen, die nicht gut schwimmen können?", "a": "Grundlegende Wassersicherheit ist hilfreich, aber der Schnuppertauchgang wird eng beaufsichtigt und nutzt volle Auftriebsausrüstung, starke Schwimmfähigkeiten sind nicht erforderlich."},
+      {"q": "Was ist das Mindestalter für Tauchen?", "a": "Der Schnuppertauchgang ist in der Regel ab 10 Jahren verfügbar; bitte geben Sie bei der Buchung das Alter junger Taucher an."}
+    ]
+  },
+  "dolphin-park": {
+    "name": "Delfinpark-Besuch",
+    "short": "Ein familienfreundlicher halber Tag mit Delfin- und Seelöwenshows, mit optionalen Begegnungen im Wasser.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "3 Stunden",
+    "departure": "10:00 und 14:00 Uhr, täglich",
+    "return_time": "13:00 / 17:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Ein Vormittag oder Nachmittag im Delfinpark ist einer unserer beliebtesten Familienausflüge und verbindet eine unterhaltsame Show mit der Option, für eine engere Begegnung ins Wasser zu gehen. Trainierte Delfine und Seelöwen treten zusammen mit ihren Trainern in einem eigens dafür gebauten Showbecken auf.",
+      "Optionale Ergänzungen ermöglichen es Gästen (meist ab etwa 6 Jahren, mit Einschränkungen für jüngere Kinder), unter enger Aufsicht des Personals mit Delfinen zu schwimmen, sie zu berühren oder sich mit ihnen fotografieren zu lassen. Auch ohne die Wasser-Ergänzung sorgt allein die Show für ein paar unvergessliche Stunden für Kinder wie Erwachsene."
+    ],
+    "highlights": [
+      "Live-Delfin- und Seelöwenshow",
+      "Optionale Nahbegegnung oder Schwimm-Ergänzung",
+      "Eigens gebautes Showbecken mit Sitzplätzen",
+      "Ideal für Familien mit Kindern",
+      "Durchgehend Fotomöglichkeiten",
+      "Kompaktes Halbtagesformat"
+    ],
+    "included": [
+      "Eintritt und reservierter Showsitzplatz",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachige Reisebegleitung",
+      "Standard-Showpaket",
+      "Wasserflasche",
+      "Reiseversicherung"
+    ],
+    "excluded": [
+      "Schwimm- oder Nahbegegnungspaket im Wasser (optional, vor Ort zahlbar)",
+      "Professionelles Fotopaket",
+      "Essen und Getränke vor Ort",
+      "Trinkgelder"
+    ],
+    "program": [
+      {"time": "09:15", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel für die Vormittagssitzung."},
+      {"time": "10:00", "title": "Ankunft und Sitzplatz", "text": "Ankunft im Park und Einnehmen Ihrer reservierten Plätze."},
+      {"time": "10:30", "title": "Delfin- und Seelöwenshow", "text": "Genießen Sie die Live-Vorführung."},
+      {"time": "11:15", "title": "Optionale Begegnung", "text": "Gäste mit gebuchter Schwimm-Ergänzung treffen die Delfine im Wasser."},
+      {"time": "12:45", "title": "Rückfahrt", "text": "Transfer zurück zu Ihrem Hotel."}
+    ],
+    "faq": [
+      {"q": "Ist das Schwimmen mit Delfinen inbegriffen?", "a": "Der Parkeintritt und die Show sind inbegriffen; die Wasserbegegnung oder Berührungserfahrung ist eine optionale, kostenpflichtige Ergänzung, die Sie im Voraus bei uns buchen können."},
+      {"q": "Ab welchem Alter kann man an der Wasserbegegnung teilnehmen?", "a": "Dies variiert je nach Programm, ist aber generell ab etwa 6 Jahren verfügbar, für jüngere Kinder in Begleitung eines Erwachsenen - wir bestätigen die genauen Altersregeln bei der Buchung der Ergänzung."},
+      {"q": "Ist die Show für alle Altersgruppen geeignet?", "a": "Ja, die Show selbst ist für alle Altersgruppen unterhaltsam und erfordert kein Eintauchen ins Wasser."},
+      {"q": "Wie lange dauert die Show?", "a": "Die Hauptshow dauert etwa 30-40 Minuten, der gesamte Besuch inklusive Transfers dauert etwa drei Stunden."}
+    ]
+  },
+  "aquapark": {
+    "name": "Aquapark Tagesticket",
+    "short": "Ein ganzer Tag mit Rutschen, Wellenbecken und Familienspaß in einem der größten Wasserparks der Region.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "6 Stunden - Ganztageseintritt",
+    "departure": "09:30 Uhr, täglich",
+    "return_time": "16:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Für einen Tag, bei dem es nur um Spaß statt Sightseeing geht, beinhaltet das Aquapark-Paket den Hin- und Rücktransfer sowie den Ganztageseintritt zu einem der größten Wasserparks der Region. Die Rutschen reichen von sanften Familienfahrten bis zu steilen Hochgeschwindigkeitsabfahrten, dazu kommen Wellenbecken, faule Flüsse und eigene Bereiche für Kleinkinder.",
+      "Sonnenliegen stehen im gesamten Park zur Verfügung, und es gibt Essens- und Getränkestände vor Ort, falls Sie den ganzen Tag verbringen möchten. Eine einfache, mühelose Wahl für Familien oder alle, die eine Pause vom Sightseeing möchten."
+    ],
+    "highlights": [
+      "Ganztageseintritt zu einem großen regionalen Wasserpark",
+      "Rutschen für jedes Nervenkitzel-Level, plus Wellenbecken",
+      "Eigene Kleinkind- und Familienbereiche",
+      "Hin- und Rück-Hoteltransfer inbegriffen",
+      "Sonnenliegen vor Ort verfügbar",
+      "Essens- und Getränkestände im Park"
+    ],
+    "included": [
+      "Ganztages-Parkeintrittskarte",
+      "Hin- und Rück-Hoteltransfer",
+      "Englischsprachige Transferbegleitung",
+      "Zugang zu Wellenbecken und Kleinkindbereichen",
+      "Reiseversicherung",
+      "Spindmiete (Kaution vor Ort erforderlich)"
+    ],
+    "excluded": [
+      "Essen und Getränke im Park",
+      "Miete privater Kabanen oder Premium-Liegen",
+      "Handtücher (vor Ort mietbar)",
+      "Trinkgelder"
+    ],
+    "program": [
+      {"time": "08:45", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel für den Transfer zum Park."},
+      {"time": "09:30", "title": "Parkeintritt", "text": "Betreten Sie den Park und richten Sie sich ein - Liegen sind in Poolnähe verfügbar."},
+      {"time": "Ganztägig", "title": "Freizeit", "text": "Genießen Sie Rutschen, Wellenbecken und Familienbereiche in Ihrem eigenen Tempo."},
+      {"time": "15:30", "title": "Treffpunkt", "text": "Treffen am vereinbarten Punkt für den Rücktransfer."},
+      {"time": "16:00", "title": "Rückkehr zum Hotel", "text": "Transfer zurück zu Ihrem Hotel."}
+    ],
+    "faq": [
+      {"q": "Ist der Aquapark für kleine Kinder geeignet?", "a": "Ja, neben den größeren Fahrten gibt es eigene Kleinkindbecken und sanftere Rutschen, sodass sich der Park gut für Familien mit gemischten Altersgruppen eignet."},
+      {"q": "Werden Handtücher gestellt?", "a": "Handtücher sind nicht inbegriffen, können aber vor Ort gemietet werden; wir empfehlen, eigene mitzubringen, um Zeit und Kosten zu sparen."},
+      {"q": "Können wir den ganzen Tag bleiben?", "a": "Ja, Ihr Ticket deckt den Ganztageseintritt ab, und der Transferplan ist auf einen vollen Tag im Park ausgelegt."},
+      {"q": "Gibt es Essen im Park?", "a": "Ja, im gesamten Park gibt es Essens- und Getränkestände, diese sind jedoch nicht im Tourpreis inbegriffen."}
+    ]
+  },
+  "pamukkale": {
+    "name": "Pamukkale Tagesausflug",
+    "short": "Die weißen Sinterterrassen von Pamukkale und die antiken Ruinen von Hierapolis, an einem langen, unvergesslichen Tag.",
+    "location": "Provinz Denizli, Türkei",
+    "duration": "13 Stunden - Ganztägig (Langstrecke)",
+    "departure": "04:30 Uhr, täglich",
+    "return_time": "20:30 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Pamukkale - wörtlich 'Baumwollschloss' - ist eine der meistfotografierten Sehenswürdigkeiten der Türkei: ein Hang mit strahlend weißen Sinterterrassen, die über Jahrtausende durch kalziumreiches Thermalwasser entstanden sind. Es ist ein wirklich früher Start ab Bodrum, aber jeder unserer Gäste sagt uns, dass es sich gelohnt hat.",
+      "Über die Terrassen hinaus erkunden Sie die Ruinen des antiken Hierapolis, einer einst bedeutenden römisch-hellenistischen Kurstadt mit gut erhaltenem Theater und weitläufiger Nekropole. Gäste können zudem optional im Kleopatra-Antikpool schwimmen, wo Sie zwischen versunkenen antiken Säulen in warmem Mineralwasser treiben."
+    ],
+    "highlights": [
+      "Die weißen Sinterterrassen von Pamukkale",
+      "Antike Ruinen von Hierapolis und römisches Theater",
+      "Weite Ausblicke über das Tal",
+      "Optionales Baden im Kleopatra-Antikpool",
+      "UNESCO-Weltkulturerbestätte",
+      "Ganztägiges geführtes Erlebnis mit Mittagspause"
+    ],
+    "included": [
+      "Hin- und Rücktransport im klimatisierten Fahrzeug",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachiger Reiseleiter",
+      "Eintritt Pamukkale und Hierapolis",
+      "Mittagessen in einem lokalen Restaurant",
+      "Reiseversicherung"
+    ],
+    "excluded": [
+      "Eintritt Kleopatra-Antikpool (optional, vor Ort zahlbar)",
+      "Getränke zum Mittagessen",
+      "Persönliche Ausgaben und Souvenirs",
+      "Trinkgeld für Guide und Fahrer"
+    ],
+    "program": [
+      {"time": "04:30", "title": "Hotelabholung", "text": "Sehr früher Start, um die Zeit vor Ort optimal zu nutzen."},
+      {"time": "08:30", "title": "Ankunft in Pamukkale", "text": "Beginn des geführten Spaziergangs über die Sinterterrassen."},
+      {"time": "10:00", "title": "Hierapolis-Ruinen", "text": "Erkundung des antiken Theaters, der Nekropole und der Stadtruinen."},
+      {"time": "11:30", "title": "Optionaler Kleopatra-Pool", "text": "Freizeit für ein optionales Bad zwischen antiken Säulen."},
+      {"time": "13:00", "title": "Mittagessen", "text": "Ein Stopp in einem lokalen Restaurant vor der Rückfahrt."},
+      {"time": "14:00", "title": "Rückfahrt", "text": "Fahrt zurück Richtung Bodrum, Ankunft am Abend."}
+    ],
+    "faq": [
+      {"q": "Warum beginnt die Pamukkale-Tour so früh?", "a": "Pamukkale liegt etwa 3,5-4 Stunden von Bodrum entfernt, daher stellt ein früher Start sicher, dass Sie ausreichend Zeit vor Ort haben, statt den Tag mit Fahren zu verlieren."},
+      {"q": "Muss ich etwas Besonderes mitbringen?", "a": "Badebekleidung und Handtuch werden empfohlen, falls Sie den Kleopatra-Pool besuchen möchten, ebenso bequeme Wanderschuhe für die Terrassen."},
+      {"q": "Muss man barfuß über die Terrassen laufen?", "a": "Ja, Besucher werden in der Regel gebeten, auf den Hauptsinterterrassen barfuß zu laufen, um die Formationen zu schützen - leicht auszuziehende Sandalen sind daher hilfreich."},
+      {"q": "Ist diese Tour für ältere Reisende geeignet?", "a": "Die Terrassen erfordern etwas Gehen auf unebenem, nassem Kalkstein, das Tempo ist jedoch für die meisten Fitnesslevel machbar - teilen Sie uns eventuelle Mobilitätsbedenken im Voraus mit."}
+    ]
+  }
+}

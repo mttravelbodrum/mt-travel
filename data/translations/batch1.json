@@ -1,0 +1,440 @@
+{
+ "kos-island": {
+  "de": {
+   "name": "Kos Insel Tour",
+   "short": "Ein voller Tag auf der griechischen Insel Kos - Burgen, antike Ruinen und das klarste Wasser der Ägäis.",
+   "location": "Kos, Griechenland (per Fähre ab Bodrum)",
+   "duration": "10 Stunden - Ganztägig",
+   "departure": "08:00 Uhr, täglich",
+   "return_time": "18:30 Uhr",
+   "meeting_point": "Internationales Fährterminal Bodrum, Neyzen Tevfik Straße",
+   "description": [
+    "Kos liegt nur eine kurze Fährfahrt von Bodrum entfernt und fühlt sich dennoch wie eine andere Welt an - weiß getünchte Gassen, Architektur aus der italienischen Zeit und die unverwechselbare Ruhe eines griechischen Inselmorgens. Ihr Tag beginnt mit einer malerischen Überfahrt direkt ins Herz der Stadt Kos.",
+    "An Land angekommen spazieren Sie an der Ritterburg aus dem 15. Jahrhundert vorbei, stehen unter der antiken Platane, unter der Hippokrates der Legende nach Medizin lehrte, und schlendern durch die Cafés und Boutiquen an der Hafenpromenade. Es bleibt Zeit zum Baden am Stadtstrand, für griechische Küche oder um sich einfach in der Altstadt treiben zu lassen, bevor die Fähre Sie bei Sonnenuntergang zurück nach Bodrum bringt."
+   ],
+   "highlights": [
+    "Fährüberfahrt mit Meerblick auf der gesamten Strecke",
+    "Freie Zeit zur Erkundung der Stadt Kos in Ihrem Tempo",
+    "Ritterburg und die Hippokrates-Platane",
+    "Optionales Bad am Stadtstrand",
+    "Griechische Tavernen, Bäckereien und Boutique-Shopping",
+    "Unterstützung durch einen englischsprachigen Reiseleiter im Hafen"
+   ],
+   "included": [
+    "Fährtickets Bodrum - Kos (hin und zurück)",
+    "Hotelabholung und -rückbringung (Bodrum-Halbinsel)",
+    "Englischsprachiger Reiseleiter",
+    "Hafengebühren und -abgaben",
+    "Freizeit in der Stadt Kos",
+    "Reiseversicherung während der Überfahrt"
+   ],
+   "excluded": [
+    "Mittagessen und Getränke auf Kos",
+    "Persönliche Ausgaben und Einkäufe",
+    "Optionale Ausflüge auf der Insel",
+    "Trinkgelder"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Hotelabholung", "text": "Unser Fahrer holt Sie in der Lobby Ihres Hotels auf der Bodrum-Halbinsel ab."},
+    {"time": "08:00", "title": "Abfahrt mit der Fähre", "text": "Einschiffung am Internationalen Fährterminal Bodrum zur Überfahrt nach Kos."},
+    {"time": "09:15", "title": "Ankunft in der Stadt Kos", "text": "Passkontrolle und kurzer Orientierungsspaziergang mit Ihrem Reiseleiter."},
+    {"time": "09:45", "title": "Freie Erkundung", "text": "Besuchen Sie Burg, Altstadt, Strand und Cafés in Ihrem eigenen Tempo."},
+    {"time": "17:00", "title": "Rückfahrt", "text": "Einschiffung zur Rückfahrt nach Bodrum, Ankunft am frühen Abend."}
+   ],
+   "faq": [
+    {"q": "Brauche ich einen Reisepass für die Kos-Insel-Tour?", "a": "Ja, für jeden Gast, auch Kinder, ist ein gültiger Reisepass erforderlich. Bitte prüfen Sie vor der Buchung die Einreisebestimmungen für Ihre Staatsangehörigkeit."},
+    {"q": "Ist das Mittagessen bei der Kos-Insel-Tour inbegriffen?", "a": "Das Mittagessen ist nicht inbegriffen, damit Sie frei zwischen den Tavernen und Cafés in der Stadt Kos wählen können. Gerne empfehlen wir Ihnen ein Restaurant."},
+    {"q": "Wie viel Freizeit haben wir in der Stadt Kos?", "a": "Sie haben etwa sieben Stunden freie Zeit, um Burg, Altstadt, Geschäfte und Strand in Ihrem eigenen Tempo zu erkunden."},
+    {"q": "Ist die Kos-Insel-Tour für Kinder geeignet?", "a": "Ja, die Tour ist familienfreundlich und beinhaltet Badezeit, allerdings benötigen auch Kinder einen gültigen Reisepass."}
+   ]
+  },
+  "ru": {
+   "name": "Тур на остров Кос",
+   "short": "Насыщенный день на греческом острове Кос - крепости, античные руины и самая прозрачная вода Эгейского моря.",
+   "location": "Кос, Греция (на пароме из Бодрума)",
+   "duration": "10 часов - весь день",
+   "departure": "08:00, ежедневно",
+   "return_time": "18:30",
+   "meeting_point": "Международный паромный терминал Бодрума, улица Нейзен Тевфик",
+   "description": [
+    "Кос находится всего в коротком переходе на пароме от Бодрума, но кажется совсем другим миром - белёные улочки, архитектура итальянской эпохи и неповторимое спокойствие греческого острова по утрам. Ваш день начинается с живописного морского перехода прямо в центр города Кос.",
+    "Сойдя на берег, вы пройдёте мимо крепости Рыцарей XV века, постоите под древним платаном, под которым, по легенде, Гиппократ преподавал медицину, и прогуляетесь по кафе и бутикам набережной. Будет свободное время искупаться на городском пляже, попробовать греческую кухню или просто затеряться в старом городе, прежде чем паром на закате доставит вас обратно в Бодрум."
+   ],
+   "highlights": [
+    "Живописный переход на пароме с видом на море всю дорогу",
+    "Свободное время для знакомства с городом Кос в своём темпе",
+    "Крепость Рыцарей и платан Гиппократа",
+    "Возможность искупаться на городском пляже",
+    "Греческие таверны, пекарни и бутики",
+    "Помощь англоговорящего гида в порту"
+   ],
+   "included": [
+    "Билеты на паром Бодрум - Кос туда и обратно",
+    "Трансфер от отеля и обратно (полуостров Бодрум)",
+    "Англоговорящий гид",
+    "Портовые сборы и пошлины",
+    "Свободное время в городе Кос",
+    "Страховка на время переправы"
+   ],
+   "excluded": [
+    "Обед и напитки на Косе",
+    "Личные расходы и покупки",
+    "Дополнительные экскурсии на острове",
+    "Чаевые"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Трансфер из отеля", "text": "Водитель заберёт вас из лобби отеля на полуострове Бодрум."},
+    {"time": "08:00", "title": "Отправление на пароме", "text": "Посадка на паром в порту Бодрума для переправы на Кос."},
+    {"time": "09:15", "title": "Прибытие в город Кос", "text": "Паспортный контроль и короткая ознакомительная прогулка с гидом."},
+    {"time": "09:45", "title": "Свободное время", "text": "Осмотрите крепость, старый город, пляж и кафе в своём темпе."},
+    {"time": "17:00", "title": "Обратный переход", "text": "Посадка на паром до Бодрума, прибытие ранним вечером."}
+   ],
+   "faq": [
+    {"q": "Нужен ли паспорт для тура на остров Кос?", "a": "Да, действующий паспорт необходим каждому гостю, включая детей. Перед бронированием уточните визовые требования для вашего гражданства."},
+    {"q": "Включён ли обед в тур на остров Кос?", "a": "Обед не включён, чтобы вы могли свободно выбрать таверну или кафе в городе Кос. Мы с радостью подскажем хороший вариант."},
+    {"q": "Сколько свободного времени у нас будет в городе Кос?", "a": "У вас будет около семи часов свободного времени, чтобы осмотреть крепость, старый город, магазины и пляж в своём темпе."},
+    {"q": "Подходит ли тур на остров Кос для детей?", "a": "Да, тур подходит для семей и включает время для купания, однако у детей также должен быть действующий паспорт."}
+   ]
+  },
+  "pl": {
+   "name": "Wycieczka na Wyspę Kos",
+   "short": "Pełen wrażeń dzień na greckiej wyspie Kos - zamki, starożytne ruiny i najczystsza woda Morza Egejskiego.",
+   "location": "Kos, Grecja (promem z Bodrum)",
+   "duration": "10 godzin - Cały dzień",
+   "departure": "08:00, codziennie",
+   "return_time": "18:30",
+   "meeting_point": "Międzynarodowy Terminal Promowy w Bodrum, ulica Neyzen Tevfik",
+   "description": [
+    "Kos leży zaledwie krótki rejs promem od Bodrum, a mimo to wydaje się zupełnie innym światem - białe uliczki, architektura z okresu włoskiego i wyjątkowy spokój greckiego wyspiarskiego poranka. Dzień zaczyna się od malowniczego rejsu prosto do centrum miasta Kos.",
+    "Po zejściu na ląd miniecie XV-wieczny Zamek Rycerzy, staniecie pod starożytnym platanem, pod którym podobno Hipokrates nauczał medycyny, i przejdziecie się wzdłuż nadmorskich kawiarni i butików. Będzie czas na kąpiel na miejskiej plaży, degustację greckiej kuchni lub po prostu błądzenie po starówce, zanim prom o zachodzie słońca zabierze was z powrotem do Bodrum."
+   ],
+   "highlights": [
+    "Malowniczy rejs promem z widokiem na morze przez całą drogę",
+    "Czas wolny na zwiedzanie miasta Kos we własnym tempie",
+    "Zamek Rycerzy i Platan Hipokratesa",
+    "Opcjonalna kąpiel na miejskiej plaży",
+    "Greckie tawerny, piekarnie i butikowe zakupy",
+    "Wsparcie anglojęzycznego przewodnika w porcie"
+   ],
+   "included": [
+    "Bilety promowe Bodrum - Kos w obie strony",
+    "Odbiór i powrót z hotelu (półwysep Bodrum)",
+    "Anglojęzyczny przewodnik",
+    "Opłaty i podatki portowe",
+    "Czas wolny w mieście Kos",
+    "Ubezpieczenie podróżne na czas rejsu"
+   ],
+   "excluded": [
+    "Obiad i napoje na Kos",
+    "Wydatki osobiste i zakupy",
+    "Opcjonalne wycieczki na wyspie",
+    "Napiwki"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Odbiór z hotelu", "text": "Kierowca odbierze Państwa z lobby hotelu na półwyspie Bodrum."},
+    {"time": "08:00", "title": "Wyjazd promem", "text": "Wejście na prom w Międzynarodowym Terminalu Promowym w Bodrum w celu przeprawy na Kos."},
+    {"time": "09:15", "title": "Przybycie do miasta Kos", "text": "Kontrola paszportowa i krótki spacer orientacyjny z przewodnikiem."},
+    {"time": "09:45", "title": "Czas wolny na zwiedzanie", "text": "Zwiedźcie zamek, starówkę, plażę i kawiarnie we własnym tempie."},
+    {"time": "17:00", "title": "Podróż powrotna", "text": "Wejście na prom powrotny do Bodrum, przybycie wczesnym wieczorem."}
+   ],
+   "faq": [
+    {"q": "Czy potrzebuję paszportu na wycieczkę na wyspę Kos?", "a": "Tak, każdy gość, w tym dzieci, musi posiadać ważny paszport. Przed rezerwacją sprawdź wymagania wizowe dla swojego obywatelstwa."},
+    {"q": "Czy obiad jest wliczony w wycieczkę na Kos?", "a": "Obiad nie jest wliczony, dzięki czemu mogą Państwo swobodnie wybrać tawernę lub kawiarnię w mieście Kos. Chętnie polecimy dobrą restaurację."},
+    {"q": "Ile czasu wolnego mamy w mieście Kos?", "a": "Będą Państwo mieli około siedmiu godzin czasu wolnego na zwiedzenie zamku, starówki, sklepów i plaży we własnym tempie."},
+    {"q": "Czy wycieczka na Kos jest odpowiednia dla dzieci?", "a": "Tak, wycieczka jest przyjazna rodzinom i obejmuje czas na kąpiel, jednak dzieci również muszą posiadać ważny paszport."}
+   ]
+  }
+ },
+ "leros-island": {
+  "de": {
+   "name": "Leros Insel Tour",
+   "short": "Ein ruhigerer griechischer Inselausflug - Art-Deco-Häfen, versteckte Buchten und ein entspanntes Inseltempo.",
+   "location": "Leros, Griechenland (per Fähre ab Bodrum)",
+   "duration": "11 Stunden - Ganztägig",
+   "departure": "07:30 Uhr, ausgewählte Tage",
+   "return_time": "18:30 Uhr",
+   "meeting_point": "Internationales Fährterminal Bodrum, Neyzen Tevfik Straße",
+   "description": [
+    "Leros ist die Dodekanes-Insel, die die meisten Besucher nie einplanen - und an die sie sich am längsten erinnern. Fernab der Kreuzfahrtmassen säumen ihre Häfen markante italienische Rationalismus-Bauten aus den 1930er Jahren, ein Zeugnis der ungewöhnlichen Geschichte der Insel als italienischer Marinestützpunkt.",
+    "Ihr Tag verläuft entspannt: ein Spaziergang durch den stimmungsvollen Hafen von Lakki, ein Besuch der Burg von Panteli mit weitem Blick über die Bucht und Freizeit zum Baden in Buchten, die selbst zur Hochsaison ruhig bleiben. Die richtige Reise für alle, die die 'echte' Ägäis Bucht für Bucht erleben möchten."
+   ],
+   "highlights": [
+    "Malerische Fährüberfahrt zu einer selten besuchten griechischen Insel",
+    "Architektur des italienischen Rationalismus im Hafen von Lakki",
+    "Aussichtspunkt an der Burg von Panteli über die Bucht",
+    "Ruhige Buchten zum Baden abseits der Menschenmassen",
+    "Traditionelle Dörfer Alinda und Pandeli",
+    "Kleingruppentempo mit englischsprachigem Reiseleiter"
+   ],
+   "included": [
+    "Fährtickets Bodrum - Leros (hin und zurück)",
+    "Hotelabholung und -rückbringung (Bodrum-Halbinsel)",
+    "Englischsprachiger Reiseleiter",
+    "Hafengebühren und -abgaben",
+    "Geführter Spaziergang durch Lakki und Panteli",
+    "Reiseversicherung während der Überfahrt"
+   ],
+   "excluded": [
+    "Mittagessen und Getränke auf der Insel",
+    "Persönliche Ausgaben und Einkäufe",
+    "Museumseintritte",
+    "Trinkgelder"
+   ],
+   "program": [
+    {"time": "06:30", "title": "Hotelabholung", "text": "Frühe Abholung von Ihrem Hotel, um rechtzeitig das Fährterminal zu erreichen."},
+    {"time": "07:30", "title": "Abfahrt mit der Fähre", "text": "Einschiffung in Bodrum zur Überfahrt nach Leros."},
+    {"time": "09:00", "title": "Ankunft in Lakki", "text": "Geführter Spaziergang durch die Art-Deco-Hafenstadt, weiter nach Panteli."},
+    {"time": "10:30", "title": "Freizeit und Baden", "text": "Erkunden Sie den Strand von Alinda, die Burg oder entspannen Sie am Wasser."},
+    {"time": "17:00", "title": "Rückfahrt", "text": "Einschiffung zur Rückfahrt, Ankunft in Bodrum am frühen Abend."}
+   ],
+   "faq": [
+    {"q": "Warum ist Leros weniger überlaufen als Kos?", "a": "Leros hat deutlich weniger Tagesbesucher, sodass Strände, Cafés und die Altstadt spürbar ruhiger bleiben - ideal, wenn Sie ein entspanntes Tempo bevorzugen."},
+    {"q": "Brauche ich einen Reisepass für Leros?", "a": "Ja, für alle Gäste ist ein gültiger Reisepass erforderlich. Bitte prüfen Sie vor der Buchung die Visabestimmungen für Ihre Staatsangehörigkeit."},
+    {"q": "Gibt es bei dieser Tour Zeit zum Baden?", "a": "Ja, im Programm ist gezielt Freizeit zum Baden in einer der ruhigen Buchten der Insel eingeplant."},
+    {"q": "An welchen Tagen findet die Leros-Tour statt?", "a": "Diese Tour findet je nach Fährplan an ausgewählten Wochentagen statt - unser Team bestätigt die Verfügbarkeit bei der Buchung."}
+   ]
+  },
+  "ru": {
+   "name": "Тур на остров Лерос",
+   "short": "Более спокойный греческий остров - гавани в стиле ар-деко, укромные бухты и неспешный островной ритм.",
+   "location": "Лерос, Греция (на пароме из Бодрума)",
+   "duration": "11 часов - весь день",
+   "departure": "07:30, в отдельные дни",
+   "return_time": "18:30",
+   "meeting_point": "Международный паромный терминал Бодрума, улица Нейзен Тевфик",
+   "description": [
+    "Лерос - остров Додеканеса, который большинство туристов даже не планируют посетить, но запоминают дольше всего. Вдали от круизных толп его гавани окружены впечатляющими зданиями итальянского рационализма 1930-х годов - память о необычной истории острова как итальянской военно-морской базы.",
+    "Ваш день проходит неспешно: прогулка по атмосферному порту Лакки, подъём к крепости Пантели с видом на залив и свободное время для купания в бухтах, которые остаются тихими даже в высокий сезон. Эта поездка для тех, кто хочет увидеть 'настоящую' Эгейскую бухту за бухтой."
+   ],
+   "highlights": [
+    "Живописный переход на пароме на редко посещаемый греческий остров",
+    "Архитектура итальянского рационализма в порту Лакки",
+    "Смотровая площадка у крепости Пантели с видом на залив",
+    "Тихие бухты для купания вдали от толп",
+    "Традиционные деревни Алинда и Пандели",
+    "Небольшая группа и англоговорящий гид"
+   ],
+   "included": [
+    "Билеты на паром Бодрум - Лерос туда и обратно",
+    "Трансфер от отеля и обратно (полуостров Бодрум)",
+    "Англоговорящий гид",
+    "Портовые сборы и пошлины",
+    "Прогулка с гидом по Лакки и Пантели",
+    "Страховка на время переправы"
+   ],
+   "excluded": [
+    "Обед и напитки на острове",
+    "Личные расходы и покупки",
+    "Входные билеты в музеи",
+    "Чаевые"
+   ],
+   "program": [
+    {"time": "06:30", "title": "Трансфер из отеля", "text": "Ранний выезд из отеля, чтобы вовремя успеть в паромный терминал."},
+    {"time": "07:30", "title": "Отправление на пароме", "text": "Посадка на паром в Бодруме для переправы на Лерос."},
+    {"time": "09:00", "title": "Прибытие в Лакки", "text": "Прогулка с гидом по портовому городу в стиле ар-деко, затем в Пантели."},
+    {"time": "10:30", "title": "Свободное время и купание", "text": "Осмотрите пляж Алинда, крепость или просто отдохните у воды."},
+    {"time": "17:00", "title": "Обратный переход", "text": "Посадка на обратный паром, прибытие в Бодрум ранним вечером."}
+   ],
+   "faq": [
+    {"q": "Почему на Леросе меньше туристов, чем на Косе?", "a": "На Лерос приезжает гораздо меньше однодневных туристов, поэтому пляжи, кафе и старый город остаются заметно тише - идеально для спокойного отдыха."},
+    {"q": "Нужен ли паспорт для поездки на Лерос?", "a": "Да, действующий паспорт нужен всем гостям. Перед бронированием уточните визовые требования для вашего гражданства."},
+    {"q": "Есть ли в этом туре время для купания?", "a": "Да, в программе предусмотрено свободное время специально для купания в одной из тихих бухт острова."},
+    {"q": "В какие дни проходит тур на Лерос?", "a": "Этот тур проходит в определённые дни недели в зависимости от расписания парома - наша команда подтвердит доступность при бронировании."}
+   ]
+  },
+  "pl": {
+   "name": "Wycieczka na Wyspę Leros",
+   "short": "Spokojniejsza grecka wyspa - porty w stylu art déco, ukryte zatoki i wolniejsze tempo wyspiarskiego życia.",
+   "location": "Leros, Grecja (promem z Bodrum)",
+   "duration": "11 godzin - Cały dzień",
+   "departure": "07:30, wybrane dni",
+   "return_time": "18:30",
+   "meeting_point": "Międzynarodowy Terminal Promowy w Bodrum, ulica Neyzen Tevfik",
+   "description": [
+    "Leros to wyspa Dodekanezu, której większość turystów nigdy nie planuje odwiedzić - a która zapada w pamięć najdłużej. Z dala od tłumów wycieczkowców jej porty otaczają uderzające budynki włoskiego racjonalizmu z lat 30. XX wieku, świadectwo niezwykłej historii wyspy jako włoskiej bazy marynarki wojennej.",
+    "Dzień płynie spokojnie: spacer po klimatycznym porcie Lakki, wejście na wzgórze do zamku Panteli z rozległym widokiem na zatokę oraz czas wolny na kąpiel w zatoczkach, które pozostają ciche nawet w szczycie sezonu. To wycieczka dla tych, którzy chcą poznać 'prawdziwe' Morze Egejskie zatoka po zatoce."
+   ],
+   "highlights": [
+    "Malowniczy rejs promem na rzadko odwiedzaną grecką wyspę",
+    "Architektura włoskiego racjonalizmu w porcie Lakki",
+    "Punkt widokowy przy zamku Panteli nad zatoką",
+    "Ciche zatoczki do kąpieli z dala od tłumów",
+    "Tradycyjne wioski Alinda i Pandeli",
+    "Kameralne tempo z anglojęzycznym przewodnikiem"
+   ],
+   "included": [
+    "Bilety promowe Bodrum - Leros w obie strony",
+    "Odbiór i powrót z hotelu (półwysep Bodrum)",
+    "Anglojęzyczny przewodnik",
+    "Opłaty i podatki portowe",
+    "Spacer z przewodnikiem po Lakki i Panteli",
+    "Ubezpieczenie podróżne na czas rejsu"
+   ],
+   "excluded": [
+    "Obiad i napoje na wyspie",
+    "Wydatki osobiste i zakupy",
+    "Bilety wstępu do muzeów",
+    "Napiwki"
+   ],
+   "program": [
+    {"time": "06:30", "title": "Odbiór z hotelu", "text": "Wczesny odbiór z hotelu, aby zdążyć na czas do terminalu promowego."},
+    {"time": "07:30", "title": "Wyjazd promem", "text": "Wejście na prom w Bodrum w celu przeprawy na Leros."},
+    {"time": "09:00", "title": "Przybycie do Lakki", "text": "Spacer z przewodnikiem po portowym mieście w stylu art déco, następnie do Panteli."},
+    {"time": "10:30", "title": "Czas wolny i kąpiel", "text": "Zwiedźcie plażę Alinda, zamek lub po prostu odpocznijcie nad wodą."},
+    {"time": "17:00", "title": "Podróż powrotna", "text": "Wejście na prom powrotny, przybycie do Bodrum wczesnym wieczorem."}
+   ],
+   "faq": [
+    {"q": "Dlaczego Leros jest mniej zatłoczony niż Kos?", "a": "Leros odwiedza znacznie mniej turystów jednodniowych, dzięki czemu plaże, kawiarnie i stare miasto są zauważalnie spokojniejsze - idealne dla tych, którzy wolą wolniejsze tempo."},
+    {"q": "Czy na Leros potrzebny jest paszport?", "a": "Tak, ważny paszport jest wymagany od wszystkich gości. Przed rezerwacją sprawdź wymagania wizowe dla swojego obywatelstwa."},
+    {"q": "Czy w tej wycieczce jest czas na kąpiel?", "a": "Tak, w programie przewidziano czas wolny specjalnie na kąpiel w jednej z cichych zatoczek wyspy."},
+    {"q": "W jakie dni odbywa się wycieczka na Leros?", "a": "Ta wycieczka odbywa się w wybrane dni tygodnia w zależności od rozkładu promów - nasz zespół potwierdzi dostępność podczas rezerwacji."}
+   ]
+  }
+ },
+ "kalymnos-island": {
+  "de": {
+   "name": "Kalymnos Insel Tour",
+   "short": "Die Insel der Schwammtaucher - eindrucksvolle Kalksteinklippen, türkisfarbene Buchten und eine authentische griechische Hafenstadt.",
+   "location": "Kalymnos, Griechenland (per Fähre ab Bodrum)",
+   "duration": "10 Stunden - Ganztägig",
+   "departure": "08:00 Uhr, täglich",
+   "return_time": "18:00 Uhr",
+   "meeting_point": "Internationales Fährterminal Bodrum, Neyzen Tevfik Straße",
+   "description": [
+    "Seit über einem Jahrhundert als 'Insel der Schwammtaucher' bekannt, baute Kalymnos seinen Wohlstand und seine Identität auf dem ägäischen Schwammhandel auf - noch heute können Sie in Werkstätten rund um den Hafen von Pothia beim Reinigen und Verkaufen von Schwämmen zusehen. Über der Stadt machen einige der höchsten Kalksteinklippen des Mittelmeers die Insel zu einem weltberühmten Ziel für Kletterer.",
+    "Zum Genießen von Kalymnos muss man aber nicht klettern: Diese Tour gibt Ihnen Zeit, die neoklassizistische Uferpromenade von Pothia zu erkunden, Schwamm- und Schmuckläden zu durchstöbern und über die Meerenge zum winzigen Eiland Telendos zu blicken. Badestopps in klaren, ruhigen Buchten runden einen Tag ab, der sich spürbar von den größeren Inselüberfahrten unterscheidet."
+   ],
+   "highlights": [
+    "Fährüberfahrt unterhalb der berühmten Kalksteinklippen von Kalymnos",
+    "Schwammwerkstätten und Vorführungen in Pothia",
+    "Ausblicke auf das Eiland Telendos",
+    "Freizeit zum Baden in klaren Küstenbuchten",
+    "Neoklassizistische Hafenarchitektur",
+    "Englischsprachiger Reiseleiter während der gesamten Überfahrt"
+   ],
+   "included": [
+    "Fährtickets Bodrum - Kalymnos (hin und zurück)",
+    "Hotelabholung und -rückbringung (Bodrum-Halbinsel)",
+    "Englischsprachiger Reiseleiter",
+    "Hafengebühren und -abgaben",
+    "Orientierungsspaziergang durch Pothia",
+    "Reiseversicherung während der Überfahrt"
+   ],
+   "excluded": [
+    "Mittagessen und Getränke auf der Insel",
+    "Persönliche Ausgaben und Einkäufe",
+    "Bootsfahrt zum Eiland Telendos (optional, vor Ort zu zahlen)",
+    "Trinkgelder"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel auf der Bodrum-Halbinsel."},
+    {"time": "08:00", "title": "Abfahrt mit der Fähre", "text": "Einschiffung in Bodrum zur Überfahrt nach Kalymnos."},
+    {"time": "09:15", "title": "Ankunft in Pothia", "text": "Geführter Orientierungsspaziergang am Hafen und den Schwammwerkstätten."},
+    {"time": "10:00", "title": "Freizeit und Baden", "text": "Erkunden Sie die Stadt, kaufen Sie Schwämme oder entspannen Sie in einer nahen Bucht."},
+    {"time": "16:30", "title": "Rückfahrt", "text": "Einschiffung zur Rückfahrt, Ankunft in Bodrum am Abend."}
+   ],
+   "faq": [
+    {"q": "Ist Kalymnos auch für Nicht-Kletterer geeignet?", "a": "Auf jeden Fall - die Kletterszene ist eine Kulisse, keine Voraussetzung. Die meisten Gäste verbringen den Tag im Hafen von Pothia, beim Schwammkauf und beim Baden."},
+    {"q": "Wofür ist Kalymnos bekannt?", "a": "Kalymnos ist seit Generationen das Zentrum des ägäischen Naturschwammhandels und hat sich dank seiner Kalksteinklippen zu einem der führenden Kletterziele Europas entwickelt."},
+    {"q": "Können wir das Eiland Telendos besuchen?", "a": "Das winzige Eiland Telendos ist direkt auf der anderen Seite der Meerenge sichtbar und mit einem kurzen lokalen Boot erreichbar, das Sie in Ihrer Freizeit unabhängig organisieren können."},
+    {"q": "Brauche ich einen Reisepass?", "a": "Ja, für jeden Gast, auch Kinder, ist ein gültiger Reisepass erforderlich."}
+   ]
+  },
+  "ru": {
+   "name": "Тур на остров Калимнос",
+   "short": "Остров ныряльщиков за губками - впечатляющие известняковые скалы, бирюзовые бухты и настоящий греческий портовый городок.",
+   "location": "Калимнос, Греция (на пароме из Бодрума)",
+   "duration": "10 часов - весь день",
+   "departure": "08:00, ежедневно",
+   "return_time": "18:00",
+   "meeting_point": "Международный паромный терминал Бодрума, улица Нейзен Тевфик",
+   "description": [
+    "Более века известный как 'остров ныряльщиков за губками', Калимнос построил своё благосостояние и самобытность на эгейской торговле губками - в мастерских у порта Потия до сих пор можно увидеть, как губки очищают и продают. Над городом возвышаются одни из самых высоких известняковых скал Средиземноморья, сделавшие остров всемирно известным местом для скалолазания.",
+    "Впрочем, чтобы насладиться Калимносом, лазать вовсе не обязательно: этот тур даёт свободное время, чтобы прогуляться по неоклассической набережной Потии, заглянуть в лавки с губками и украшениями и полюбоваться через пролив на крошечный островок Тэлендос. Остановки для купания в чистых спокойных бухтах дополняют день, который ощущается совсем иначе, чем поездки на более крупные острова."
+   ],
+   "highlights": [
+    "Переход на пароме под знаменитыми известняковыми скалами Калимноса",
+    "Мастерские по обработке губок и демонстрации в Потии",
+    "Виды на островок Тэлендос",
+    "Свободное время для купания в прозрачных прибрежных бухтах",
+    "Неоклассическая архитектура порта",
+    "Англоговорящий гид на протяжении всего перехода"
+   ],
+   "included": [
+    "Билеты на паром Бодрум - Калимнос туда и обратно",
+    "Трансфер от отеля и обратно (полуостров Бодрум)",
+    "Англоговорящий гид",
+    "Портовые сборы и пошлины",
+    "Ознакомительная прогулка по Потии",
+    "Страховка на время переправы"
+   ],
+   "excluded": [
+    "Обед и напитки на острове",
+    "Личные расходы и покупки",
+    "Поездка на лодке до островка Тэлендос (по желанию, оплата на месте)",
+    "Чаевые"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Трансфер из отеля", "text": "Забираем вас из отеля на полуострове Бодрум."},
+    {"time": "08:00", "title": "Отправление на пароме", "text": "Посадка на паром в Бодруме для переправы на Калимнос."},
+    {"time": "09:15", "title": "Прибытие в Потию", "text": "Ознакомительная прогулка с гидом вдоль порта и мастерских по обработке губок."},
+    {"time": "10:00", "title": "Свободное время и купание", "text": "Осмотрите город, купите губки на память или отдохните в соседней бухте."},
+    {"time": "16:30", "title": "Обратный переход", "text": "Посадка на обратный паром, прибытие в Бодрум вечером."}
+   ],
+   "faq": [
+    {"q": "Подходит ли Калимнос для тех, кто не занимается скалолазанием?", "a": "Безусловно - скалолазание здесь лишь антураж, а не обязательное условие. Большинство гостей проводят день, гуляя по порту Потия, покупая натуральные губки и купаясь."},
+    {"q": "Чем знаменит Калимнос?", "a": "Калимнос уже несколько поколений остаётся центром эгейской торговли натуральными губками, а в последние годы стал одним из ведущих направлений скалолазания в Европе благодаря известняковым скалам."},
+    {"q": "Можем ли мы посетить островок Тэлендос?", "a": "Крошечный островок Тэлендос виден прямо через пролив, и до него можно добраться на короткой местной лодке, которую можно организовать самостоятельно в свободное время."},
+    {"q": "Нужен ли паспорт?", "a": "Да, действующий паспорт необходим каждому гостю, включая детей."}
+   ]
+  },
+  "pl": {
+   "name": "Wycieczka na Wyspę Kalymnos",
+   "short": "Wyspa nurków poławiających gąbki - imponujące wapienne klify, turkusowe zatoczki i autentyczne greckie miasteczko portowe.",
+   "location": "Kalymnos, Grecja (promem z Bodrum)",
+   "duration": "10 godzin - Cały dzień",
+   "departure": "08:00, codziennie",
+   "return_time": "18:00",
+   "meeting_point": "Międzynarodowy Terminal Promowy w Bodrum, ulica Neyzen Tevfik",
+   "description": [
+    "Znany od ponad wieku jako 'Wyspa Nurków Poławiających Gąbki', Kalymnos zbudował swoje bogactwo i tożsamość na egejskim handlu gąbkami - w warsztatach wokół portu Pothia wciąż można zobaczyć, jak gąbki są czyszczone i sprzedawane. Nad miastem wznoszą się jedne z najwyższych wapiennych klifów w basenie Morza Śródziemnego, które uczyniły wyspę światowej sławy destynacją dla wspinaczy.",
+    "Nie trzeba jednak się wspinać, by cieszyć się Kalymnos: ta wycieczka daje czas wolny na spacer po neoklasycystycznej promenadzie Pothii, przejrzenie sklepów z gąbkami i biżuterią oraz spojrzenie przez cieśninę na maleńką wysepkę Telendos. Postoje na kąpiel w czystych, spokojnych zatoczkach dopełniają dzień, który wyraźnie różni się od większych rejsów międzywyspowych."
+   ],
+   "highlights": [
+    "Rejs promem pod słynnymi wapiennymi klifami Kalymnos",
+    "Warsztaty i pokazy obróbki gąbek w Pothii",
+    "Widoki na wysepkę Telendos",
+    "Czas wolny na kąpiel w przejrzystych przybrzeżnych zatoczkach",
+    "Neoklasycystyczna architektura portu",
+    "Anglojęzyczny przewodnik przez cały rejs"
+   ],
+   "included": [
+    "Bilety promowe Bodrum - Kalymnos w obie strony",
+    "Odbiór i powrót z hotelu (półwysep Bodrum)",
+    "Anglojęzyczny przewodnik",
+    "Opłaty i podatki portowe",
+    "Spacer orientacyjny po Pothii",
+    "Ubezpieczenie podróżne na czas rejsu"
+   ],
+   "excluded": [
+    "Obiad i napoje na wyspie",
+    "Wydatki osobiste i zakupy",
+    "Rejs łodzią na wysepkę Telendos (opcjonalnie, płatne na miejscu)",
+    "Napiwki"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu na półwyspie Bodrum."},
+    {"time": "08:00", "title": "Wyjazd promem", "text": "Wejście na prom w Bodrum w celu przeprawy na Kalymnos."},
+    {"time": "09:15", "title": "Przybycie do Pothii", "text": "Spacer orientacyjny z przewodnikiem wzdłuż portu i warsztatów gąbkowych."},
+    {"time": "10:00", "title": "Czas wolny i kąpiel", "text": "Zwiedźcie miasto, kupcie gąbki na pamiątkę lub odpocznijcie w pobliskiej zatoczce."},
+    {"time": "16:30", "title": "Podróż powrotna", "text": "Wejście na prom powrotny, przybycie do Bodrum wieczorem."}
+   ],
+   "faq": [
+    {"q": "Czy Kalymnos jest odpowiedni dla osób, które się nie wspinają?", "a": "Zdecydowanie - wspinaczka jest tu tłem, a nie wymogiem. Większość gości spędza dzień, zwiedzając port Pothia, kupując naturalne gąbki i pływając."},
+    {"q": "Z czego słynie Kalymnos?", "a": "Kalymnos od pokoleń jest centrum egejskiego handlu naturalnymi gąbkami, a ostatnio stał się jednym z czołowych miejsc wspinaczkowych w Europie dzięki wapiennym klifom."},
+    {"q": "Czy możemy odwiedzić wysepkę Telendos?", "a": "Maleńka wysepka Telendos jest widoczna tuż za cieśniną i można do niej dotrzeć krótką lokalną łodzią, którą można zorganizować samodzielnie w czasie wolnym."},
+    {"q": "Czy potrzebny jest paszport?", "a": "Tak, ważny paszport jest wymagany od każdego gościa, w tym dzieci."}
+   ]
+  }
+ }
+}

@@ -1,0 +1,1677 @@
+{
+  "kos-island": {
+    "name": "Kos Insel Tour",
+    "short": "Ein voller Tag auf der griechischen Insel Kos - Burgen, antike Ruinen und das klarste Wasser der Ägäis.",
+    "location": "Kos, Griechenland (per Fähre ab Bodrum)",
+    "duration": "10 Stunden - Ganztägig",
+    "departure": "08:00 Uhr, täglich",
+    "return_time": "18:30 Uhr",
+    "meeting_point": "Internationales Fährterminal Bodrum, Neyzen-Tevfik-Straße",
+    "description": [
+      "Kos liegt nur eine kurze Fährfahrt von Bodrum entfernt und fühlt sich dennoch wie eine andere Welt an - weiß getünchte Gassen, Architektur aus der italienischen Zeit und die unverwechselbare Ruhe eines griechischen Inselmorgens. Ihr Tag beginnt mit einer malerischen Überfahrt direkt ins Herz von Kos-Stadt.",
+      "An Land angekommen spazieren Sie an der Ritterburg aus dem 15. Jahrhundert vorbei, stehen unter der antiken Platane, unter der Hippokrates gelehrt haben soll, und schlendern durch Cafes und Boutiquen am Hafen. Es bleibt Zeit zum Baden am Stadtstrand, für griechische Küche oder zum Verlaufen in der Altstadt, bevor die Fähre Sie bei Sonnenuntergang zurück nach Bodrum bringt."
+    ],
+    "highlights": [
+      "Fährüberfahrt mit Meerblick auf der gesamten Strecke",
+      "Freie Zeit zur Erkundung von Kos-Stadt im eigenen Tempo",
+      "Ritterburg und die Hippokrates-Platane",
+      "Optionales Baden am Stadtstrand",
+      "Griechische Tavernen, Backereien und Boutiquen",
+      "Unterstützung durch englischsprachigen Guide im Hafen"
+    ],
+    "included": [
+      "Fährticket Bodrum - Kos hin und zurück",
+      "Hotelabholung auf der Bodrum-Halbinsel",
+      "Englischsprachiger Reiseleiter",
+      "Hafengebühren und Steuern",
+      "Freizeit in Kos-Stadt",
+      "Reiseversicherung während der Überfahrt"
+    ],
+    "excluded": [
+      "Mittagessen und Getränke auf Kos",
+      "Persönliche Ausgaben und Einkäufe",
+      "Optionale Ausflüge auf der Insel",
+      "Trinkgelder"
+    ],
+    "program": [
+      {
+        "time": "07:00",
+        "title": "Hotelabholung",
+        "text": "Unser Fahrer holt Sie in der Lobby Ihres Hotels auf der Bodrum-Halbinsel ab."
+      },
+      {
+        "time": "08:00",
+        "title": "Abfahrt mit der Fähre",
+        "text": "Einschiffung am Internationalen Fährterminal Bodrum für die Überfahrt nach Kos."
+      },
+      {
+        "time": "09:15",
+        "title": "Ankunft in Kos-Stadt",
+        "text": "Passkontrolle und kurzer Orientierungsspaziergang mit Ihrem Guide."
+      },
+      {
+        "time": "09:45",
+        "title": "Freie Erkundung",
+        "text": "Besuchen Sie Burg, Altstadt, Strand und Cafes in Ihrem eigenen Tempo."
+      },
+      {
+        "time": "17:00",
+        "title": "Rückfahrt",
+        "text": "Einschiffung zur Rückfahrt nach Bodrum, Ankunft am frühen Abend."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich einen Reisepass für die Kos-Insel-Tour?",
+        "a": "Ja, ein gültiger Reisepass ist für alle Gäste erforderlich, auch für Kinder. Bitte prüfen Sie vor der Buchung die Einreisebestimmungen für Ihre Staatsangehörigkeit."
+      },
+      {
+        "q": "Ist das Mittagessen bei der Kos-Insel-Tour inbegriffen?",
+        "a": "Das Mittagessen ist nicht inbegriffen, damit Sie frei zwischen den Tavernen und Cafes in Kos-Stadt wählen können. Gerne empfehlen wir Ihnen ein Restaurant."
+      },
+      {
+        "q": "Wie viel Freizeit haben wir in Kos-Stadt?",
+        "a": "Sie haben etwa sieben Stunden Freizeit, um Burg, Altstadt, Geschäfte und Strand in Ihrem eigenen Tempo zu erkunden."
+      },
+      {
+        "q": "Ist die Kos-Insel-Tour für Kinder geeignet?",
+        "a": "Ja, die Tour ist familienfreundlich und beinhaltet Badezeit, allerdings benötigen auch Kinder einen gültigen Reisepass."
+      }
+    ]
+  },
+  "leros-island": {
+    "name": "Leros Insel Tour",
+    "short": "Ein ruhigerer griechischer Inseltrip - Art-Deco-Hafen, versteckte Buchten und ein entschleunigtes Inselleben.",
+    "location": "Leros, Griechenland (per Fähre ab Bodrum)",
+    "duration": "11 Stunden - Ganztägig",
+    "departure": "07:30 Uhr, an ausgewählten Tagen",
+    "return_time": "18:30 Uhr",
+    "meeting_point": "Internationales Fährterminal Bodrum, Neyzen-Tevfik-Straße",
+    "description": [
+      "Leros ist die Insel des Dodekanes, die die meisten Besucher gar nicht erst einplanen - und an die sie sich später am längsten erinnern. Abseits der großen Ausflugsgruppen säumen markante italienische Rationalismus-Bauten aus den 1930er Jahren die Häfen, ein Erbe der ungewöhnlichen Geschichte der Insel als italienischer Marinestützpunkt.",
+      "Ihr Tag verläuft entspannt: ein Spaziergang durch den stimmungsvollen Hafen von Lakki, ein Aufstieg zur Kastro-Burg von Panteli mit weitem Blick über die Bucht und freie Zeit zum Baden in Buchten, die selbst zur Hauptsaison ruhig bleiben. Die richtige Wahl für alle, die das 'echte' Ägäische Meer Bucht für Bucht erleben möchten."
+    ],
+    "highlights": [
+      "Malerische Fährüberfahrt zu einer selten besuchten griechischen Insel",
+      "Architektur des italienischen Rationalismus im Hafen von Lakki",
+      "Aussichtspunkt Panteli-Burg über die Bucht",
+      "Ruhige Buchten zum Baden abseits der Menschenmengen",
+      "Traditionelle Dörfer Alinda und Pandeli",
+      "Kleingruppentempo mit englischsprachigem Guide"
+    ],
+    "included": [
+      "Fährticket Bodrum - Leros hin und zurück",
+      "Hotelabholung auf der Bodrum-Halbinsel",
+      "Englischsprachiger Reiseleiter",
+      "Hafengebühren und Steuern",
+      "Geführter Spaziergang durch Lakki und Panteli",
+      "Reiseversicherung während der Überfahrt"
+    ],
+    "excluded": [
+      "Mittagessen und Getränke auf der Insel",
+      "Persönliche Ausgaben und Einkäufe",
+      "Museumseintritte",
+      "Trinkgelder"
+    ],
+    "program": [
+      {
+        "time": "06:30",
+        "title": "Hotelabholung",
+        "text": "Frühe Abholung von Ihrem Hotel, um rechtzeitig das Fährterminal zu erreichen."
+      },
+      {
+        "time": "07:30",
+        "title": "Abfahrt mit der Fähre",
+        "text": "Einschiffung in Bodrum für die Überfahrt nach Leros."
+      },
+      {
+        "time": "09:00",
+        "title": "Ankunft in Lakki",
+        "text": "Geführter Spaziergang durch die Art-Deco-Hafenstadt, anschließend weiter nach Panteli."
+      },
+      {
+        "time": "10:30",
+        "title": "Freizeit und Baden",
+        "text": "Erkunden Sie den Strand von Alinda, die Burg oder entspannen Sie am Wasser."
+      },
+      {
+        "time": "17:00",
+        "title": "Rückfahrt",
+        "text": "Einschiffung zur Rückfahrt, Ankunft am frühen Abend in Bodrum."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Warum ist Leros weniger überlaufen als Kos?",
+        "a": "Leros wird von deutlich weniger Tagesausflüglern besucht, daher sind Strände, Cafes und die Altstadt spürbar ruhiger - ideal, wenn Sie ein entspanntes Tempo einem belebten Urlaubsort vorziehen."
+      },
+      {
+        "q": "Brauche ich einen Reisepass für Leros?",
+        "a": "Ja, ein gültiger Reisepass ist für alle Gäste erforderlich. Bitte prüfen Sie vor der Buchung eventuelle Visabestimmungen für Ihre Staatsangehörigkeit."
+      },
+      {
+        "q": "Gibt es bei dieser Tour Zeit zum Baden?",
+        "a": "Ja, im Programm ist freie Zeit speziell zum Baden in einer der ruhigen Buchten der Insel vorgesehen."
+      },
+      {
+        "q": "An welchen Tagen findet die Leros-Tour statt?",
+        "a": "Diese Tour findet je nach Fährplan an ausgewählten Wochentagen statt - unser Team bestätigt die Verfügbarkeit bei der Buchung."
+      }
+    ]
+  },
+  "kalymnos-island": {
+    "name": "Kalymnos Insel Tour",
+    "short": "Die Insel der Schwammtaucher - dramatische Kalksteinfelsen, türkisfarbene Buchten und eine authentische griechische Hafenstadt.",
+    "location": "Kalymnos, Griechenland (per Fähre ab Bodrum)",
+    "duration": "10 Stunden - Ganztägig",
+    "departure": "08:00 Uhr, täglich",
+    "return_time": "18:00 Uhr",
+    "meeting_point": "Internationales Fährterminal Bodrum, Neyzen-Tevfik-Straße",
+    "description": [
+      "Seit über einem Jahrhundert als 'Insel der Schwammtaucher' bekannt, verdankt Kalymnos seinen Wohlstand und seine Identität dem ägäischen Schwammhandel - noch heute können Sie in Werkstätten rund um den Hafen von Pothia beobachten, wie Schwämme gereinigt und verkauft werden. Über der Stadt erheben sich einige der höchsten Kalksteinfelsen des Mittelmeers, die die Insel zu einem weltberühmten Ziel für Kletterer gemacht haben.",
+      "Zum Genießen von Kalymnos müssen Sie jedoch nicht klettern: Diese Tour gibt Ihnen freie Zeit, um die klassizistische Uferpromenade von Pothia zu erkunden, in Schwamm- und Schmuckläden zu stöbern und über die Meerenge zur winzigen Insel Telendos zu blicken. Badestopps in klaren, ruhigen Buchten runden einen Tag ab, der sich spürbar von den größeren Inselüberfahrten unterscheidet."
+    ],
+    "highlights": [
+      "Fährüberfahrt unterhalb der berühmten Kalksteinfelsen von Kalymnos",
+      "Schwammwerkstätten und Vorführungen in Pothia",
+      "Ausblicke auf die Insel Telendos",
+      "Freie Zeit zum Baden in klaren Küstenbuchten",
+      "Klassizistische Hafenarchitektur",
+      "Englischsprachiger Guide während der gesamten Überfahrt"
+    ],
+    "included": [
+      "Fährticket Bodrum - Kalymnos hin und zurück",
+      "Hotelabholung auf der Bodrum-Halbinsel",
+      "Englischsprachiger Reiseleiter",
+      "Hafengebühren und Steuern",
+      "Orientierungsspaziergang durch Pothia",
+      "Reiseversicherung während der Überfahrt"
+    ],
+    "excluded": [
+      "Mittagessen und Getränke auf der Insel",
+      "Persönliche Ausgaben und Einkäufe",
+      "Bootsfahrt zur Insel Telendos (optional, vor Ort zahlbar)",
+      "Trinkgelder"
+    ],
+    "program": [
+      {
+        "time": "07:00",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel auf der Bodrum-Halbinsel."
+      },
+      {
+        "time": "08:00",
+        "title": "Abfahrt mit der Fähre",
+        "text": "Einschiffung in Bodrum für die Überfahrt nach Kalymnos."
+      },
+      {
+        "time": "09:15",
+        "title": "Ankunft in Pothia",
+        "text": "Geführter Orientierungsspaziergang entlang des Hafens und der Schwammwerkstätten."
+      },
+      {
+        "time": "10:00",
+        "title": "Freizeit und Baden",
+        "text": "Erkunden Sie die Stadt, kaufen Sie Schwämme oder entspannen Sie in einer nahegelegenen Bucht."
+      },
+      {
+        "time": "16:30",
+        "title": "Rückfahrt",
+        "text": "Einschiffung zur Rückfahrt, Ankunft am Abend in Bodrum."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ist Kalymnos auch für Nicht-Kletterer geeignet?",
+        "a": "Auf jeden Fall - die Kletterszene ist eher Kulisse als Pflichtprogramm. Die meisten Gäste verbringen den Tag mit der Erkundung des Hafens von Pothia, dem Kauf von Naturschwämmen und Baden."
+      },
+      {
+        "q": "Wofür ist Kalymnos bekannt?",
+        "a": "Kalymnos ist seit Generationen das Zentrum des ägäischen Naturschwammhandels und hat sich zuletzt dank seiner Kalksteinfelsen zu einem der führenden Klettergebiete Europas entwickelt."
+      },
+      {
+        "q": "Können wir die Insel Telendos besuchen?",
+        "a": "Die winzige Insel Telendos ist direkt gegenüber der Meerenge sichtbar und mit einem kurzen lokalen Boot erreichbar, das Sie in Ihrer Freizeit unabhängig organisieren können."
+      },
+      {
+        "q": "Brauche ich einen Reisepass?",
+        "a": "Ja, ein gültiger Reisepass ist für jeden Gast erforderlich, auch für Kinder."
+      }
+    ]
+  },
+  "boat-trip": {
+    "name": "Bodrum Bootstour",
+    "short": "Eine klassische Gulet-Kreuzfahrt zu Bodrums Buchten, Höhlen und Schlammhöhlen der Schwarzen Insel.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "7 Stunden - Tagestour",
+    "departure": "10:00 Uhr, täglich (wetterabhängig)",
+    "return_time": "17:00 Uhr",
+    "meeting_point": "Bodrum Marina, Steg 4 (oder Hotelabholpunkt)",
+    "description": [
+      "Es gibt einen Grund, warum die Bodrum-Bootstour unser meistgebuchter Ausflug ist: Sie ist schlicht der beste Weg, die Halbinsel zu erleben. An Bord eines traditionellen Holz-Gulets fahren Sie zu einer Reihe geschützter Buchten und werfen dort Anker, wo das Wasser zu einladend ist, um weiterzufahren.",
+      "Zu den Höhepunkten zählen die unglaublich klaren Untiefen der Aquarium-Bucht, ein Stopp an der Schwarzen Insel (Karaada), wo eine Höhlenquelle es Ihnen erlaubt, sich mit mineralreichem Schlamm einzureiben und im Meer abzuspülen, sowie reichlich Zeit zum Baden bei Musik an Deck. Unterwegs wird ein einfaches Mittagessen an Bord serviert."
+    ],
+    "highlights": [
+      "Kreuzfahrt an Bord eines traditionellen Holz-Gulets",
+      "Badestopp in den klaren Untiefen der Aquarium-Bucht",
+      "Mineralschlamm-Höhlenerlebnis auf der Schwarzen Insel",
+      "Mehrere Bade- und Sonnenstopps",
+      "Mittagessen und Musik an Bord",
+      "Kostenlose Hotelabholung auf der Bodrum-Halbinsel"
+    ],
+    "included": [
+      "Ganztägige Gulet-Kreuzfahrt",
+      "Hotelabholung und -rückbringung",
+      "Mittagessen an Bord",
+      "Softgetränke und Tee an Bord",
+      "Schnorchelausrüstung (begrenzte Anzahl)",
+      "Rettungswesten und Sicherheitseinweisung"
+    ],
+    "excluded": [
+      "Alkoholische Getränke",
+      "Eintritt zum Schlammbad auf der Schwarzen Insel (kleine Vor-Ort-Gebühr)",
+      "Persönliche Ausgaben",
+      "Trinkgeld für die Crew"
+    ],
+    "program": [
+      {
+        "time": "09:15",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel und Transfer zur Marina."
+      },
+      {
+        "time": "10:00",
+        "title": "Abfahrt",
+        "text": "Der Gulet legt von der Bodrum Marina zur ersten Bucht ab."
+      },
+      {
+        "time": "11:00",
+        "title": "Aquarium-Bucht",
+        "text": "Ankern und Baden im flachen, kristallklaren Wasser."
+      },
+      {
+        "time": "13:00",
+        "title": "Mittagessen an Bord",
+        "text": "Ein entspanntes Mittagessen an Bord wird vor Anker in einer ruhigen Bucht serviert."
+      },
+      {
+        "time": "14:30",
+        "title": "Schwarze Insel",
+        "text": "Optionaler Besuch der Mineralschlamm-Höhle, anschließend weiteres Baden."
+      },
+      {
+        "time": "16:30",
+        "title": "Rückkehr zur Marina",
+        "text": "Rückfahrt zur Bodrum Marina und Transfer zu Ihrem Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Was sollte ich zur Bodrum-Bootstour mitbringen?",
+        "a": "Empfohlen werden Badebekleidung, Handtuch, Sonnencreme und Wechselkleidung. Schnorchelausrüstung und Rettungswesten werden an Bord gestellt."
+      },
+      {
+        "q": "Ist die Bodrum-Bootstour für Nichtschwimmer geeignet?",
+        "a": "Ja, Rettungswesten stehen für alle zur Verfügung, die sich beim Schwimmen nicht sicher fühlen, und niemand muss ins Wasser gehen."
+      },
+      {
+        "q": "Was passiert bei schlechtem Wetter?",
+        "a": "Die Route kann an die Seebedingungen angepasst werden; in seltenen Fällen unsicheren Wetters wird die Tour verschoben oder erstattet."
+      },
+      {
+        "q": "Ist das Mittagessen wirklich inbegriffen?",
+        "a": "Ja, ein vollständiges Mittagessen an Bord sowie Softgetränke sind im Preis enthalten - nur alkoholische Getränke kosten extra."
+      }
+    ]
+  },
+  "private-boat-trip": {
+    "name": "Private Bootstour",
+    "short": "Dieselben wunderschönen Buchten wie bei unserer klassischen Kreuzfahrt, auf einem Gulet exklusiv für Ihre Gruppe.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "6 Stunden - Individuell anpassbar",
+    "departure": "Flexibel, nach Vereinbarung",
+    "return_time": "Flexibel",
+    "meeting_point": "Bodrum Marina oder Ihr Hotelsteg (nach Vereinbarung)",
+    "description": [
+      "Für Reisende, die lieber ihr eigenes Tempo bestimmen, chartert die Private Bootstour ein Holz-Gulet ausschließlich für Ihre Gruppe - Familie, Freunde oder ein Paar, das etwas Besonderes feiert. Es gibt keinen gemeinsamen Zeitplan zu befolgen, Sie entscheiden, wie lange Sie in jeder Bucht verweilen.",
+      "Unsere Crew schlägt basierend auf den Bedingungen und Ihren Interessen eine Route vor, von ruhigen Badebuchten bis zur Mineralschlamm-Höhle der Schwarzen Insel - die Route gestalten jedoch wirklich Sie. Es gilt eine Mindestgruppengröße; kontaktieren Sie uns für genaue Preise darüber hinaus."
+    ],
+    "highlights": [
+      "Privates Gulet nur für Ihre Gruppe",
+      "Flexible Abfahrtszeit und Route",
+      "Wählen Sie Ihre eigene Mischung aus Buchten und Aktivitäten",
+      "Mittagessen an Bord nach Ihren Wünschen zubereitet",
+      "Ideal für Feiern und Familiengruppen",
+      "Persönliche, englischsprachige Crew"
+    ],
+    "included": [
+      "Private Gulet-Charter",
+      "Hotel- oder Stegabholung und -rückbringung",
+      "Mittagessen an Bord",
+      "Softgetränke und Tee an Bord",
+      "Schnorchelausrüstung",
+      "Rettungswesten und Sicherheitseinweisung"
+    ],
+    "excluded": [
+      "Alkoholische Getränke (auf Anfrage ergänzbar)",
+      "Eintritt zum Schlammbad auf der Schwarzen Insel (kleine Vor-Ort-Gebühr)",
+      "Spezielle Catering-Upgrades",
+      "Trinkgeld für die Crew"
+    ],
+    "program": [
+      {
+        "time": "Nach Vereinbarung",
+        "title": "Abholung",
+        "text": "Wir stimmen eine für Ihre Gruppe passende Abholzeit ab."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Routenplanung",
+        "text": "Der Kapitän schlägt eine Route vor; Sie entscheiden, was hinzukommt oder entfällt."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Buchten und Baden",
+        "text": "Bleiben Sie so lange vor Anker, wie Sie möchten."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Mittagessen an Bord",
+        "text": "Das Mittagessen wird serviert, wenn es zum Rhythmus Ihrer Gruppe passt."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Rückkehr",
+        "text": "Rückfahrt zur mit Ihrem Kapitän vereinbarten Zeit."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wie viele Personen können an der Privaten Bootstour teilnehmen?",
+        "a": "Boote sind in verschiedenen Größen verfügbar; teilen Sie uns bei der Buchung Ihre Gruppengröße mit, damit wir das passende Gulet zuordnen können."
+      },
+      {
+        "q": "Können wir unsere eigene Route wählen?",
+        "a": "Ja, die Route ist flexibel - unsere Crew macht Vorschläge, aber Sie können frei entscheiden, welche Buchten und Aktivitäten Ihnen am wichtigsten sind."
+      },
+      {
+        "q": "Eignet sich das für einen besonderen Anlass?",
+        "a": "Es ist eine unserer beliebtesten Optionen für Geburtstage, Jahrestage und Heiratsanträge - informieren Sie uns im Voraus, damit wir kleine Extras arrangieren können."
+      },
+      {
+        "q": "Ändern sich die Preise je nach Gruppengröße?",
+        "a": "Der angegebene Preis gilt pro Person bei einer Mindestgruppengröße; für größere oder kleinere Gruppen kontaktieren Sie uns direkt für ein genaues Angebot."
+      }
+    ]
+  },
+  "vip-yacht": {
+    "name": "VIP Yacht Charter",
+    "short": "Eine Premium-Motoryacht-Charter mit eigener Crew für Gäste, die die Ägäis in ihrer luxuriösesten Form erleben möchten.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "8 Stunden - Ganztägig (Halbtags-Option verfügbar)",
+    "departure": "Flexibel, nach Vereinbarung",
+    "return_time": "Flexibel",
+    "meeting_point": "Bodrum Marina, privater Liegeplatz (oder nach Vereinbarung)",
+    "description": [
+      "Unser VIP Yacht Charter wurde für Gäste konzipiert, die den Glanz einer privaten Yacht ohne den Aufwand des Besitzes genießen möchten. Sie fahren an Bord einer Premium-Motoryacht mit professionellem Kapitän und Crew und halten dort an, wo Wasser und Aussicht am schönsten sind.",
+      "Erwarten Sie ein sorgfältig zusammengestelltes Bordmenü, gekühlte Getränke, hochwertiges Wasserspielzeug und einen aufmerksamen Service, der den Tag mühelos wirken lässt. Ein Favorit für besondere Anlässe, Heiratsanträge und Gäste, die sich einfach die schönste Version eines Bodrum-Tages auf See gönnen möchten."
+    ],
+    "highlights": [
+      "Premium-Motoryacht mit professioneller Crew",
+      "Vollständig flexible Route und Zeitplanung",
+      "Sorgfältig zusammengestelltes Bordmenü und Erfrischungen",
+      "Wasserspielzeug und hochwertige Schnorchelausrüstung",
+      "Ideal für Heiratsanträge und Feiern",
+      "Diskreter Service auf Fünf-Sterne-Niveau"
+    ],
+    "included": [
+      "Private Yacht-Charter mit Kapitän und Crew",
+      "Hotel- oder Marina-Abholung und -rückbringung",
+      "Bordmenü und Erfrischungen",
+      "Premium-Schnorchelausrüstung und Wasserspielzeug",
+      "Rettungswesten und vollständige Sicherheitseinweisung",
+      "Bluetooth-Soundsystem an Bord"
+    ],
+    "excluded": [
+      "Premium-Champagner und Spirituosen (auf Anfrage)",
+      "Besondere Eventdekoration oder Catering-Upgrades",
+      "Eintritt zum Schlammbad auf der Schwarzen Insel (kleine Vor-Ort-Gebühr)",
+      "Trinkgeld für die Crew"
+    ],
+    "program": [
+      {
+        "time": "Nach Vereinbarung",
+        "title": "Abholung",
+        "text": "Eine zu Ihrem Zeitplan passende Abholzeit wird abgestimmt."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Abfahrt",
+        "text": "Einschiffung an der Marina oder am vereinbarten privaten Liegeplatz."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Kreuzfahrt und Baden",
+        "text": "Besuchen Sie Ihre gewählten Buchten mit so viel Ankerzeit, wie Sie möchten."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Bordessen",
+        "text": "Ein sorgfältig zusammengestelltes Menü wird zu der für Sie passenden Zeit serviert."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Rückkehr",
+        "text": "Rückkehr zur Marina zur vereinbarten Zeit."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wie viele Gäste fasst die VIP Yacht?",
+        "a": "Die Kapazität hängt von der für Ihr Datum zugewiesenen Yacht ab; teilen Sie uns bei der Anfrage Ihre Gruppengröße mit, wir bestätigen das passende Schiff."
+      },
+      {
+        "q": "Können wir eine Halbtagescharter buchen?",
+        "a": "Ja, eine kürzere Halbtagsoption ist verfügbar - teilen Sie uns bei der Buchung Ihre Präferenz mit, wir passen den Preis entsprechend an."
+      },
+      {
+        "q": "Ist das Catering anpassbar?",
+        "a": "Ja, wir können das Bordmenü bei rechtzeitiger Ankündigung an Ernährungswünsche oder besondere Anfragen anpassen."
+      },
+      {
+        "q": "Eignet sich das für einen Heiratsantrag?",
+        "a": "Es ist einer unserer meistgefragten Rahmen für Heiratsanträge - melden Sie sich im Voraus, unser Team hilft, den Moment zu gestalten."
+      }
+    ]
+  },
+  "turkish-bath": {
+    "name": "Türkisches Hamam-Erlebnis",
+    "short": "Ein traditionelles Hamam-Ritual osmanischer Art - heißer Marmor, Dampf, Schaumwäsche und eine Ganzkörper-Peeling-Behandlung.",
+    "location": "Bodrum Stadtzentrum, Türkei",
+    "duration": "1,5 Stunden",
+    "departure": "Mehrere Zeitfenster, täglich",
+    "return_time": "Am selben Tag, nach Abschluss",
+    "meeting_point": "Historisches Hamam, Bodrum Stadtzentrum",
+    "description": [
+      "Das türkische Hamam ist jahrhundertealt, und dieses Erlebnis folgt dem traditionellen Ritual von Anfang bis Ende. Sie beginnen mit Entspannung auf der beheizten Marmorplattform (dem Göbek Tasi, dem 'Bauchstein'), um die Poren in sanftem Dampf zu öffnen, bevor eine Betreuerin eine Ganzkörper-Kese-Peeling-Behandlung durchführt, die die Haut bemerkenswert weich zurücklässt.",
+      "Es folgt eine warme, traditionelle Schaumwäsche, großzügig aus einem Tuch gegossen, und der Besuch endet mit einer optionalen Ölmassage. Getrennte Sitzungen für Männer und Frauen sind verfügbar, und das gesamte Erlebnis ist ebenso entspannend wie authentisch gestaltet."
+    ],
+    "highlights": [
+      "Historisches Hamam in Bodrums Altstadt",
+      "Traditionelle heiße Marmorplattform (Göbek Tasi)",
+      "Ganzkörper-Kese-Peeling",
+      "Warme, traditionelle Schaumwäsche",
+      "Optionales Ölmassage-Upgrade",
+      "Getrennte Sitzungen für Männer und Frauen"
+    ],
+    "included": [
+      "Hamam-Eintritt und vollständiges Ritual",
+      "Kese-Peeling und Schaumwäsche",
+      "Handtücher, Peshtemal-Tuch und Pantoffeln",
+      "Kräutertee nach der Sitzung",
+      "Spind für Ihre Wertsachen",
+      "Hotelabholung auf Anfrage"
+    ],
+    "excluded": [
+      "Ölmassage-Upgrade (optionale Ergänzung)",
+      "Transport, falls nicht im Voraus angefragt",
+      "Persönliche Pflegeartikel",
+      "Trinkgeld für die Betreuerin"
+    ],
+    "program": [
+      {
+        "time": "00:00",
+        "title": "Ankunft und Check-in",
+        "text": "Wechseln Sie in Ihr Peshtemal und verstauen Sie Ihre Sachen in einem Spind."
+      },
+      {
+        "time": "00:15",
+        "title": "Aufwärmen auf dem Marmor",
+        "text": "Entspannen Sie auf dem beheizten Göbek Tasi, während Dampf die Poren öffnet."
+      },
+      {
+        "time": "00:45",
+        "title": "Kese-Peeling",
+        "text": "Eine traditionelle Ganzkörper-Peeling-Behandlung entfernt abgestorbene Hautzellen."
+      },
+      {
+        "time": "01:05",
+        "title": "Schaumwäsche",
+        "text": "Eine warme, großzügige Schaumwäsche nach traditioneller Art."
+      },
+      {
+        "time": "01:20",
+        "title": "Entspannung und Tee",
+        "text": "Abschluss mit Kräutertee im Ruhebereich."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ist das türkische Bad gemischt oder getrennt für Männer und Frauen?",
+        "a": "Nach traditionellem Hamam-Brauch finden die Sitzungen getrennt für Männer und Frauen statt."
+      },
+      {
+        "q": "Was sollte ich zum Hamam mitbringen?",
+        "a": "Nichts Zusätzliches ist erforderlich - Peshtemal-Tuch, Handtücher und Pantoffeln werden gestellt. Wer nicht das traditionelle Tuch nutzen möchte, kann eigene Badebekleidung mitbringen."
+      },
+      {
+        "q": "Ist die Ölmassage inbegriffen?",
+        "a": "Das Kernritual (Marmor-Aufwärmung, Peeling und Schaumwäsche) ist inbegriffen; die Ölmassage ist ein optionales, kostenpflichtiges Upgrade, das Sie bei der Buchung hinzufügen können."
+      },
+      {
+        "q": "Können Kinder am türkischen Bad teilnehmen?",
+        "a": "Ja, Kinder sind in Begleitung eines Elternteils willkommen, wobei das Peeling bei jüngeren Gästen in der Regel sanfter ausgeführt wird."
+      }
+    ]
+  },
+  "jeep-safari": {
+    "name": "Jeep Safari Abenteuer",
+    "short": "Ein offener Jeep-Konvoi durch Bodrums Hügel, Mandarinenhaine und Bergdörfer.",
+    "location": "Hinterland der Bodrum-Halbinsel, Türkei",
+    "duration": "6 Stunden - Halbtags",
+    "departure": "09:00 Uhr, täglich",
+    "return_time": "15:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Tauschen Sie die Küste gegen die Berge bei diesem offenen Jeep-Konvoi durch die wildere Seite der Bodrum-Halbinsel. Ihr Fahrer führt eine kleine Gruppe von Geländewagen über Feldwege durch Pinienwälder, Mandarinen- und Olivenhaine sowie verschlafene Bergdörfer, die die meisten Besucher nie zu Gesicht bekommen.",
+      "Es gibt regelmäßige Fotostopps an Panoramablicken über die Ägäis, einen Wasser- und Schlammabschnitt, der immer für Lacher sorgt, sowie eine Dorfpause, bei der Sie frische lokale Produkte oder ein kaltes Getränk erwerben können. Ein staubiger, energiegeladener Kontrast zu einem Strandtag - und ein guter dazu."
+    ],
+    "highlights": [
+      "Offener Geländewagen-Konvoi durch das Hinterland der Halbinsel",
+      "Bergaussichtspunkte über die Ägäisküste",
+      "Mandarinen- und Olivenhain-Landschaft",
+      "Spielerischer Wasser- und Schlammabschnitt",
+      "Stopp in einem traditionellen Bergdorf",
+      "Kleiner Konvoi für ein persönliches Tempo"
+    ],
+    "included": [
+      "Jeepsitz in einem gemeinsamen Geländewagen-Konvoi",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachiger Fahrer-Guide",
+      "Wasserflaschen im Fahrzeug",
+      "Dorfstopp mit Freizeit",
+      "Versicherung während des Ausflugs"
+    ],
+    "excluded": [
+      "Mittagessen und Snacks (im Dorf erhältlich)",
+      "Persönliche Ausgaben und Souvenirs",
+      "Wechselkleidung bei Teilnahme am Schlammabschnitt",
+      "Trinkgeld für den Fahrer"
+    ],
+    "program": [
+      {
+        "time": "09:00",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel und Transfer zum Startpunkt des Konvois."
+      },
+      {
+        "time": "09:45",
+        "title": "In die Berge",
+        "text": "Der Jeep-Konvoi beginnt den Aufstieg über Wald- und Hainwege."
+      },
+      {
+        "time": "11:00",
+        "title": "Aussichtspunkt-Stopp",
+        "text": "Fotostopp mit Blick über die Ägäisküste."
+      },
+      {
+        "time": "12:00",
+        "title": "Wasser- und Schlammabschnitt",
+        "text": "Ein spielerischer Geländeabschnitt mit Wasser- und Schlammdurchquerungen."
+      },
+      {
+        "time": "13:00",
+        "title": "Dorfpause",
+        "text": "Freizeit in einem Bergdorf für ein Getränk oder lokalen Snack."
+      },
+      {
+        "time": "14:30",
+        "title": "Rückfahrt",
+        "text": "Der Konvoi kehrt zurück, Sie werden an Ihrem Hotel abgesetzt."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich Geländewagen-Erfahrung?",
+        "a": "Nein, ein erfahrener Fahrer-Guide führt den Konvoi in einem gemeinsamen Jeep - Sie genießen einfach die Fahrt."
+      },
+      {
+        "q": "Werde ich nass oder schmutzig?",
+        "a": "Die Teilnahme am Wasser- und Schlammabschnitt ist optional, aber etwas Wasser oder Staub auf der Strecke gehört zum Spaß dazu - wir empfehlen Kleidung, die schmutzig werden darf."
+      },
+      {
+        "q": "Ist die Jeep Safari für Kinder geeignet?",
+        "a": "Ja, Kinder sind willkommen, das holprige Gelände eignet sich jedoch am besten für Kinder ab 5 Jahren."
+      },
+      {
+        "q": "Ist das Mittagessen inbegriffen?",
+        "a": "Das Mittagessen ist nicht inbegriffen, im Dorfstopp gibt es jedoch Snack- und Getränkeoptionen; lassen Sie uns wissen, wenn Sie eine Tour mit Mittagessen bevorzugen."
+      }
+    ]
+  },
+  "atv-safari": {
+    "name": "ATV Safari",
+    "short": "Übernehmen Sie das Steuer für ein selbstgefahrenes Quad-Abenteuer auf den Feldwegen der Halbinsel.",
+    "location": "Hinterland der Bodrum-Halbinsel, Türkei",
+    "duration": "3 Stunden - Halbtags",
+    "departure": "10:00 und 14:00 Uhr, täglich",
+    "return_time": "13:00 / 17:00 Uhr",
+    "meeting_point": "ATV-Basislager (Hotelabholung verfügbar)",
+    "description": [
+      "Wenn es bei der Jeep Safari um die Aussicht geht, dreht sich die ATV Safari ums Fahren. Nach einer kurzen Sicherheitseinweisung übernehmen Sie das Steuer Ihres eigenen Quads und folgen Ihrem Guide über staubige Pfade, Waldwege und offenes Land am Rand der Halbinsel.",
+      "Es sind aktive, praktische Stunden - Quads mit einem oder zwei Sitzen stehen zur Verfügung, sodass sich das Angebot gleichermaßen für Alleinreisende und Paare eignet. Ein kurzer Rastplatz lässt Sie verschnaufen und Fotos machen, bevor es zurück zur Basis geht."
+    ],
+    "highlights": [
+      "Selbstgefahrenes Quad, kein Führerschein erforderlich",
+      "Geführter Konvoi über Wald- und Feldwege",
+      "Ein- und Zweisitzer-Quads verfügbar",
+      "Sicherheitseinweisung und Helm inklusive",
+      "Malerischer Rastplatz auf halber Strecke",
+      "Kompaktes Halbtagesformat"
+    ],
+    "included": [
+      "Quad-Miete für die Strecke",
+      "Helm und Sicherheitsausrüstung",
+      "Sicherheitseinweisung und Proberunde",
+      "Englischsprachiger Guide",
+      "Hotelabholung und -rückbringung",
+      "Wasserflasche"
+    ],
+    "excluded": [
+      "Kraftstoffzuschlag bei längeren Strecken (selten, wird vorab mitgeteilt)",
+      "Persönliche Ausgaben",
+      "Foto-/Videopaket (käuflich erhältlich)",
+      "Trinkgeld für den Guide"
+    ],
+    "program": [
+      {
+        "time": "09:30",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel und Transfer zum Basislager."
+      },
+      {
+        "time": "10:00",
+        "title": "Sicherheitseinweisung",
+        "text": "Erklärung der Quad-Bedienung und Sicherheitsregeln sowie eine kurze Proberunde."
+      },
+      {
+        "time": "10:20",
+        "title": "Geführte Fahrt",
+        "text": "Folgen Sie Ihrem Guide über Wald- und Landpfade."
+      },
+      {
+        "time": "11:15",
+        "title": "Rastplatz",
+        "text": "Kurze Pause für Wasser und Fotos an einem malerischen Punkt."
+      },
+      {
+        "time": "12:40",
+        "title": "Rückkehr zur Basis",
+        "text": "Der Konvoi kehrt zum Basislager zurück, Transfer zu Ihrem Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich einen Führerschein für die ATV Safari?",
+        "a": "Für die bei dieser Tour verwendeten Quads ist kein Führerschein erforderlich, das Mindestalter zum Fahren beträgt jedoch 16 Jahre (jüngere Gäste können als Beifahrer mit einem Erwachsenen mitfahren)."
+      },
+      {
+        "q": "Können sich zwei Personen ein Quad teilen?",
+        "a": "Ja, für Paare oder Eltern mit Kind stehen Zweisitzer-Quads zur Verfügung - teilen Sie uns Ihre Präferenz bei der Buchung mit."
+      },
+      {
+        "q": "Was sollte ich anziehen?",
+        "a": "Geschlossene Schuhe, Sonnenbrille und Kleidung, die staubig werden darf, werden empfohlen. Helme werden gestellt."
+      },
+      {
+        "q": "Ist die ATV Safari körperlich anstrengend?",
+        "a": "Sie ist moderat aktiv - Sie steuern und beschleunigen selbst - aber Vorerfahrung ist nicht erforderlich."
+      }
+    ]
+  },
+  "horse-riding": {
+    "name": "Reittour",
+    "short": "Ein geführter Ausritt durch die Landschaft und entlang der Küste bei Bodrum, geeignet für Anfänger.",
+    "location": "Ländliches Bodrum, Türkei",
+    "duration": "2 Stunden",
+    "departure": "09:00 und 17:00 Uhr, täglich",
+    "return_time": "11:00 / 19:00 Uhr",
+    "meeting_point": "Reitstall, Hotelabholung verfügbar",
+    "description": [
+      "Dieser geführte Ausritt ist für Reiter jeden Niveaus konzipiert, auch für absolute Anfänger. Nach einer kurzen Einführung in Ihr Pferd und den grundlegenden Umgang führt Ihr Guide die Gruppe in gemächlichem Tempo durch Olivenhaine und offenes Land, oft mit Blick auf die Ägäis.",
+      "Der Abendtermin ist wegen des weicheren Lichts und kühlerer Temperaturen besonders beliebt, beide Routen beinhalten einen Stopp zum Absteigen, Dehnen und Fotografieren, bevor es zurückgeht. Die Pferde werden dem Erfahrungsniveau der Reiter angepasst, für Komfort und Selbstvertrauen."
+    ],
+    "highlights": [
+      "Geeignet für absolute Anfänger",
+      "Landschafts- und Küstenausblicke entlang der Route",
+      "Morgens oder in der goldenen Abendstunde buchbar",
+      "Pferde passend zu Ihrem Erfahrungsniveau",
+      "Kleine Gruppengröße mit persönlichem Guide",
+      "Fotostopp entlang der Strecke"
+    ],
+    "included": [
+      "Pferd und geführter Ausritt",
+      "Reithelm",
+      "Grundlegende Reitanweisung vor dem Start",
+      "Englischsprachiger Guide",
+      "Hotelabholung und -rückbringung",
+      "Wasserflasche"
+    ],
+    "excluded": [
+      "Professionelles Fotopaket",
+      "Persönliche Ausgaben",
+      "Reitstiefel (geschlossenes Schuhwerk erforderlich, bitte mitbringen)",
+      "Trinkgeld für den Guide"
+    ],
+    "program": [
+      {
+        "time": "08:30",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel und Transfer zum Stall."
+      },
+      {
+        "time": "09:00",
+        "title": "Ihr Pferd kennenlernen",
+        "text": "Kurze Sicherheitseinweisung und Einführung in den Umgang mit Ihrem Pferd."
+      },
+      {
+        "time": "09:20",
+        "title": "Geführter Ausritt",
+        "text": "Reiten Sie durch Olivenhaine und offenes Land."
+      },
+      {
+        "time": "10:15",
+        "title": "Fotostopp",
+        "text": "Absteigen für eine kurze Pause, Dehnen und Fotos."
+      },
+      {
+        "time": "10:45",
+        "title": "Rückkehr zum Stall",
+        "text": "Rückritt zum Stall und Transfer zu Ihrem Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich Reiterfahrung?",
+        "a": "Nein, diese Tour heißt sowohl absolute Anfänger als auch erfahrene Reiter willkommen - Pferde und Tempo werden entsprechend angepasst."
+      },
+      {
+        "q": "Gibt es eine Gewichts- oder Altersgrenze?",
+        "a": "Reiter sollten in der Regel mindestens 8 Jahre alt sein; bitte kontaktieren Sie uns im Voraus bei speziellen Gewichts- oder Gesundheitsfragen, damit wir Sie mit dem passenden Pferd zusammenbringen können."
+      },
+      {
+        "q": "Was sollte ich anziehen?",
+        "a": "Geschlossene Schuhe und bequeme Hosen werden empfohlen. Ein Reithelm wird gestellt."
+      },
+      {
+        "q": "Welcher Termin ist besser, morgens oder abends?",
+        "a": "Beide sind schön - Morgen sind kühler und ruhiger, während der Abendtermin weicheres goldenes Licht bietet, besonders schön für Fotos."
+      }
+    ]
+  },
+  "scuba-diving": {
+    "name": "Tauch-Erlebnis",
+    "short": "Entdecken Sie die Ägäis unter Wasser bei einem anfängerfreundlichen Schnuppertauchgang oder einem geführten Tauchgang für zertifizierte Taucher.",
+    "location": "Tauchplätze der Bodrum-Halbinsel, Türkei",
+    "duration": "4 Stunden - Halbtags",
+    "departure": "09:30 Uhr, täglich (wetterabhängig)",
+    "return_time": "13:30 Uhr",
+    "meeting_point": "Tauchzentrum in der Bodrum Marina",
+    "description": [
+      "Bodrums klares Wasser und sanftes Unterwassergelände machen es zu einem der beliebtesten Orte der Türkei, um das Tauchen zum ersten Mal auszuprobieren - und auch für zertifizierte Taucher lohnenswert. Einsteiger nehmen an einer 'Discover Scuba'-Sitzung teil: eine kurze Einweisung an Land, dann ein flacher, vollständig beaufsichtigter Tauchgang mit einem Instruktor stets an Ihrer Seite.",
+      "Zertifizierte Taucher können an einem geführten Tauchgang zu tieferen Plätzen mit Riffleben teilnehmen und je nach Bedingungen die Chance haben, Oktopusse, Muränen und Brassenschwärme zu entdecken. Die gesamte Ausrüstung wird gestellt, und jeder Tauchgang wird von einem lizenzierten Instruktor geleitet."
+    ],
+    "highlights": [
+      "Anfängerfreundlicher Schnuppertauchgang, keine Erfahrung nötig",
+      "Geführte Tauchgänge für zertifizierte Taucher verfügbar",
+      "Kleine Gruppen mit lizenziertem Instruktor",
+      "Vollständige Ausrüstung inbegriffen",
+      "Klare Sichtweiten in der Ägäis",
+      "Unterwasser-Fotomöglichkeiten"
+    ],
+    "included": [
+      "Vollständige Tauchausrüstung (Neoprenanzug, Tank, Regler, Maske, Flossen)",
+      "Lizenzierter Instruktor und Sicherheitseinweisung",
+      "Bootstransfer zum Tauchplatz",
+      "Ein Tauchgang (Schnupper- oder geführter Tauchgang, je nach Zertifizierung)",
+      "Hotelabholung und -rückbringung",
+      "Wasserflasche und Handtuch"
+    ],
+    "excluded": [
+      "PADI- oder SSI-Zertifizierungskurs (separat erhältlich)",
+      "Unterwasser-Foto-/Videopaket (käuflich erhältlich)",
+      "Zusätzlicher zweiter Tauchgang",
+      "Trinkgeld für den Instruktor"
+    ],
+    "program": [
+      {
+        "time": "09:00",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel und Transfer zum Tauchzentrum."
+      },
+      {
+        "time": "09:30",
+        "title": "Einweisung und Ausrüstung",
+        "text": "Sicherheitseinweisung und Anpassung der Ausrüstung mit Ihrem Instruktor."
+      },
+      {
+        "time": "10:15",
+        "title": "Bootstransfer",
+        "text": "Kurze Bootsfahrt zum Tauchplatz."
+      },
+      {
+        "time": "10:45",
+        "title": "Der Tauchgang",
+        "text": "Ein flacher Schnupper- oder geführter Tauchgang, durchgehend vollständig beaufsichtigt."
+      },
+      {
+        "time": "12:30",
+        "title": "Rückkehr",
+        "text": "Rückfahrt zur Marina und Transfer zu Ihrem Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich Taucherfahrung, um teilzunehmen?",
+        "a": "Nein, der Schnuppertauchgang ist für absolute Anfänger konzipiert und beinhaltet vollständige Beaufsichtigung durch einen lizenzierten Instruktor in geringer Tiefe."
+      },
+      {
+        "q": "Was, wenn ich bereits zertifizierter Taucher bin?",
+        "a": "Zertifizierte Taucher können an einem geführten Tauchgang zu einem tieferen Platz teilnehmen - bringen Sie einfach Ihre Zertifizierungskarte zur Buchung mit."
+      },
+      {
+        "q": "Ist es sicher für Personen, die nicht gut schwimmen können?",
+        "a": "Grundlegende Wassersicherheit ist hilfreich, aber der Schnuppertauchgang wird eng beaufsichtigt und nutzt volle Auftriebsausrüstung, starke Schwimmfähigkeiten sind nicht erforderlich."
+      },
+      {
+        "q": "Was ist das Mindestalter für Tauchen?",
+        "a": "Der Schnuppertauchgang ist in der Regel ab 10 Jahren verfügbar; bitte geben Sie bei der Buchung das Alter junger Taucher an."
+      }
+    ]
+  },
+  "dolphin-park": {
+    "name": "Delfinpark-Besuch",
+    "short": "Ein familienfreundlicher halber Tag mit Delfin- und Seelöwenshows, mit optionalen Begegnungen im Wasser.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "3 Stunden",
+    "departure": "10:00 und 14:00 Uhr, täglich",
+    "return_time": "13:00 / 17:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Ein Vormittag oder Nachmittag im Delfinpark ist einer unserer beliebtesten Familienausflüge und verbindet eine unterhaltsame Show mit der Option, für eine engere Begegnung ins Wasser zu gehen. Trainierte Delfine und Seelöwen treten zusammen mit ihren Trainern in einem eigens dafür gebauten Showbecken auf.",
+      "Optionale Ergänzungen ermöglichen es Gästen (meist ab etwa 6 Jahren, mit Einschränkungen für jüngere Kinder), unter enger Aufsicht des Personals mit Delfinen zu schwimmen, sie zu berühren oder sich mit ihnen fotografieren zu lassen. Auch ohne die Wasser-Ergänzung sorgt allein die Show für ein paar unvergessliche Stunden für Kinder wie Erwachsene."
+    ],
+    "highlights": [
+      "Live-Delfin- und Seelöwenshow",
+      "Optionale Nahbegegnung oder Schwimm-Ergänzung",
+      "Eigens gebautes Showbecken mit Sitzplätzen",
+      "Ideal für Familien mit Kindern",
+      "Durchgehend Fotomöglichkeiten",
+      "Kompaktes Halbtagesformat"
+    ],
+    "included": [
+      "Eintritt und reservierter Showsitzplatz",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachige Reisebegleitung",
+      "Standard-Showpaket",
+      "Wasserflasche",
+      "Reiseversicherung"
+    ],
+    "excluded": [
+      "Schwimm- oder Nahbegegnungspaket im Wasser (optional, vor Ort zahlbar)",
+      "Professionelles Fotopaket",
+      "Essen und Getränke vor Ort",
+      "Trinkgelder"
+    ],
+    "program": [
+      {
+        "time": "09:15",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel für die Vormittagssitzung."
+      },
+      {
+        "time": "10:00",
+        "title": "Ankunft und Sitzplatz",
+        "text": "Ankunft im Park und Einnehmen Ihrer reservierten Plätze."
+      },
+      {
+        "time": "10:30",
+        "title": "Delfin- und Seelöwenshow",
+        "text": "Genießen Sie die Live-Vorführung."
+      },
+      {
+        "time": "11:15",
+        "title": "Optionale Begegnung",
+        "text": "Gäste mit gebuchter Schwimm-Ergänzung treffen die Delfine im Wasser."
+      },
+      {
+        "time": "12:45",
+        "title": "Rückfahrt",
+        "text": "Transfer zurück zu Ihrem Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ist das Schwimmen mit Delfinen inbegriffen?",
+        "a": "Der Parkeintritt und die Show sind inbegriffen; die Wasserbegegnung oder Berührungserfahrung ist eine optionale, kostenpflichtige Ergänzung, die Sie im Voraus bei uns buchen können."
+      },
+      {
+        "q": "Ab welchem Alter kann man an der Wasserbegegnung teilnehmen?",
+        "a": "Dies variiert je nach Programm, ist aber generell ab etwa 6 Jahren verfügbar, für jüngere Kinder in Begleitung eines Erwachsenen - wir bestätigen die genauen Altersregeln bei der Buchung der Ergänzung."
+      },
+      {
+        "q": "Ist die Show für alle Altersgruppen geeignet?",
+        "a": "Ja, die Show selbst ist für alle Altersgruppen unterhaltsam und erfordert kein Eintauchen ins Wasser."
+      },
+      {
+        "q": "Wie lange dauert die Show?",
+        "a": "Die Hauptshow dauert etwa 30-40 Minuten, der gesamte Besuch inklusive Transfers dauert etwa drei Stunden."
+      }
+    ]
+  },
+  "aquapark": {
+    "name": "Aquapark Tagesticket",
+    "short": "Ein ganzer Tag mit Rutschen, Wellenbecken und Familienspaß in einem der größten Wasserparks der Region.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "6 Stunden - Ganztageseintritt",
+    "departure": "09:30 Uhr, täglich",
+    "return_time": "16:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Für einen Tag, bei dem es nur um Spaß statt Sightseeing geht, beinhaltet das Aquapark-Paket den Hin- und Rücktransfer sowie den Ganztageseintritt zu einem der größten Wasserparks der Region. Die Rutschen reichen von sanften Familienfahrten bis zu steilen Hochgeschwindigkeitsabfahrten, dazu kommen Wellenbecken, faule Flüsse und eigene Bereiche für Kleinkinder.",
+      "Sonnenliegen stehen im gesamten Park zur Verfügung, und es gibt Essens- und Getränkestände vor Ort, falls Sie den ganzen Tag verbringen möchten. Eine einfache, mühelose Wahl für Familien oder alle, die eine Pause vom Sightseeing möchten."
+    ],
+    "highlights": [
+      "Ganztageseintritt zu einem großen regionalen Wasserpark",
+      "Rutschen für jedes Nervenkitzel-Level, plus Wellenbecken",
+      "Eigene Kleinkind- und Familienbereiche",
+      "Hin- und Rück-Hoteltransfer inbegriffen",
+      "Sonnenliegen vor Ort verfügbar",
+      "Essens- und Getränkestände im Park"
+    ],
+    "included": [
+      "Ganztages-Parkeintrittskarte",
+      "Hin- und Rück-Hoteltransfer",
+      "Englischsprachige Transferbegleitung",
+      "Zugang zu Wellenbecken und Kleinkindbereichen",
+      "Reiseversicherung",
+      "Spindmiete (Kaution vor Ort erforderlich)"
+    ],
+    "excluded": [
+      "Essen und Getränke im Park",
+      "Miete privater Kabanen oder Premium-Liegen",
+      "Handtücher (vor Ort mietbar)",
+      "Trinkgelder"
+    ],
+    "program": [
+      {
+        "time": "08:45",
+        "title": "Hotelabholung",
+        "text": "Abholung von Ihrem Hotel für den Transfer zum Park."
+      },
+      {
+        "time": "09:30",
+        "title": "Parkeintritt",
+        "text": "Betreten Sie den Park und richten Sie sich ein - Liegen sind in Poolnähe verfügbar."
+      },
+      {
+        "time": "Ganztägig",
+        "title": "Freizeit",
+        "text": "Genießen Sie Rutschen, Wellenbecken und Familienbereiche in Ihrem eigenen Tempo."
+      },
+      {
+        "time": "15:30",
+        "title": "Treffpunkt",
+        "text": "Treffen am vereinbarten Punkt für den Rücktransfer."
+      },
+      {
+        "time": "16:00",
+        "title": "Rückkehr zum Hotel",
+        "text": "Transfer zurück zu Ihrem Hotel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Ist der Aquapark für kleine Kinder geeignet?",
+        "a": "Ja, neben den größeren Fahrten gibt es eigene Kleinkindbecken und sanftere Rutschen, sodass sich der Park gut für Familien mit gemischten Altersgruppen eignet."
+      },
+      {
+        "q": "Werden Handtücher gestellt?",
+        "a": "Handtücher sind nicht inbegriffen, können aber vor Ort gemietet werden; wir empfehlen, eigene mitzubringen, um Zeit und Kosten zu sparen."
+      },
+      {
+        "q": "Können wir den ganzen Tag bleiben?",
+        "a": "Ja, Ihr Ticket deckt den Ganztageseintritt ab, und der Transferplan ist auf einen vollen Tag im Park ausgelegt."
+      },
+      {
+        "q": "Gibt es Essen im Park?",
+        "a": "Ja, im gesamten Park gibt es Essens- und Getränkestände, diese sind jedoch nicht im Tourpreis inbegriffen."
+      }
+    ]
+  },
+  "pamukkale": {
+    "name": "Pamukkale Tagesausflug",
+    "short": "Die weißen Sinterterrassen von Pamukkale und die antiken Ruinen von Hierapolis, an einem langen, unvergesslichen Tag.",
+    "location": "Provinz Denizli, Türkei",
+    "duration": "13 Stunden - Ganztägig (Langstrecke)",
+    "departure": "04:30 Uhr, täglich",
+    "return_time": "20:30 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Pamukkale - wörtlich 'Baumwollschloss' - ist eine der meistfotografierten Sehenswürdigkeiten der Türkei: ein Hang mit strahlend weißen Sinterterrassen, die über Jahrtausende durch kalziumreiches Thermalwasser entstanden sind. Es ist ein wirklich früher Start ab Bodrum, aber jeder unserer Gäste sagt uns, dass es sich gelohnt hat.",
+      "Über die Terrassen hinaus erkunden Sie die Ruinen des antiken Hierapolis, einer einst bedeutenden römisch-hellenistischen Kurstadt mit gut erhaltenem Theater und weitläufiger Nekropole. Gäste können zudem optional im Kleopatra-Antikpool schwimmen, wo Sie zwischen versunkenen antiken Säulen in warmem Mineralwasser treiben."
+    ],
+    "highlights": [
+      "Die weißen Sinterterrassen von Pamukkale",
+      "Antike Ruinen von Hierapolis und römisches Theater",
+      "Weite Ausblicke über das Tal",
+      "Optionales Baden im Kleopatra-Antikpool",
+      "UNESCO-Weltkulturerbestätte",
+      "Ganztägiges geführtes Erlebnis mit Mittagspause"
+    ],
+    "included": [
+      "Hin- und Rücktransport im klimatisierten Fahrzeug",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachiger Reiseleiter",
+      "Eintritt Pamukkale und Hierapolis",
+      "Mittagessen in einem lokalen Restaurant",
+      "Reiseversicherung"
+    ],
+    "excluded": [
+      "Eintritt Kleopatra-Antikpool (optional, vor Ort zahlbar)",
+      "Getränke zum Mittagessen",
+      "Persönliche Ausgaben und Souvenirs",
+      "Trinkgeld für Guide und Fahrer"
+    ],
+    "program": [
+      {
+        "time": "04:30",
+        "title": "Hotelabholung",
+        "text": "Sehr früher Start, um die Zeit vor Ort optimal zu nutzen."
+      },
+      {
+        "time": "08:30",
+        "title": "Ankunft in Pamukkale",
+        "text": "Beginn des geführten Spaziergangs über die Sinterterrassen."
+      },
+      {
+        "time": "10:00",
+        "title": "Hierapolis-Ruinen",
+        "text": "Erkundung des antiken Theaters, der Nekropole und der Stadtruinen."
+      },
+      {
+        "time": "11:30",
+        "title": "Optionaler Kleopatra-Pool",
+        "text": "Freizeit für ein optionales Bad zwischen antiken Säulen."
+      },
+      {
+        "time": "13:00",
+        "title": "Mittagessen",
+        "text": "Ein Stopp in einem lokalen Restaurant vor der Rückfahrt."
+      },
+      {
+        "time": "14:00",
+        "title": "Rückfahrt",
+        "text": "Fahrt zurück Richtung Bodrum, Ankunft am Abend."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Warum beginnt die Pamukkale-Tour so früh?",
+        "a": "Pamukkale liegt etwa 3,5-4 Stunden von Bodrum entfernt, daher stellt ein früher Start sicher, dass Sie ausreichend Zeit vor Ort haben, statt den Tag mit Fahren zu verlieren."
+      },
+      {
+        "q": "Muss ich etwas Besonderes mitbringen?",
+        "a": "Badebekleidung und Handtuch werden empfohlen, falls Sie den Kleopatra-Pool besuchen möchten, ebenso bequeme Wanderschuhe für die Terrassen."
+      },
+      {
+        "q": "Muss man barfuß über die Terrassen laufen?",
+        "a": "Ja, Besucher werden in der Regel gebeten, auf den Hauptsinterterrassen barfuß zu laufen, um die Formationen zu schützen - leicht auszuziehende Sandalen sind daher hilfreich."
+      },
+      {
+        "q": "Ist diese Tour für ältere Reisende geeignet?",
+        "a": "Die Terrassen erfordern etwas Gehen auf unebenem, nassem Kalkstein, das Tempo ist jedoch für die meisten Fitnesslevel machbar - teilen Sie uns eventuelle Mobilitätsbedenken im Voraus mit."
+      }
+    ]
+  },
+  "ephesus": {
+    "name": "Efes Antike Stadt Tour",
+    "short": "Wandeln Sie auf den Marmorstraßen einer der am besten erhaltenen antiken Städte des Mittelmeers.",
+    "location": "Selcuk, Provinz Izmir, Türkei",
+    "duration": "11 Stunden - Ganztägig (Langstrecke)",
+    "departure": "06:30 Uhr, täglich",
+    "return_time": "19:30 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Nur wenige antike Stätten lassen Geschichte so lebendig werden wie Ephesus. Einst eine bedeutende römische Hafenstadt mit rund 250.000 Einwohnern, sind ihre marmorgepflasterten Straßen, prächtigen Fassaden und öffentlichen Gebäude bemerkenswert intakt geblieben - eine der vollständigsten klassischen Städte im gesamten Mittelmeerraum.",
+      "Ihr Guide führt Sie an der Celsus-Bibliothek vorbei, dem großen Theater, das einst 24.000 Zuschauer fasste, sowie den Terrassenhäusern, in denen wohlhabende Epheser lebten. Viele Gäste verbinden den Besuch gerne mit dem nahegelegenen Haus der Jungfrau Maria und der Johannesbasilika in Selcuk, beide reich an eigener Geschichte."
+    ],
+    "highlights": [
+      "Die Celsus-Bibliothek, Ephesus' ikonische Fassade",
+      "Das große Theater, einst für 24.000 Zuschauer",
+      "Marmorgepflasterte Kuretenstraße",
+      "Optionaler Besuch des Hauses der Jungfrau Maria",
+      "UNESCO-Weltkulturerbestätte",
+      "Ganztägige geführte Tour mit Mittagspause"
+    ],
+    "included": [
+      "Hin- und Rücktransport im klimatisierten Fahrzeug",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachiger lizenzierter Guide",
+      "Eintritt zur archäologischen Stätte Ephesus",
+      "Mittagessen in einem lokalen Restaurant",
+      "Reiseversicherung"
+    ],
+    "excluded": [
+      "Eintritt Terrassenhäuser (optional, vor Ort zahlbar)",
+      "Eintritt Haus der Jungfrau Maria (optional)",
+      "Getränke zum Mittagessen",
+      "Trinkgeld für Guide und Fahrer"
+    ],
+    "program": [
+      {
+        "time": "06:30",
+        "title": "Hotelabholung",
+        "text": "Früher Start für die Fahrt nach Norden nach Selcuk."
+      },
+      {
+        "time": "09:30",
+        "title": "Ankunft in Ephesus",
+        "text": "Geführte Wandertour durch die antike Stadt."
+      },
+      {
+        "time": "11:30",
+        "title": "Celsus-Bibliothek und Theater",
+        "text": "Besuch der berühmtesten Wahrzeichen der Stätte."
+      },
+      {
+        "time": "13:00",
+        "title": "Mittagessen",
+        "text": "Ein Stopp in einem lokalen Restaurant bei Selcuk."
+      },
+      {
+        "time": "14:30",
+        "title": "Optionale weitere Stätten",
+        "text": "Zeit für das Haus der Jungfrau Maria oder die Terrassenhäuser."
+      },
+      {
+        "time": "15:30",
+        "title": "Rückfahrt",
+        "text": "Fahrt zurück Richtung Bodrum, Ankunft am Abend."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wie viel Fußweg umfasst der Besuch von Ephesus?",
+        "a": "Die Hauptroute durch die antike Stadt umfasst etwa 1,5-2 km über Marmor- und Steinwege, daher werden bequeme Wanderschuhe empfohlen."
+      },
+      {
+        "q": "Gibt es Schatten an der Stätte?",
+        "a": "Einige Bereiche bieten Schatten, ein Großteil der Stätte ist jedoch offen - Sonnenschutz, ein Hut und Wasser werden dringend empfohlen, besonders im Sommer."
+      },
+      {
+        "q": "Lohnt sich der zusätzliche Eintritt zu den Terrassenhäusern?",
+        "a": "Viele Gäste empfinden sie als Highlight, da dort originale Mosaike und Fresken überdacht erhalten sind - Ihr Guide kann Sie je nach Interesse beraten."
+      },
+      {
+        "q": "Kann dies mit Pamukkale kombiniert werden?",
+        "a": "Ephesus und Pamukkale werden aufgrund der Entfernung zwischen ihnen als separate Tagestouren angeboten - fragen Sie uns nach mehrtägigen Kombinationsmöglichkeiten."
+      }
+    ]
+  },
+  "dalyan": {
+    "name": "Dalyan Tour",
+    "short": "Flussboote, antike Felsengräber, heilende Schlammbäder und der Schildkrötenstrand an einem abwechslungsreichen Tag.",
+    "location": "Dalyan, Provinz Mugla, Türkei",
+    "duration": "12 Stunden - Ganztägig",
+    "departure": "07:00 Uhr, täglich",
+    "return_time": "19:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Dalyan vereint eine ungewöhnliche Vielfalt in einem einzigen Tag. Sie fahren mit dem Boot über den schilfgesäumten Dalyan-Fluss und passieren die eindrucksvollen lykischen Felsengräber, die direkt in den darüberliegenden Felshang gehauen wurden - ein markanter, fotogener Auftakt des Tages.",
+      "Von dort führt die Bootsfahrt weiter zu den Ruinen des antiken Kaunos, einem Stopp an einem heilenden Schlammbad mit heißer Quelle und schließlich zum Iztuzu-Strand - auch als Schildkrötenstrand bekannt, wegen der Karettschildkröten, die an seinem Sand nisten. Ein erlebnisreicher, unvergesslicher Tag, der Geschichte, Natur und Entspannung vereint."
+    ],
+    "highlights": [
+      "Bootsfahrt vorbei an den lykischen Felsengräbern",
+      "Antike Ruinen von Kaunos",
+      "Heilendes Schlammbad und Thermalquellen-Stopp",
+      "Freizeit am Iztuzu-'Schildkrötenstrand'",
+      "Flusstierwelt einschließlich Schildkröten und Vögel",
+      "Ganztägiges geführtes Erlebnis mit Mittagspause"
+    ],
+    "included": [
+      "Hin- und Rücktransport im klimatisierten Fahrzeug",
+      "Flussbootsfahrt",
+      "Hotelabholung und -rückbringung",
+      "Englischsprachiger Reiseleiter",
+      "Eintritt Schlammbad und Thermalquelle",
+      "Mittagessen in einem lokalen Restaurant"
+    ],
+    "excluded": [
+      "Getränke zum Mittagessen",
+      "Persönliche Ausgaben und Souvenirs",
+      "Eintrittsgebühr Kaunos-Ruinen (gering, vor Ort zahlbar)",
+      "Trinkgeld für Guide und Fahrer"
+    ],
+    "program": [
+      {
+        "time": "07:00",
+        "title": "Hotelabholung",
+        "text": "Abfahrt Richtung Dalyan-Flussdelta."
+      },
+      {
+        "time": "10:00",
+        "title": "Flussbootsfahrt",
+        "text": "Vorbeifahrt an den lykischen Felsengräbern und Schilfgebieten."
+      },
+      {
+        "time": "11:00",
+        "title": "Kaunos-Ruinen",
+        "text": "Besuch der antiken Ruinen am Flussufer."
+      },
+      {
+        "time": "12:00",
+        "title": "Schlammbad und Thermalquellen",
+        "text": "Zeit zum Genießen der heilenden Schlamm- und Mineralbecken."
+      },
+      {
+        "time": "13:30",
+        "title": "Mittagessen",
+        "text": "Ein Stopp in einem lokalen Restaurant."
+      },
+      {
+        "time": "14:30",
+        "title": "Iztuzu-Schildkrötenstrand",
+        "text": "Freizeit zum Entspannen und Baden am berühmten Strand."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Werden wir am Schildkrötenstrand tatsächlich Schildkröten sehen?",
+        "a": "Karettschildkröten nisten saisonal am Iztuzu-Strand, Sichtungen im Wasser sind möglich, aber nicht garantiert - der Strand selbst ist in jedem Fall wunderschön."
+      },
+      {
+        "q": "Ist das Schlammbad im Preis inbegriffen?",
+        "a": "Ja, der Eintritt zum Schlammbad und den Thermalbecken ist in Ihrem Tourpaket enthalten."
+      },
+      {
+        "q": "Was sollte ich für die Dalyan-Tour mitbringen?",
+        "a": "Badebekleidung, Handtuch, Sonnencreme und Wechselkleidung werden empfohlen, da der Tag sowohl das Schlammbad als auch den Strand umfasst."
+      },
+      {
+        "q": "Ist dies eine entspannte oder aktive Tour?",
+        "a": "Es ist eine gute Mischung - Bootsfahrt und Strandzeit sind entspannt, mit nur etwas Gehen bei den Kaunos-Ruinen."
+      }
+    ]
+  },
+  "rafting": {
+    "name": "Rafting-Abenteuer",
+    "short": "Ein Tagesausflug zum Wildwasserfluss der Region für eine geführte Raftingtour durch eine malerische Schlucht.",
+    "location": "Dalaman-Fluss-Schlucht, Türkei",
+    "duration": "12 Stunden - Ganztägig (Langstrecke)",
+    "departure": "07:00 Uhr, täglich",
+    "return_time": "19:00 Uhr",
+    "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+    "description": [
+      "Auf der Bodrum-Halbinsel selbst gibt es kein Wildwasser, daher führt Sie diese Tour ins Landesinnere zum Raftingfluss der Region, wo eine Schlucht aus pinienbewachsenen Felsen und kühlem, schnell fließendem Wasser einen wirklich aufregenden Kontrast zu einem Strandtag bietet.",
+      "Nach einer Sicherheitseinweisung und kurzem Übungspaddeln in ruhigem Wasser führt Ihr Guide eine kleine Rafting-Crew durch eine Reihe von Stromschnellen, die für Anfänger geeignet sind, mit zahlreichen ruhigeren Abschnitten dazwischen, um sich zu entspannen und die Schluchtlandschaft zu genießen. Keine Erfahrung erforderlich, die gesamte Sicherheitsausrüstung wird gestellt."
+    ],
+    "highlights": [
+      "Geführtes Wildwasser-Rafting für Anfänger geeignet",
+      "Malerische Schlucht mit pinienbewachsenen Felsen",
+      "Kleine Rafting-Crews mit erfahrenem Guide",
+      "Sicherheitseinweisung und Übungspaddeln inbegriffen",
+      "Mittagspause am Fluss",
+      "Ganztägiger Ausflug mit malerischem Transfer"
+    ],
+    "included": [
+      "Rafting-Ausrüstung (Boot, Paddel, Helm, Rettungsweste)",
+      "Erfahrener Rafting-Guide",
+      "Hin- und Rücktransport im klimatisierten Fahrzeug",
+      "Hotelabholung und -rückbringung",
+      "Mittagessen am Fluss",
+      "Reiseversicherung"
+    ],
+    "excluded": [
+      "Wechselkleidung (Sie werden nass)",
+      "Wasserdichtes Kamera-/Fotopaket (käuflich erhältlich)",
+      "Persönliche Ausgaben",
+      "Trinkgeld für den Guide"
+    ],
+    "program": [
+      {
+        "time": "07:00",
+        "title": "Hotelabholung",
+        "text": "Abfahrt Richtung Rafting-Region."
+      },
+      {
+        "time": "10:30",
+        "title": "Sicherheitseinweisung",
+        "text": "Anpassung der Ausrüstung und Übungspaddeln in ruhigem Wasser."
+      },
+      {
+        "time": "11:00",
+        "title": "Rafting-Strecke",
+        "text": "Bewältigung der Stromschnellen mit Ihrem Guide und Ihrer Rafting-Crew."
+      },
+      {
+        "time": "13:00",
+        "title": "Mittagessen am Fluss",
+        "text": "Eine entspannte Mittagspause in der Schlucht."
+      },
+      {
+        "time": "14:30",
+        "title": "Freizeit",
+        "text": "Optionales entspanntes Treiben oder Zeit am Flussufer vor der Abfahrt."
+      },
+      {
+        "time": "15:30",
+        "title": "Rückfahrt",
+        "text": "Fahrt zurück Richtung Bodrum, Ankunft am Abend."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Brauche ich Rafting-Erfahrung?",
+        "a": "Nein, die auf dieser Tour genutzte Strecke eignet sich für Erstteilnehmer, und Ihr Guide führt die Crew vorab durch eine vollständige Sicherheitseinweisung."
+      },
+      {
+        "q": "Werde ich komplett nass?",
+        "a": "Ja, rechnen Sie durchgehend mit Nässe - bringen Sie für die Heimfahrt komplette Wechselkleidung mit."
+      },
+      {
+        "q": "Was ist das Mindestalter für Rafting?",
+        "a": "In der Regel ab etwa 7 Jahren, dies kann jedoch je nach Flussbedingungen am jeweiligen Tag variieren - teilen Sie uns bei der Buchung die Altersangaben Ihrer Gruppe mit."
+      },
+      {
+        "q": "Ist es sicher, wenn ich nicht gut schwimmen kann?",
+        "a": "Rettungswesten werden durchgehend getragen und der Guide ist in Flusssicherheit geschult, bitte teilen Sie uns jedoch im Voraus mit, falls jemand in Ihrer Gruppe kein sicherer Schwimmer ist."
+      }
+    ]
+  },
+  "airport-transfer": {
+    "name": "Flughafentransfer",
+    "short": "Direkter, zuverlässiger Transfer zwischen dem Flughafen Milas-Bodrum und Ihrem Hotel, inklusive Flugverfolgung.",
+    "location": "Flughafen Milas-Bodrum (BJV) zu Hotels auf der Bodrum-Halbinsel",
+    "duration": "45-70 Minuten (je nach Ziel)",
+    "departure": "Auf Anfrage, 24/7",
+    "return_time": "Abgestimmt auf Ihre Flugzeit",
+    "meeting_point": "Ankunftshalle Flughafen / Ihre Hotellobby",
+    "description": [
+      "Nach einem langen Flug zu landen ist nicht der richtige Moment, um über einen Taxipreis zu verhandeln. Bei unserem Flughafentransfer wartet ein Fahrer mit Ihrem Namen in der Ankunftshalle und bringt Sie direkt zu Ihrem Hotel, egal wo auf der Bodrum-Halbinsel.",
+      "Wir verfolgen Ihren Flug in Echtzeit, sodass Ihr Fahrer auch bei Verspätung bei Ihrer Landung da ist. Derselbe Service funktioniert auch umgekehrt für Ihre Abreise, zeitlich so geplant, dass Sie mit ausreichend Puffer zum Check-in gelangen."
+    ],
+    "highlights": [
+      "Fahrer wartet in der Ankunftshalle mit Namensschild",
+      "Echtzeit-Flugverfolgung, unabhängig von Verspätungen",
+      "Direkte Route zu Hotels auf der gesamten Halbinsel",
+      "Komfortable, klimatisierte Fahrzeuge",
+      "Rund um die Uhr verfügbar",
+      "Festpreis, keine Überraschungen"
+    ],
+    "included": [
+      "Privates Transferfahrzeug",
+      "Empfang in der Ankunftshalle mit Namensschild",
+      "Flugverfolgung und Wartezeit",
+      "Wasserflasche im Fahrzeug",
+      "Alle Mautgebühren und Flughafengebühren",
+      "24/7-Verfügbarkeit"
+    ],
+    "excluded": [
+      "Zusätzliche Stopps abseits der direkten Route",
+      "Kindersitz (auf Anfrage verfügbar, bitte bei Buchung angeben)",
+      "Trinkgeld für den Fahrer",
+      "Wartezeit über eine Stunde nach Landung hinaus"
+    ],
+    "program": [
+      {
+        "time": "Bei Landung",
+        "title": "Empfang",
+        "text": "Ihr Fahrer empfängt Sie in der Ankunftshalle mit einem Namensschild."
+      },
+      {
+        "time": "+10 Min.",
+        "title": "Direkter Transfer",
+        "text": "Eine komfortable, klimatisierte Fahrt direkt zu Ihrem Hotel."
+      },
+      {
+        "time": "Bei Ankunft",
+        "title": "Absetzen am Hotel",
+        "text": "Direktes Absetzen am Hoteleingang, keine weiteren Stopps."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Was passiert, wenn mein Flug Verspätung hat?",
+        "a": "Wir verfolgen alle Flüge in Echtzeit, sodass sich Ihr Fahrer automatisch anpasst und ohne Aufpreis bei Ihrer Landung wartet."
+      },
+      {
+        "q": "Wie buche ich meinen Rücktransfer?",
+        "a": "Sie können beide Richtungen gleichzeitig buchen oder Ihren Abreisetransfer später hinzufügen - teilen Sie uns einfach Ihre Flugnummer und Abholzeit mit."
+      },
+      {
+        "q": "Ist der Transfer privat oder geteilt?",
+        "a": "Dieser Service ist ein privater, direkter Transfer nur für Ihre Reisegruppe - keine weiteren Fahrgäste oder zusätzlichen Stopps."
+      },
+      {
+        "q": "Kann ich einen Kindersitz anfragen?",
+        "a": "Ja, bitte geben Sie dies bei der Buchung an, damit wir den passenden Sitz für das Alter Ihres Kindes bereitstellen können."
+      }
+    ]
+  },
+  "vip-transfer": {
+    "name": "VIP Transfer",
+    "short": "Ein Premiumfahrzeug und privater Chauffeur für Gäste, die zusätzlichen Komfort unterwegs wünschen.",
+    "location": "Bodrum-Halbinsel und Umgebung, Türkei",
+    "duration": "45-70 Minuten (streckenabhängig)",
+    "departure": "Auf Anfrage, 24/7",
+    "return_time": "Nach Vereinbarung",
+    "meeting_point": "Ankunftshalle Flughafen / Ihre Hotellobby",
+    "description": [
+      "Der VIP Transfer nimmt den Standard-Flughafen- oder Punkt-zu-Punkt-Transfer und wertet jeden Teil davon auf: ein Premiumfahrzeug, ein professioneller Chauffeur in formeller Kleidung, Wasser und WLAN an Bord sowie eine spürbar ruhigere Fahrt.",
+      "Er ist eine beliebte Wahl für Geschäftsreisende, Flitterwöchner und alle, die möchten, dass ihr erster und letzter Eindruck der Reise ebenso gepflegt wirkt wie der Urlaub selbst. Derselbe Premium-Standard gilt, egal ob Sie zum Flughafen, in eine andere Stadt auf der Halbinsel oder weiter fahren."
+    ],
+    "highlights": [
+      "Premium-Fahrzeugklasse (z. B. Mercedes Vito oder gleichwertig)",
+      "Professioneller, formell gekleideter Chauffeur",
+      "Wasser und WLAN an Bord",
+      "Empfang mit Namensschild",
+      "Verfügbar für Flughafen- oder Überlandstrecken",
+      "24/7-Verfügbarkeit"
+    ],
+    "included": [
+      "Premium-Privatfahrzeug mit Chauffeur",
+      "Empfang mit Namensschild",
+      "Flugverfolgung (bei Flughafenstrecken)",
+      "Wasser und WLAN an Bord",
+      "Alle Mautgebühren und Gebühren",
+      "24/7-Verfügbarkeit"
+    ],
+    "excluded": [
+      "Zusätzliche Stopps abseits der vereinbarten Route",
+      "Kindersitz (auf Anfrage verfügbar)",
+      "Trinkgeld für den Chauffeur",
+      "Wartezeit über eine Stunde nach Landung hinaus"
+    ],
+    "program": [
+      {
+        "time": "Auf Anfrage",
+        "title": "Buchungsbestätigung",
+        "text": "Wir bestätigen Ihren Abholpunkt und -zeit im Voraus."
+      },
+      {
+        "time": "Bei Ankunft",
+        "title": "Empfang",
+        "text": "Ihr Chauffeur empfängt Sie mit einem Namensschild."
+      },
+      {
+        "time": "Unterwegs",
+        "title": "Premium-Fahrt",
+        "text": "Entspannen Sie mit Wasser und WLAN auf dem Weg zu Ihrem Ziel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wie unterscheidet sich der VIP Transfer vom Standard-Flughafentransfer?",
+        "a": "Der VIP Transfer nutzt eine höhere Fahrzeugklasse, einen formell gekleideten Chauffeur und bietet zusätzliche Annehmlichkeiten wie WLAN - ideal, wenn Komfort ebenso wichtig ist wie das Ankommen."
+      },
+      {
+        "q": "Kann der VIP Transfer für andere Strecken als den Flughafen genutzt werden?",
+        "a": "Ja, er ist für jede Punkt-zu-Punkt-Strecke in der Region verfügbar, einschließlich Überlandreisen - teilen Sie uns bei der Buchung einfach Ihre Strecke mit."
+      },
+      {
+        "q": "Eignet sich das für Geschäftsreisen?",
+        "a": "Ja, es ist eine beliebte Option für Geschäftsgäste, die einen pünktlichen, professionellen Transfer wünschen."
+      },
+      {
+        "q": "Kann ich einen Rück-VIP-Transfer buchen?",
+        "a": "Ja, beide Richtungen können zusammen oder getrennt gebucht werden - geben Sie einfach Ihre Reisedaten bei der Buchung an."
+      }
+    ]
+  },
+  "bodrum-transfer": {
+    "name": "Bodrum Lokaltransfer",
+    "short": "Komfortable Punkt-zu-Punkt-Transfers zwischen Orten und Hotels auf der gesamten Bodrum-Halbinsel.",
+    "location": "Bodrum, Gumbet, Bitez, Turgutreis, Yalikavak, Gundogan, Torba und weitere",
+    "duration": "20-60 Minuten (streckenabhängig)",
+    "departure": "Auf Anfrage",
+    "return_time": "Nach Vereinbarung",
+    "meeting_point": "Ihr Hotel, Marina oder gewünschter Abholpunkt",
+    "description": [
+      "Die Bodrum-Halbinsel erstreckt sich über mehr Fläche, als es auf der Karte scheint, mit Urlaubsorten wie Gumbet, Bitez, Turgutreis, Yalikavak und Gundogan entlang der Küste. Dieser lokale Transferservice bringt Sie schnell und komfortabel zwischen zwei beliebigen Punkten, ohne auf Fahrpläne öffentlicher Verkehrsmittel oder Taxistände angewiesen zu sein.",
+      "Ob Sie mitten im Urlaub das Hotel wechseln, zum Abendessen in die Stadt Bodrum fahren oder Freunde an einem anderen Ort der Halbinsel treffen - Sie werden zur vereinbarten Zeit abgeholt und direkt zu Ihrem Ziel gebracht."
+    ],
+    "highlights": [
+      "Direkte Transfers zwischen zwei beliebigen Punkten der Halbinsel",
+      "Deckt Bodrum, Gumbet, Bitez, Turgutreis, Yalikavak und mehr ab",
+      "Komfortable, klimatisierte Fahrzeuge",
+      "Festpreis, bei Buchung vereinbart",
+      "Flexible Zeitplanung passend zu Ihren Plänen",
+      "Freundliche, englischsprachige Fahrer"
+    ],
+    "included": [
+      "Privates Transferfahrzeug",
+      "Abholung am gewählten Ort",
+      "Direktes Absetzen an Ihrem Ziel",
+      "Wasserflasche im Fahrzeug",
+      "Alle Mautgebühren und Gebühren",
+      "Flexible Zeitplanung"
+    ],
+    "excluded": [
+      "Zusätzliche Stopps abseits der vereinbarten Route",
+      "Wartezeit über 15 Minuten hinaus",
+      "Trinkgeld für den Fahrer",
+      "Gepäck über das Standardlimit hinaus bei sehr großen Gruppen"
+    ],
+    "program": [
+      {
+        "time": "Auf Anfrage",
+        "title": "Buchungsbestätigung",
+        "text": "Wir bestätigen Ihren Abholpunkt, Ihr Ziel und die Uhrzeit."
+      },
+      {
+        "time": "Pünktlich",
+        "title": "Abholung",
+        "text": "Ihr Fahrer trifft am vereinbarten Ort ein."
+      },
+      {
+        "time": "Direkt",
+        "title": "Transfer",
+        "text": "Eine direkte, komfortable Fahrt zu Ihrem Ziel."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Kann ich einen Lokaltransfer noch am selben Tag buchen?",
+        "a": "Ja, lokale Transfers können in der Regel kurzfristig arrangiert werden, abhängig von der Fahrerverfügbarkeit - kontaktieren Sie uns direkt für dringende Anfragen."
+      },
+      {
+        "q": "Decken Sie alle Orte auf der Halbinsel ab?",
+        "a": "Ja, wir bedienen die Stadt Bodrum und alle umliegenden Urlaubsgebiete, einschließlich Gumbet, Bitez, Turgutreis, Yalikavak, Gundogan und Torba."
+      },
+      {
+        "q": "Ist dies ein geteiltes oder privates Fahrzeug?",
+        "a": "Dies ist ein privater, direkter Transfer ausschließlich für Ihre Reisegruppe."
+      },
+      {
+        "q": "Kann ich eine Hin- und Rückfahrt buchen?",
+        "a": "Ja, teilen Sie uns bei der Buchung einfach sowohl Ihre Hin- als auch Rückfahrtzeiten mit."
+      }
+    ]
+  },
+  "private-tours": {
+    "name": "Private Touren",
+    "short": "Ein eigener Guide und Fahrzeug, um jedes unserer Ziele zu einem vollständig individuellen Tag zu gestalten.",
+    "location": "Bodrum-Halbinsel und Region, Türkei",
+    "duration": "Flexibel - Ganz- oder Halbtags",
+    "departure": "Flexibel, nach Vereinbarung",
+    "return_time": "Flexibel",
+    "meeting_point": "Ihre Hotellobby",
+    "description": [
+      "Private Touren gibt es für Gäste, die ihren Tag lieber nicht mit einem Bus voller Fremder teilen möchten. Sie erhalten ein eigenes Fahrzeug, einen Fahrer und einen englischsprachigen Guide sowie eine Route, die genau auf das ausgerichtet ist, was Sie wirklich sehen möchten - sei es ein einzelnes Ziel in entspanntem Tempo oder eine Kombination mehrerer Ziele an einem Tag.",
+      "Besonders beliebt bei Familien mit kleinen Kindern, Gästen mit eingeschränkter Mobilität und allen, die einen besonderen Anlass feiern und die volle Kontrolle über den Zeitplan wünschen. Teilen Sie uns Ihre Interessen und Ihren Reisestil mit, und wir schlagen eine passende Route vor."
+    ],
+    "highlights": [
+      "Eigenes privates Fahrzeug und Guide",
+      "Vollständig anpassbare Route und Tempo",
+      "Kombinieren Sie bei Bedarf mehrere Ziele an einem Tag",
+      "Flexible Startzeit und Dauer",
+      "Ideal für Familien und besondere Anlässe",
+      "Persönliche Empfehlungen unterwegs"
+    ],
+    "included": [
+      "Privates Fahrzeug und Fahrer für den Tag",
+      "Englischsprachiger privater Guide",
+      "Hotelabholung und -rückbringung",
+      "Routenplanungsgespräch vor Ihrer Reise",
+      "Wasserflasche im Fahrzeug",
+      "Reiseversicherung"
+    ],
+    "excluded": [
+      "Eintrittsgebühren zu besuchten Stätten (je nach Programm unterschiedlich)",
+      "Mittagessen und Getränke (auf Anfrage arrangierbar)",
+      "Optionale Aktivitäten im Programm",
+      "Trinkgeld für Guide und Fahrer"
+    ],
+    "program": [
+      {
+        "time": "Vor der Reise",
+        "title": "Routenplanung",
+        "text": "Wir besprechen Ihre Interessen und schlagen eine individuelle Route vor."
+      },
+      {
+        "time": "Nach Vereinbarung",
+        "title": "Hotelabholung",
+        "text": "Ihr privater Guide und Fahrer holen Sie zur vereinbarten Zeit ab."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Ihr Tag, Ihr Tempo",
+        "text": "Besuchen Sie Ihre gewählten Ziele mit so viel Zeit, wie Sie an jedem Ort möchten."
+      },
+      {
+        "time": "Flexibel",
+        "title": "Rückkehr",
+        "text": "Rückkehr zu Ihrem Hotel, wann immer Ihr Tag auf natürliche Weise endet."
+      }
+    ],
+    "faq": [
+      {
+        "q": "Können wir mehr als ein Ziel kombinieren?",
+        "a": "Ja, das ist eine der beliebtesten Anwendungen einer Privaten Tour - wir helfen Ihnen, basierend auf Fahrzeiten eine realistische Kombination zu planen."
+      },
+      {
+        "q": "Wie weit im Voraus sollten wir buchen?",
+        "a": "Wir empfehlen mindestens 2-3 Tage im Voraus, damit wir die Route ordentlich planen können, kurzfristige Anfragen sind jedoch manchmal möglich."
+      },
+      {
+        "q": "Ist das teurer als eine Gruppentour?",
+        "a": "Ja, private Touren kosten mehr als die Teilnahme an einer gemeinsamen Gruppentour, was das eigene Fahrzeug, den Guide und die flexible Route widerspiegelt."
+      },
+      {
+        "q": "Kann der Guide andere Sprachen als Englisch sprechen?",
+        "a": "Bitte teilen Sie uns bei der Anfrage Ihre bevorzugte Sprache mit, wir bemühen uns, Sie mit einem passenden Guide zusammenzubringen."
+      }
+    ]
+  }
+}

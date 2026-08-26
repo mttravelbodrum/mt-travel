@@ -1,0 +1,2283 @@
+{
+  "reservations": [],
+  "tours": [
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "kos-island",
+      "category": "island",
+      "isIsland": true,
+      "badge": "best_seller",
+      "name": "Kos Island Tour",
+      "price": 45,
+      "durationHours": 10,
+      "rating": 4.9,
+      "reviewCount": 245,
+      "featured": true,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 45,
+      "priceChild": 22.5,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 38.25,
+      "priceDouble": 72,
+      "departureTime": "08:30",
+      "returnTime": "18:30"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "leros-island",
+      "category": "island",
+      "isIsland": true,
+      "badge": "none",
+      "name": "Leros Island Tour",
+      "price": 48,
+      "durationHours": 11,
+      "rating": 4.7,
+      "reviewCount": 96,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 48,
+      "priceChild": 24,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 40.8,
+      "priceDouble": 76.8,
+      "departureTime": "08:00",
+      "returnTime": "19:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "kalymnos-island",
+      "category": "island",
+      "isIsland": true,
+      "badge": "none",
+      "name": "Kalymnos Island Tour",
+      "price": 50,
+      "durationHours": 10,
+      "rating": 4.8,
+      "reviewCount": 112,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 50,
+      "priceChild": 25,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 42.5,
+      "priceDouble": 80,
+      "departureTime": "08:00",
+      "returnTime": "18:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "boat-trip",
+      "category": "water",
+      "isIsland": false,
+      "badge": "best_seller",
+      "name": "Bodrum Boat Trip",
+      "price": 35,
+      "durationHours": 7,
+      "rating": 4.8,
+      "reviewCount": 320,
+      "featured": true,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 35,
+      "priceChild": 17.5,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 29.75,
+      "priceDouble": 56,
+      "departureTime": "08:00",
+      "returnTime": "15:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "turkish-bath",
+      "category": "wellness",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Turkish Bath (Hammam) Experience",
+      "price": 25,
+      "durationHours": 1.5,
+      "rating": 4.7,
+      "reviewCount": 168,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 25,
+      "priceChild": 12.5,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 21.25,
+      "priceDouble": 40,
+      "departureTime": "08:00",
+      "returnTime": "09:30"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "jeep-safari",
+      "category": "land",
+      "isIsland": false,
+      "badge": "popular",
+      "name": "Jeep Safari Adventure",
+      "price": 40,
+      "durationHours": 6,
+      "rating": 4.8,
+      "reviewCount": 180,
+      "featured": true,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 40,
+      "priceChild": 20,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 34,
+      "priceDouble": 64,
+      "departureTime": "08:00",
+      "returnTime": "14:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "atv-safari",
+      "category": "land",
+      "isIsland": false,
+      "badge": "none",
+      "name": "ATV Safari",
+      "price": 38,
+      "durationHours": 3,
+      "rating": 4.7,
+      "reviewCount": 94,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 38,
+      "priceChild": 19,
+      "priceInfant": 0,
+      "pricingMode": "single_double",
+      "priceSingle": 38,
+      "priceDouble": 64.6,
+      "departureTime": "08:00",
+      "returnTime": "11:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "horse-riding",
+      "category": "land",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Horse Riding Tour",
+      "price": 30,
+      "durationHours": 2,
+      "rating": 4.8,
+      "reviewCount": 76,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 30,
+      "priceChild": 15,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 25.5,
+      "priceDouble": 48,
+      "departureTime": "08:00",
+      "returnTime": "10:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.305Z",
+      "slug": "scuba-diving",
+      "category": "water",
+      "isIsland": false,
+      "badge": "popular",
+      "name": "Scuba Diving Experience",
+      "price": 60,
+      "durationHours": 4,
+      "rating": 4.9,
+      "reviewCount": 150,
+      "featured": true,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 60,
+      "priceChild": 30,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 51,
+      "priceDouble": 96,
+      "departureTime": "08:00",
+      "returnTime": "12:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "dolphin-park",
+      "category": "land",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Dolphin Park Visit",
+      "price": 42,
+      "durationHours": 3,
+      "rating": 4.6,
+      "reviewCount": 88,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 42,
+      "priceChild": 21,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 35.7,
+      "priceDouble": 67.2,
+      "departureTime": "08:00",
+      "returnTime": "11:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "aquapark",
+      "category": "land",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Aquapark Day Pass",
+      "price": 28,
+      "durationHours": 6,
+      "rating": 4.6,
+      "reviewCount": 140,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 28,
+      "priceChild": 14,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 23.8,
+      "priceDouble": 44.8,
+      "departureTime": "08:00",
+      "returnTime": "14:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "pamukkale",
+      "category": "land",
+      "isIsland": false,
+      "badge": "popular",
+      "name": "Pamukkale Day Trip",
+      "price": 55,
+      "durationHours": 13,
+      "rating": 4.9,
+      "reviewCount": 210,
+      "featured": true,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 55,
+      "priceChild": 27.5,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 46.75,
+      "priceDouble": 88,
+      "departureTime": "08:00",
+      "returnTime": "21:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "ephesus",
+      "category": "land",
+      "isIsland": false,
+      "badge": "best_seller",
+      "name": "Ephesus Ancient City Tour",
+      "price": 50,
+      "durationHours": 11,
+      "rating": 4.9,
+      "reviewCount": 268,
+      "featured": true,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 50,
+      "priceChild": 25,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 42.5,
+      "priceDouble": 80,
+      "departureTime": "08:00",
+      "returnTime": "19:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "dalyan",
+      "category": "land",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Dalyan Tour",
+      "price": 45,
+      "durationHours": 12,
+      "rating": 4.8,
+      "reviewCount": 132,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 45,
+      "priceChild": 22.5,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 38.25,
+      "priceDouble": 72,
+      "departureTime": "08:00",
+      "returnTime": "20:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "rafting",
+      "category": "land",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Rafting Adventure",
+      "price": 40,
+      "durationHours": 12,
+      "rating": 4.7,
+      "reviewCount": 64,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 40,
+      "priceChild": 20,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 34,
+      "priceDouble": 64,
+      "departureTime": "08:00",
+      "returnTime": "20:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "airport-transfer",
+      "category": "transfer",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Airport Transfer",
+      "price": 18,
+      "durationHours": 1,
+      "rating": 4.8,
+      "reviewCount": 302,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 18,
+      "priceChild": 9,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 15.3,
+      "priceDouble": 28.8,
+      "departureTime": "08:00",
+      "returnTime": "09:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "vip-transfer",
+      "category": "transfer",
+      "isIsland": false,
+      "badge": "none",
+      "name": "VIP Transfer",
+      "price": 45,
+      "durationHours": 1,
+      "rating": 4.9,
+      "reviewCount": 71,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 45,
+      "priceChild": 22.5,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 38.25,
+      "priceDouble": 72,
+      "departureTime": "08:00",
+      "returnTime": "09:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "bodrum-transfer",
+      "category": "transfer",
+      "isIsland": false,
+      "badge": "none",
+      "name": "Bodrum Local Transfer",
+      "price": 20,
+      "durationHours": 1,
+      "rating": 4.7,
+      "reviewCount": 54,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 20,
+      "priceChild": 10,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 17,
+      "priceDouble": 32,
+      "departureTime": "08:00",
+      "returnTime": "09:00"
+    },
+    {
+      "createdAt": "2026-08-11T18:58:07.306Z",
+      "slug": "bodrum-city-tour",
+      "category": "land",
+      "isIsland": false,
+      "badge": "popular",
+      "name": "Bodrum City Tour",
+      "price": 35,
+      "durationHours": 6,
+      "rating": 4.7,
+      "reviewCount": 88,
+      "featured": false,
+      "visible": true,
+      "availableDays": [
+        "monday",
+        "tuesday",
+        "wednesday",
+        "thursday",
+        "friday",
+        "saturday",
+        "sunday"
+      ],
+      "priceAdult": 35,
+      "priceChild": 17.5,
+      "priceInfant": 0,
+      "pricingMode": "standard",
+      "priceSingle": 29.75,
+      "priceDouble": 56,
+      "departureTime": "08:00",
+      "returnTime": "14:00"
+    }
+  ],
+  "settings": {
+    "companyName": "MT TRAVEL",
+    "phone": "+90 538 329 37 27",
+    "whatsapp": "905383293727",
+    "email": "mttravelbodrum@gmail.com",
+    "address": "Neyzen Tevfik Street No. 789151, Bosgdcgdrum, Mugla, Turkiye",
+    "currency": "EUR",
+    "islandMinAdvanceDays": 1,
+    "defaultLanguage": "en"
+  },
+  "activityLog": [],
+  "notifications": [],
+  "hotels": [
+    {
+      "id": "htl-seed-0",
+      "name": "The Marmara Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-1",
+      "name": "Doubletree by Hilton Bodrum Marina Vista",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-2",
+      "name": "Holiday Inn Resort Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-3",
+      "name": "Mandarin Resort & Spa Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-4",
+      "name": "Diamond Of Bodrum Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-5",
+      "name": "METT Hotel Beach Resort Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-6",
+      "name": "Noi Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-7",
+      "name": "La Quinta by Wyndham Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-8",
+      "name": "Azka Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-9",
+      "name": "Gulet Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-10",
+      "name": "Kılavuz Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-11",
+      "name": "Okyanus Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-12",
+      "name": "Merhaba Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-13",
+      "name": "Petra Butik Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-14",
+      "name": "Jasmin Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-15",
+      "name": "Costa Luvi Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-16",
+      "name": "Jasmin Elite Residence & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-17",
+      "name": "The Poyz Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-18",
+      "name": "Nagi Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-19",
+      "name": "Canna Garden Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-20",
+      "name": "Serpina Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-21",
+      "name": "Royal Asarlık Beach Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-22",
+      "name": "Gümbet Beach Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-23",
+      "name": "Ramada Resort By Wyndham Bodrum Bitez",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-24",
+      "name": "Sianji Well-Being Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-25",
+      "name": "Kairaba Bodrum Princess & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-26",
+      "name": "La Blanche Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-27",
+      "name": "Greenblue Hotel Turgutreis",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-28",
+      "name": "Yılmaz Hotel Ortakent",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-29",
+      "name": "Sirene Luxury Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-30",
+      "name": "Ruins Luxury Resort - Adults Only",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-31",
+      "name": "Delta Hotels By Marriott Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-32",
+      "name": "Le Jardin d'Oliviers Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-33",
+      "name": "Avantgarde Collection Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-34",
+      "name": "Amore Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-35",
+      "name": "Elite Hotel Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-36",
+      "name": "Green Beach Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-37",
+      "name": "Macakızı Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-38",
+      "name": "Faros Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-39",
+      "name": "Lavinya Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-40",
+      "name": "Selvi Beach Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-41",
+      "name": "Daphnis Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-42",
+      "name": "Elista Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-43",
+      "name": "Rixos Premium Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-44",
+      "name": "Duja Bodrum Torba",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-45",
+      "name": "Vogue Hotel Supreme Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-46",
+      "name": "Doubletree By Hilton Bodrum Isil Club",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-47",
+      "name": "Grand Yazıcı Torba",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-48",
+      "name": "Kairaba Bodrum Imperial",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-49",
+      "name": "Armonia Holiday Village & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-50",
+      "name": "Gümüşlük Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-51",
+      "name": "La Blanche Island Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-52",
+      "name": "Kempinski Hotel Barbaros Bay",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-53",
+      "name": "The Bodrum EDITION",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-54",
+      "name": "Allium Bodrum Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-55",
+      "name": "4reasons Hotel+Bistro",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-56",
+      "name": "MGallery The Bodrum Hotel Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-57",
+      "name": "Arts Hotel Bodrum Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-58",
+      "name": "Princess Artemisia Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-59",
+      "name": "Ailla Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-60",
+      "name": "The Highlight Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-61",
+      "name": "Yalıkavak Marina Hotel By Social Living Collection",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-62",
+      "name": "Art Suites Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-63",
+      "name": "Birdcage 33 Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-64",
+      "name": "Sezz Hotels Spa Wellness",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-65",
+      "name": "G Beyond Residences & Villas",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-66",
+      "name": "Root Redrock Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-67",
+      "name": "Sandora Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-68",
+      "name": "Boho Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-69",
+      "name": "Ala Suites & Villas",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-70",
+      "name": "La Maison Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-71",
+      "name": "Adahan Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-72",
+      "name": "Saraya Bodrum Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-73",
+      "name": "Moon Beach & Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-74",
+      "name": "Aegean Hills",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-75",
+      "name": "Bovilla Hotels & Villas Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-76",
+      "name": "Maxx Royal Bodrum Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-77",
+      "name": "Golden Age Bodrum Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-78",
+      "name": "Club Cactus Fleur Beach",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-79",
+      "name": "Yaz Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-80",
+      "name": "Life Butiq Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-81",
+      "name": "La Local Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-82",
+      "name": "Cactus Mirage Family Club",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-83",
+      "name": "Sea Palm Otel Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-84",
+      "name": "Palmalife Bodrum Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-85",
+      "name": "Ali Baba Hotel Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-86",
+      "name": "Ayhan Suite Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-87",
+      "name": "Yıldız Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-88",
+      "name": "Dreams Bodrum Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-89",
+      "name": "Mirada Exclusive Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-90",
+      "name": "Costa Blu Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-91",
+      "name": "Artı Hotels Adult Only",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-92",
+      "name": "Bodrum Palm Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-93",
+      "name": "Doria Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-94",
+      "name": "Ambrosia Hotel Beach & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-95",
+      "name": "Agaya Bodrum Adult Only",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-96",
+      "name": "Bodrium Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-97",
+      "name": "Very Chic Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-98",
+      "name": "Voyage Torba",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-99",
+      "name": "Hyde Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-100",
+      "name": "Susona Bodrum LXR Hotels & Resorts",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-101",
+      "name": "Mivara Luxury Resort & Spa Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-102",
+      "name": "Arin Resort Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-103",
+      "name": "Swissôtel Resort Bodrum Beach",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-104",
+      "name": "Hillstone Bodrum Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-105",
+      "name": "The Plaza Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-106",
+      "name": "Xanadu Island Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-107",
+      "name": "Esmana Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-108",
+      "name": "Costa Bianca Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-109",
+      "name": "Queen Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-110",
+      "name": "Hotel Marmara Mandarin",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-111",
+      "name": "Bitez Deniz Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-112",
+      "name": "Sebastian Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-113",
+      "name": "Lango Design Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-114",
+      "name": "Merih Boutique Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-115",
+      "name": "Roas Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-116",
+      "name": "Azure By Yelken Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-117",
+      "name": "Selectum Colours Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-118",
+      "name": "Selectum Collection Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-119",
+      "name": "Rammos Managed By Dedeman",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-120",
+      "name": "Dragut Point South",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-121",
+      "name": "Yasmin Bodrum Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-122",
+      "name": "7 Art Fesleğen Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-123",
+      "name": "1453 Bodrum Resort Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-124",
+      "name": "Acanthus Cennet Barut Collection",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-125",
+      "name": "Açelya Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-126",
+      "name": "Agan Pansiyon",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-127",
+      "name": "Agean Dream Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-128",
+      "name": "Aegean Garden Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-129",
+      "name": "Akça Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-130",
+      "name": "Akkan Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-131",
+      "name": "Akkan Hotel Marina",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-132",
+      "name": "Akkan Plus Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-133",
+      "name": "Akyalı Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-134",
+      "name": "Alabanda Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-135",
+      "name": "Alacatur Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-136",
+      "name": "Alba Marin Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-137",
+      "name": "Alexander The Great Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-138",
+      "name": "Alta Park Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-139",
+      "name": "Amanruya",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-140",
+      "name": "Amfora Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-141",
+      "name": "Anadolu Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-142",
+      "name": "Anfora Pension",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-143",
+      "name": "Antik Zeytin Hotel & Art",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-144",
+      "name": "Antique Theatre Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-145",
+      "name": "Arion Resort Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-146",
+      "name": "Artemis Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-147",
+      "name": "Artunc Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-148",
+      "name": "Asmin Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-149",
+      "name": "Asteria Bodrum Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-150",
+      "name": "Avantgarde Refined Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-151",
+      "name": "Ayaz Aqua Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-152",
+      "name": "Babana Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-153",
+      "name": "Baia Bodrum Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-154",
+      "name": "Bircan Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-155",
+      "name": "Blue Dreams Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-156",
+      "name": "Bodrum Park Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-157",
+      "name": "Bronze Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-158",
+      "name": "Caresse, a Luxury Collection Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-159",
+      "name": "Casa Dell'Arte Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-160",
+      "name": "Casa Nonna Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-161",
+      "name": "Elementa Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-162",
+      "name": "Elite Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-163",
+      "name": "El Vino Hotel & Suites",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-164",
+      "name": "Ersan Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-165",
+      "name": "Eskiceshme Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-166",
+      "name": "Eterna Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-167",
+      "name": "Flamm Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-168",
+      "name": "Forever Club Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-169",
+      "name": "Golden Age Hotel Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-170",
+      "name": "Golden Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-171",
+      "name": "Golden Spoon Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-172",
+      "name": "Green Bay Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-173",
+      "name": "Gumbet Cove Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-174",
+      "name": "Gümbet Anıl Beach",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-175",
+      "name": "Gümbet Life Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-176",
+      "name": "Hotel Centro Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-177",
+      "name": "Hotel Karia Princess",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-178",
+      "name": "Hotel Samara",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-179",
+      "name": "Hotel Su Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-180",
+      "name": "Inone Mucho Selection Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-181",
+      "name": "Kaya Palazzo Resort & Residences Le Chic Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-182",
+      "name": "Kefaluka Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-183",
+      "name": "Khai Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-184",
+      "name": "Labranda TMT Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-185",
+      "name": "La Local Suites",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-186",
+      "name": "Liona Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-187",
+      "name": "Liv Hotel by Bellazure",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-188",
+      "name": "Lujo Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-189",
+      "name": "Maçakızı Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-190",
+      "name": "Mandarin Oriental Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-191",
+      "name": "Marina Vista Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-192",
+      "name": "Marvel Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-193",
+      "name": "Mavi Kumsal Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-194",
+      "name": "Med-Inn Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-195",
+      "name": "Moonshine Hotel & Suites",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-196",
+      "name": "Ena Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-197",
+      "name": "Gündem Resort Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-198",
+      "name": "Hotel Vita Bella Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-199",
+      "name": "No 81 Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-200",
+      "name": "Okaliptus Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-201",
+      "name": "Olira Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-202",
+      "name": "Parkim Ayaz Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-203",
+      "name": "Petunya Beach Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-204",
+      "name": "Phoenix Sun Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-205",
+      "name": "Prive Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-206",
+      "name": "Rammos Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-207",
+      "name": "Regia Mare Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-208",
+      "name": "Riva Bodrum Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-209",
+      "name": "Royal Arena Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-210",
+      "name": "Salmakis Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-211",
+      "name": "Sami Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-212",
+      "name": "Sea Garden Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-213",
+      "name": "Senses Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-214",
+      "name": "Scorpios Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-215",
+      "name": "Sunpoint Family Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-216",
+      "name": "Sunhill Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-217",
+      "name": "The Hello Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-218",
+      "name": "The Norm Collection Door'a Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-219",
+      "name": "Titanic Luxury Collection Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-220",
+      "name": "Toloman Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-221",
+      "name": "Torbahan Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-222",
+      "name": "TUI Magic Life Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-223",
+      "name": "Villa Cosy Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-224",
+      "name": "Villa Rustica Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-225",
+      "name": "Voyage Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-226",
+      "name": "Voyage Torba Private",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-227",
+      "name": "Yalıpark Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-228",
+      "name": "Yalıkavak Holiday Gardens",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-229",
+      "name": "Yelken Mandalinci Spa & Wellness Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-230",
+      "name": "Zest Exclusive Hotel & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-231",
+      "name": "Afytos Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-232",
+      "name": "Bagevleri Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-233",
+      "name": "Baska Resort Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-234",
+      "name": "Natur Garden Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-235",
+      "name": "Nefes Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-236",
+      "name": "Nomia Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-237",
+      "name": "OKU Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-238",
+      "name": "Omar Hotel & Suites",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-239",
+      "name": "Radisson Collection Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-240",
+      "name": "Smart Holiday Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-241",
+      "name": "Mio Bianco Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-242",
+      "name": "Mio Mare Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-243",
+      "name": "Natur Med Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-244",
+      "name": "Nio Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-245",
+      "name": "Ocean Club Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-246",
+      "name": "Oscar Seaside Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-247",
+      "name": "Palm Garden Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-248",
+      "name": "Pitos Bungalows",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-249",
+      "name": "Rammos Managed Collection",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-250",
+      "name": "Rota Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-251",
+      "name": "Sade Butik Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-252",
+      "name": "Sea Soul Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-253",
+      "name": "Sevin Hotel Pension",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-254",
+      "name": "Siesta Beach Apart",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-255",
+      "name": "Smart Stay Beach Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-256",
+      "name": "The Oba Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-257",
+      "name": "The Professor's Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-258",
+      "name": "Tropicana Beach Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-259",
+      "name": "Veltur Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-260",
+      "name": "Villa Nergis Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-261",
+      "name": "Voyage Türkbükü",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-262",
+      "name": "Yalı Han Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-263",
+      "name": "Yalıyanı Motel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-264",
+      "name": "Yelken Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-265",
+      "name": "Zuzu's Kitchen & Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-266",
+      "name": "Costa Maya Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-267",
+      "name": "Costa Sariyaz Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-268",
+      "name": "Bodrum Skylife Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-269",
+      "name": "Bitez Garden Life Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-270",
+      "name": "Bitez Marina Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-271",
+      "name": "Club Muskebi Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-272",
+      "name": "Club Dedeman Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-273",
+      "name": "Club Blue Dream",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-274",
+      "name": "Club Hotel Flora",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-275",
+      "name": "Crystal Green Bay Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-276",
+      "name": "Forever Club Adult Only",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-277",
+      "name": "Göltürkbükü Suites",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-278",
+      "name": "Gündoğan Suites Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-279",
+      "name": "Hill Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-280",
+      "name": "Villa Oliva Boutique Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-281",
+      "name": "M Suite Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-282",
+      "name": "Bodrum Beach Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-283",
+      "name": "Bodrum Holiday Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-284",
+      "name": "Akkan Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-285",
+      "name": "Nagi Suites",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-286",
+      "name": "Euphoria Suites and Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-287",
+      "name": "Pittas Studios & Apartments",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-288",
+      "name": "Kadıkale Resort Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-289",
+      "name": "Peksimet Butik Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-290",
+      "name": "Zena Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-291",
+      "name": "Le Meridien Bodrum Beach Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-292",
+      "name": "The Qasr Bodrum Halal Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-293",
+      "name": "İnanç Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-294",
+      "name": "By Muhtar Otel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-295",
+      "name": "Bodrum Vera Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-296",
+      "name": "Wish Suites Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-297",
+      "name": "R House Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-298",
+      "name": "Oalis Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-299",
+      "name": "Bodrum Blu",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-300",
+      "name": "Station Hotel in Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-301",
+      "name": "Alfa Apart Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-302",
+      "name": "Sundance Suites Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-303",
+      "name": "9Bodrum Butik Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-304",
+      "name": "The Lume Boutique Hotel & Restaurant & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-305",
+      "name": "Quatro Life Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-306",
+      "name": "Casa De Nova Hotel Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-307",
+      "name": "Flag Suites Bodrum",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-308",
+      "name": "Lizbonia Hotels Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-309",
+      "name": "Tangiers Hotel Yalıkavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-310",
+      "name": "Bombien Yalikavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-311",
+      "name": "Marin Yalıkavak Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-312",
+      "name": "Spektr Boutique Hotel Yalikavak",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-313",
+      "name": "Olivia Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-314",
+      "name": "Mira Suites",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-315",
+      "name": "Hotel Zeytinada",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-316",
+      "name": "Anar Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-317",
+      "name": "Toka Bodrum Hotel & Beach Club",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-318",
+      "name": "Panorama Hotel Turkbuku",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-319",
+      "name": "Caja by Maxx Royal",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-320",
+      "name": "MyElla Hotel Resort & Spa",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-321",
+      "name": "Sundance Resort",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-322",
+      "name": "Suum Bodrum Hotel & Beach",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-323",
+      "name": "Liman Hotel Gümüslük",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-324",
+      "name": "Myndos Bed & Breakfast Gümüşlük",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-325",
+      "name": "Oda Bodrum Gümüşlük",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-326",
+      "name": "Metin's Gümüşlük Hotel & Restaurant",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-327",
+      "name": "Oza Butik Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-328",
+      "name": "Gümüşlük No3",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-329",
+      "name": "Paradise Garden Apartments",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-330",
+      "name": "Divan Bodrum Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-331",
+      "name": "Dorman Suites Hotel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-332",
+      "name": "Manzara Otel",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-333",
+      "name": "Dinç Pansiyon",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    },
+    {
+      "id": "htl-seed-334",
+      "name": "Ağan Pansiyon",
+      "createdAt": "2026-08-11T18:58:07.306Z"
+    }
+  ]
+}

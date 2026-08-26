@@ -1,0 +1,83 @@
+// Auto-generated from data/site.json
+const MT_SITE = {
+  "company": {
+    "name": "MT TRAVEL",
+    "legal_name": "MT Travel Turizm Ltd. Sti.",
+    "founded_year": 2005,
+    "phone_display": "+90 538 329 37 27",
+    "phone_link": "+905383293727",
+    "whatsapp_link": "905383293727",
+    "email": "mttravelbodrum@gmail.com",
+    "support_email": "mttravelbodrum@gmail.com",
+    "address_en": "Neyzen Tevfik Street No. 45, Bodrum, Mugla, Turkiye",
+    "address_tr": "Neyzen Tevfik Caddesi No. 45, Bodrum, Mugla, Turkiye",
+    "hours_en": "Mon - Sun: 08:00 - 20:00",
+    "hours_tr": "Pzt - Paz: 08:00 - 20:00",
+    "map_embed_query": "Neyzen Tevfik Caddesi, Bodrum, Mugla, Turkiye",
+    "map_lat": 37.0344,
+    "map_lng": 27.4305,
+    "social": {
+      "facebook": "https://facebook.com/mttravel",
+      "instagram": "https://instagram.com/mttravel",
+      "twitter": "https://twitter.com/mttravel",
+      "youtube": "https://youtube.com/@mttravel",
+      "telegram": "https://t.me/mttravel"
+    },
+    "bank_transfer": {
+      "account_holder": "MT Travel Turizm Ltd. Sti.",
+      "bank_name": "Turkiye Is Bankasi - Bodrum Branch",
+      "iban": "TR33 0006 4000 0011 2345 6789 01",
+      "swift": "ISBKTRISXXX"
+    },
+    "stats": {
+      "years_experience": 20,
+      "happy_guests": "48,000+",
+      "languages": 5,
+      "tours_count": 21,
+      "rating": 4.8,
+      "review_count": "3,100+"
+    },
+    "currency_default": "EUR",
+    "online_discount_amount": 3,
+    "child_price_ratio": 0.5,
+    "island_min_advance_days": 1
+  },
+  "languages": [
+    {
+      "code": "tr",
+      "label": "Turkish",
+      "native": "Turkce",
+      "flag": "tr"
+    },
+    {
+      "code": "en",
+      "label": "English",
+      "native": "English",
+      "flag": "gb"
+    },
+    {
+      "code": "de",
+      "label": "German",
+      "native": "Deutsch",
+      "flag": "de"
+    },
+    {
+      "code": "ru",
+      "label": "Russian",
+      "native": "Russkiy",
+      "flag": "ru"
+    },
+    {
+      "code": "pl",
+      "label": "Polish",
+      "native": "Polski",
+      "flag": "pl"
+    }
+  ],
+  "currencies": [
+    "EUR",
+    "USD",
+    "GBP",
+    "TRY"
+  ]
+};

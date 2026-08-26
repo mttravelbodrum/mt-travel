@@ -1,0 +1,440 @@
+{
+ "horse-riding": {
+  "de": {
+   "name": "Reittour",
+   "short": "Ein geführter Ausritt durch die Landschaft und die Küste bei Bodrum, geeignet für Anfänger.",
+   "location": "Bodrum-Umland, Türkei",
+   "duration": "2 Stunden",
+   "departure": "09:00 und 17:00 Uhr, täglich",
+   "return_time": "11:00 / 19:00 Uhr",
+   "meeting_point": "Reitstall (Hotelabholung verfügbar)",
+   "description": [
+    "Dieser geführte Ausritt ist für Reiter jeden Niveaus konzipiert, auch für absolute Anfänger. Nach einer kurzen Einführung in Ihr Pferd und den grundlegenden Umgang führt Ihr Guide die Gruppe in gemächlichem Tempo durch Olivenhaine und offene Landschaft, häufig mit Blick auf die Ägäis.",
+    "Der Abendtermin ist besonders beliebt wegen seines weichen Lichts und der kühleren Temperaturen, und beide Routen beinhalten einen Halt zum Absteigen, Dehnen und Fotografieren, bevor es zurückgeht. Die Pferde werden dem Erfahrungsniveau der Reiter entsprechend zugeteilt, um Komfort und Sicherheit zu gewährleisten."
+   ],
+   "highlights": [
+    "Geeignet für absolute Anfänger",
+    "Landschafts- und Küstenausblicke entlang der Route",
+    "Vormittags- oder goldene Abendstunden-Termine",
+    "Pferde passend zu Ihrem Erfahrungsniveau",
+    "Kleine Gruppengröße mit persönlichem Guide",
+    "Fotostopp entlang der Route"
+   ],
+   "included": [
+    "Pferd und geführter Ausritt",
+    "Reithelm",
+    "Grundlegende Reitanleitung vor dem Start",
+    "Englischsprachiger Guide",
+    "Hotelabholung und -rückbringung",
+    "Flaschenwasser"
+   ],
+   "excluded": [
+    "Professionelles Fotopaket",
+    "Persönliche Ausgaben",
+    "Reitstiefel (geschlossene Schuhe erforderlich, bitte mitbringen)",
+    "Trinkgeld für den Guide"
+   ],
+   "program": [
+    {"time": "08:30", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Stall."},
+    {"time": "09:00", "title": "Treffen mit Ihrem Pferd", "text": "Kurze Sicherheitseinweisung und Einführung in die Handhabung Ihres Pferdes."},
+    {"time": "09:20", "title": "Geführter Ausritt", "text": "Reiten Sie durch Olivenhaine und offene Landschaft."},
+    {"time": "10:15", "title": "Fotostopp", "text": "Absteigen für eine kurze Pause, Dehnen und Fotos."},
+    {"time": "10:45", "title": "Rückkehr zum Stall", "text": "Rückritt zum Stall und Transfer zu Ihrem Hotel."}
+   ],
+   "faq": [
+    {"q": "Brauche ich Reiterfahrung?", "a": "Nein, diese Tour heißt sowohl absolute Anfänger als auch erfahrene Reiter willkommen - Pferde und Tempo werden entsprechend angepasst."},
+    {"q": "Gibt es eine Gewichts- oder Altersgrenze?", "a": "Reiter sollten im Allgemeinen mindestens 8 Jahre alt sein; bitte kontaktieren Sie uns vorab bei speziellen Fragen zu Gewicht oder Gesundheit, damit wir das passende Pferd zuteilen können."},
+    {"q": "Was sollte ich anziehen?", "a": "Geschlossene Schuhe und bequeme Hosen werden empfohlen. Ein Reithelm wird gestellt."},
+    {"q": "Welcher Termin ist besser, morgens oder abends?", "a": "Beide sind schön - Morgende sind kühler und ruhiger, während der Abendtermin weicheres, goldenes Licht bietet, besonders schön für Fotos."}
+   ]
+  },
+  "ru": {
+   "name": "Конная прогулка",
+   "short": "Конная прогулка с гидом по сельской местности и побережью недалеко от Бодрума, подходит для новичков.",
+   "location": "Окрестности Бодрума, Турция",
+   "duration": "2 часа",
+   "departure": "09:00 и 17:00, ежедневно",
+   "return_time": "11:00 / 19:00",
+   "meeting_point": "Конюшня (трансфер от отеля доступен)",
+   "description": [
+    "Эта конная прогулка с гидом рассчитана на всадников любого уровня, включая полных новичков. После короткого знакомства с лошадью и базовыми навыками управления гид ведёт группу спокойным темпом через оливковые рощи и открытую местность, часто с видом на Эгейское море.",
+    "Вечерний сеанс особенно популярен благодаря мягкому свету и более прохладной температуре, оба маршрута включают остановку, чтобы спешиться, размяться и сделать фото перед возвращением. Лошади подбираются в соответствии с опытом всадников для комфорта и уверенности."
+   ],
+   "highlights": [
+    "Подходит для полных новичков",
+    "Виды на сельскую местность и побережье вдоль маршрута",
+    "Утренние или вечерние сеансы в золотой час",
+    "Лошади подобраны по вашему уровню опыта",
+    "Небольшая группа с персональным гидом",
+    "Остановка для фото по маршруту"
+   ],
+   "included": [
+    "Лошадь и конная прогулка с гидом",
+    "Шлем для верховой езды",
+    "Базовый инструктаж перед выездом",
+    "Англоговорящий гид",
+    "Трансфер от отеля и обратно",
+    "Питьевая вода"
+   ],
+   "excluded": [
+    "Профессиональный фотопакет",
+    "Личные расходы",
+    "Сапоги для верховой езды (нужна закрытая обувь, возьмите свою)",
+    "Чаевые гиду"
+   ],
+   "program": [
+    {"time": "08:30", "title": "Трансфер из отеля", "text": "Забираем вас из отеля и везём на конюшню."},
+    {"time": "09:00", "title": "Знакомство с лошадью", "text": "Короткий инструктаж по безопасности и знакомство с управлением лошадью."},
+    {"time": "09:20", "title": "Конная прогулка с гидом", "text": "Прогулка верхом через оливковые рощи и открытую местность."},
+    {"time": "10:15", "title": "Остановка для фото", "text": "Спешивание для короткого отдыха, разминки и фото."},
+    {"time": "10:45", "title": "Возвращение на конюшню", "text": "Возвращение на конюшню и трансфер в отель."}
+   ],
+   "faq": [
+    {"q": "Нужен ли мне опыт верховой езды?", "a": "Нет, этот тур подходит как полным новичкам, так и опытным всадникам - лошади и темп подбираются соответственно."},
+    {"q": "Есть ли ограничения по весу или возрасту?", "a": "Всадникам обычно должно быть не менее 8 лет; пожалуйста, свяжитесь с нами заранее по вопросам веса или здоровья, чтобы мы могли подобрать подходящую лошадь."},
+    {"q": "Что надеть?", "a": "Рекомендуется закрытая обувь и удобные брюки. Шлем для верховой езды предоставляется."},
+    {"q": "Какой сеанс лучше - утренний или вечерний?", "a": "Оба хороши - утром прохладнее и спокойнее, а вечерний сеанс дарит более мягкий золотистый свет, особенно приятный для фото."}
+   ]
+  },
+  "pl": {
+   "name": "Przejażdżka Konna",
+   "short": "Przejażdżka konna z przewodnikiem przez wiejskie tereny i wybrzeże w pobliżu Bodrum, odpowiednia dla początkujących.",
+   "location": "Okolice Bodrum, Turcja",
+   "duration": "2 godziny",
+   "departure": "09:00 i 17:00, codziennie",
+   "return_time": "11:00 / 19:00",
+   "meeting_point": "Stajnia (odbiór z hotelu dostępny)",
+   "description": [
+    "Ta przejażdżka konna z przewodnikiem jest zaprojektowana dla jeźdźców każdego poziomu, w tym całkowitych początkujących. Po krótkim wprowadzeniu do obsługi konia przewodnik prowadzi grupę spokojnym tempem przez gaje oliwne i otwarty teren, często z widokiem na Morze Egejskie.",
+    "Sesja wieczorna jest szczególnie popularna ze względu na miękkie światło i chłodniejszą temperaturę, a obie trasy obejmują postój na zsiadanie z konia, rozciąganie i zdjęcia przed powrotem. Konie są dobierane do poziomu doświadczenia jeźdźców dla komfortu i pewności siebie."
+   ],
+   "highlights": [
+    "Odpowiednie dla całkowitych początkujących",
+    "Widoki na wiejskie tereny i wybrzeże wzdłuż trasy",
+    "Sesje poranne lub o złotej godzinie wieczorem",
+    "Konie dobrane do Państwa poziomu doświadczenia",
+    "Niewielka grupa z osobistym przewodnikiem",
+    "Postój na zdjęcia wzdłuż trasy"
+   ],
+   "included": [
+    "Koń i przejażdżka z przewodnikiem",
+    "Kask jeździecki",
+    "Podstawowy instruktaż jazdy przed wyjazdem",
+    "Anglojęzyczny przewodnik",
+    "Odbiór i powrót z hotelu",
+    "Woda butelkowana"
+   ],
+   "excluded": [
+    "Profesjonalny pakiet fotograficzny",
+    "Wydatki osobiste",
+    "Buty jeździeckie (wymagane zamknięte obuwie, proszę zabrać własne)",
+    "Napiwek dla przewodnika"
+   ],
+   "program": [
+    {"time": "08:30", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu i transfer do stajni."},
+    {"time": "09:00", "title": "Poznanie konia", "text": "Krótki instruktaż bezpieczeństwa i wprowadzenie do obsługi konia."},
+    {"time": "09:20", "title": "Przejażdżka z przewodnikiem", "text": "Jazda przez gaje oliwne i otwarty teren."},
+    {"time": "10:15", "title": "Postój na zdjęcia", "text": "Zsiadanie z konia na krótką przerwę, rozciąganie i zdjęcia."},
+    {"time": "10:45", "title": "Powrót do stajni", "text": "Powrót do stajni i transfer do hotelu."}
+   ],
+   "faq": [
+    {"q": "Czy potrzebne jest doświadczenie jeździeckie?", "a": "Nie, ta wycieczka jest odpowiednia zarówno dla całkowitych początkujących, jak i doświadczonych jeźdźców - konie i tempo są odpowiednio dostosowywane."},
+    {"q": "Czy istnieje limit wagowy lub wiekowy?", "a": "Jeźdźcy powinni mieć zazwyczaj co najmniej 8 lat; prosimy o wcześniejszy kontakt w sprawie wagi lub zdrowia, abyśmy mogli dobrać odpowiedniego konia."},
+    {"q": "Co powinienem/powinnam założyć?", "a": "Zalecane jest zamknięte obuwie i wygodne spodnie. Kask jeździecki jest zapewniony."},
+    {"q": "Która sesja jest lepsza - poranna czy wieczorna?", "a": "Obie są piękne - poranki są chłodniejsze i spokojniejsze, natomiast sesja wieczorna oferuje miękkie, złote światło, szczególnie efektowne na zdjęciach."}
+   ]
+  }
+ },
+ "scuba-diving": {
+  "de": {
+   "name": "Tauch-Erlebnis",
+   "short": "Entdecken Sie die Ägäis unter Wasser bei einem anfängerfreundlichen Schnuppertauchgang oder einem geführten Tauchgang für zertifizierte Taucher.",
+   "location": "Tauchplätze der Bodrum-Halbinsel, Türkei",
+   "duration": "4 Stunden - Halbtägig",
+   "departure": "09:30 Uhr, täglich (wetterabhängig)",
+   "return_time": "13:30 Uhr",
+   "meeting_point": "Tauchzentrum an der Bodrum Marina",
+   "description": [
+    "Bodrums klares Wasser und sanftes Unterwasserterrain machen es zu einem der beliebtesten Orte der Türkei, um das Tauchen zum ersten Mal auszuprobieren - und auch für zertifizierte Taucher ein lohnender Ort. Einsteiger nehmen an einer 'Schnuppertauch'-Sitzung teil: eine kurze Einweisung an Land, dann ein flacher, vollständig betreuter Tauchgang mit einem Instruktor stets an Ihrer Seite.",
+    "Zertifizierte Taucher können an einem geführten Tauchgang zu tieferen Riffgebieten teilnehmen und je nach Bedingungen die Chance haben, Oktopusse, Muränen und Brassenschwärme zu entdecken. Die gesamte Ausrüstung wird gestellt, und jeder Tauchgang wird von einem lizenzierten Instruktor geleitet."
+   ],
+   "highlights": [
+    "Anfängerfreundlicher Schnuppertauchgang, keine Erfahrung nötig",
+    "Geführte Tauchgänge für zertifizierte Taucher verfügbar",
+    "Kleine Gruppen mit lizenziertem Instruktor",
+    "Vollständige Ausrüstung inbegriffen",
+    "Klare Sichtweiten der Ägäis",
+    "Unterwasser-Fotomöglichkeiten"
+   ],
+   "included": [
+    "Vollständige Tauchausrüstung (Anzug, Flasche, Regler, Maske, Flossen)",
+    "Lizenzierter Instruktor und Sicherheitseinweisung",
+    "Bootstransfer zum Tauchplatz",
+    "Ein Tauchgang (Schnupper- oder geführter Tauchgang je nach Zertifizierung)",
+    "Hotelabholung und -rückbringung",
+    "Flaschenwasser und Handtuch"
+   ],
+   "excluded": [
+    "PADI- oder SSI-Zertifizierungskurs (separat erhältlich)",
+    "Unterwasser-Foto-/Videopaket (käuflich)",
+    "Zweiter Tauchgang als Zusatz",
+    "Trinkgeld für den Instruktor"
+   ],
+   "program": [
+    {"time": "09:00", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Tauchzentrum."},
+    {"time": "09:30", "title": "Einweisung und Ausrüstung", "text": "Sicherheitseinweisung und Anpassung der Ausrüstung mit Ihrem Instruktor."},
+    {"time": "10:15", "title": "Bootstransfer", "text": "Kurze Bootsfahrt zum Tauchplatz."},
+    {"time": "10:45", "title": "Der Tauchgang", "text": "Ein flacher Schnupper- oder geführter Tauchgang, durchgehend vollständig betreut."},
+    {"time": "12:30", "title": "Rückfahrt", "text": "Bootsfahrt zurück zur Marina und Transfer zu Ihrem Hotel."}
+   ],
+   "faq": [
+    {"q": "Brauche ich Taucherfahrung, um teilzunehmen?", "a": "Nein, der Schnuppertauchgang ist für absolute Anfänger konzipiert und beinhaltet vollständige Betreuung durch einen lizenzierten Instruktor in geringer Tiefe."},
+    {"q": "Was, wenn ich bereits zertifizierter Taucher bin?", "a": "Zertifizierte Taucher können an einem geführten Tauchgang zu einem tieferen Platz teilnehmen - bringen Sie einfach Ihre Zertifizierungskarte zur Buchung mit."},
+    {"q": "Ist es sicher für Personen, die nicht gut schwimmen können?", "a": "Grundlegende Wassersicherheit ist hilfreich, aber der Schnuppertauchgang wird eng betreut und nutzt vollständige Auftriebsausrüstung, sodass starke Schwimmfähigkeiten nicht erforderlich sind."},
+    {"q": "Was ist das Mindestalter für Tauchen?", "a": "Der Schnuppertauchgang ist in der Regel ab 10 Jahren möglich; bitte geben Sie bei der Buchung das Alter junger Taucher an."}
+   ]
+  },
+  "ru": {
+   "name": "Дайвинг-приключение",
+   "short": "Откройте для себя подводный мир Эгейского моря - пробный дайвинг для новичков или дайвинг с гидом для сертифицированных дайверов.",
+   "location": "Места для дайвинга на полуострове Бодрум, Турция",
+   "duration": "4 часа - полдня",
+   "departure": "09:30, ежедневно (по погоде)",
+   "return_time": "13:30",
+   "meeting_point": "Дайвинг-центр в марине Бодрума",
+   "description": [
+    "Прозрачная вода и мягкий подводный рельеф делают Бодрум одним из самых популярных мест Турции для первого знакомства с дайвингом - и вознаграждающим местом для сертифицированных дайверов. Новички участвуют в сеансе в стиле 'ознакомительного дайвинга': короткий инструктаж на суше, затем неглубокое погружение под полным контролем инструктора, который постоянно находится рядом с вами.",
+    "Сертифицированные дайверы могут отправиться на дайвинг с гидом к более глубоким рифовым участкам и, в зависимости от условий, увидеть осьминогов, мурен и косяки морских карасей. Всё снаряжение предоставляется, и каждое погружение проводится лицензированным инструктором."
+   ],
+   "highlights": [
+    "Пробный дайвинг для новичков, опыт не требуется",
+    "Дайвинг с гидом доступен для сертифицированных дайверов",
+    "Небольшие группы с лицензированным инструктором",
+    "Полное снаряжение предоставляется",
+    "Прозрачная видимость Эгейского моря",
+    "Возможности для подводной фотосъёмки"
+   ],
+   "included": [
+    "Полное снаряжение для дайвинга (гидрокостюм, баллон, регулятор, маска, ласты)",
+    "Лицензированный инструктор и инструктаж по безопасности",
+    "Трансфер на лодке к месту погружения",
+    "Одно погружение (пробное или с гидом, в зависимости от сертификации)",
+    "Трансфер от отеля и обратно",
+    "Питьевая вода и полотенце"
+   ],
+   "excluded": [
+    "Курс сертификации PADI или SSI (предлагается отдельно)",
+    "Пакет подводной фото/видеосъёмки (можно приобрести)",
+    "Дополнительное второе погружение",
+    "Чаевые инструктору"
+   ],
+   "program": [
+    {"time": "09:00", "title": "Трансфер из отеля", "text": "Забираем вас из отеля и везём в дайвинг-центр."},
+    {"time": "09:30", "title": "Инструктаж и снаряжение", "text": "Инструктаж по безопасности и подгонка снаряжения с инструктором."},
+    {"time": "10:15", "title": "Трансфер на лодке", "text": "Короткая поездка на лодке к месту погружения."},
+    {"time": "10:45", "title": "Погружение", "text": "Неглубокое пробное или сопровождаемое погружение под полным контролем инструктора."},
+    {"time": "12:30", "title": "Возвращение", "text": "Возвращение на лодке в марину и трансфер в отель."}
+   ],
+   "faq": [
+    {"q": "Нужен ли опыт дайвинга для участия?", "a": "Нет, пробный дайвинг рассчитан на полных новичков и включает полное сопровождение лицензированного инструктора на небольшой глубине."},
+    {"q": "Что, если я уже сертифицированный дайвер?", "a": "Сертифицированные дайверы могут отправиться на погружение с гидом в более глубоком месте - просто возьмите с собой сертификационную карту при бронировании."},
+    {"q": "Безопасно ли это для тех, кто плохо плавает?", "a": "Базовая уверенность в воде полезна, но пробное погружение проходит под пристальным наблюдением и с полным комплектом плавучести, поэтому отличные навыки плавания не требуются."},
+    {"q": "Какой минимальный возраст для дайвинга?", "a": "Пробное погружение обычно доступно с 10 лет; пожалуйста, укажите возраст юных дайверов при бронировании."}
+   ]
+  },
+  "pl": {
+   "name": "Doświadczenie Nurkowania",
+   "short": "Odkryjcie Morze Egejskie pod wodą podczas próbnego nurkowania dla początkujących lub nurkowania z przewodnikiem dla certyfikowanych nurków.",
+   "location": "Miejsca do nurkowania na Półwyspie Bodrum, Turcja",
+   "duration": "4 godziny - Pół dnia",
+   "departure": "09:30, codziennie (zależnie od pogody)",
+   "return_time": "13:30",
+   "meeting_point": "Centrum nurkowe w Marinie Bodrum",
+   "description": [
+    "Czysta woda i łagodny teren podwodny sprawiają, że Bodrum jest jednym z najpopularniejszych miejsc w Turcji do pierwszej próby nurkowania - a także satysfakcjonującym miejscem dla certyfikowanych nurków. Osoby początkujące biorą udział w sesji typu 'odkryj nurkowanie': krótki instruktaż na lądzie, a następnie płytkie, w pełni nadzorowane nurkowanie z instruktorem stale u Państwa boku.",
+    "Certyfikowani nurkowie mogą wziąć udział w nurkowaniu z przewodnikiem w głębszych miejscach z rafami i, w zależności od warunków, mieć szansę zobaczyć ośmiornice, murenowate i ławice sarg. Cały sprzęt jest zapewniony, a każdemu nurkowaniu przewodzi licencjonowany instruktor."
+   ],
+   "highlights": [
+    "Próbne nurkowanie dla początkujących, doświadczenie niewymagane",
+    "Nurkowanie z przewodnikiem dostępne dla certyfikowanych nurków",
+    "Małe grupy z licencjonowanym instruktorem",
+    "Pełny sprzęt w cenie",
+    "Krystalicznie czysta widoczność Morza Egejskiego",
+    "Możliwości fotografii podwodnej"
+   ],
+   "included": [
+    "Pełny sprzęt do nurkowania (pianka, butla, automat, maska, płetwy)",
+    "Licencjonowany instruktor i instruktaż bezpieczeństwa",
+    "Transfer łodzią na miejsce nurkowania",
+    "Jedno nurkowanie (próbne lub z przewodnikiem, zależnie od certyfikacji)",
+    "Odbiór i powrót z hotelu",
+    "Woda butelkowana i ręcznik"
+   ],
+   "excluded": [
+    "Kurs certyfikacji PADI lub SSI (dostępny osobno)",
+    "Pakiet zdjęć/wideo podwodnego (do kupienia)",
+    "Dodatkowe drugie nurkowanie",
+    "Napiwek dla instruktora"
+   ],
+   "program": [
+    {"time": "09:00", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu i transfer do centrum nurkowego."},
+    {"time": "09:30", "title": "Instruktaż i przygotowanie sprzętu", "text": "Instruktaż bezpieczeństwa i dopasowanie sprzętu z instruktorem."},
+    {"time": "10:15", "title": "Transfer łodzią", "text": "Krótki rejs łodzią do miejsca nurkowania."},
+    {"time": "10:45", "title": "Nurkowanie", "text": "Płytkie próbne lub prowadzone nurkowanie, przez cały czas w pełni nadzorowane."},
+    {"time": "12:30", "title": "Powrót", "text": "Powrót łodzią do mariny i transfer do hotelu."}
+   ],
+   "faq": [
+    {"q": "Czy potrzebne jest doświadczenie w nurkowaniu, aby wziąć udział?", "a": "Nie, próbne nurkowanie jest przeznaczone dla całkowitych początkujących i obejmuje pełny nadzór licencjonowanego instruktora na niewielkiej głębokości."},
+    {"q": "Co jeśli jestem już certyfikowanym nurkiem?", "a": "Certyfikowani nurkowie mogą wziąć udział w nurkowaniu z przewodnikiem w głębszym miejscu - wystarczy zabrać kartę certyfikacyjną na rezerwację."},
+    {"q": "Czy to bezpieczne dla osób słabo pływających?", "a": "Podstawowa pewność w wodzie jest pomocna, ale próbne nurkowanie jest ściśle nadzorowane i wykorzystuje pełny sprzęt wypornościowy, więc doskonałe umiejętności pływackie nie są wymagane."},
+    {"q": "Jaki jest minimalny wiek do nurkowania?", "a": "Próbne nurkowanie jest zazwyczaj dostępne od 10 roku życia; prosimy o podanie wieku młodych nurków przy rezerwacji."}
+   ]
+  }
+ },
+ "dolphin-park": {
+  "de": {
+   "name": "Delfinpark-Besuch",
+   "short": "Ein familienfreundlicher halber Tag mit Delfin- und Seelöwenshows, mit optionalen Begegnungen im Wasser.",
+   "location": "Bodrum-Halbinsel, Türkei",
+   "duration": "3 Stunden",
+   "departure": "10:00 und 14:00 Uhr, täglich",
+   "return_time": "13:00 / 17:00 Uhr",
+   "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+   "description": [
+    "Ein Vormittag oder Nachmittag im Delfinpark ist einer unserer beliebtesten Familienausflüge und verbindet eine unterhaltsame Show mit der Möglichkeit, für eine nähere Begegnung ins Wasser zu gehen. Trainierte Delfine und Seelöwen treten mit ihren Trainern in einem eigens dafür gebauten Showbecken auf.",
+    "Optionale Zusatzangebote erlauben es Gästen (in der Regel ab etwa 6 Jahren, mit gewissen Einschränkungen für jüngere Kinder), unter engmaschiger Personalbetreuung mit den Delfinen zu schwimmen, sie zu berühren oder sich mit ihnen fotografieren zu lassen. Auch ohne das Wasser-Upgrade sorgt allein die Show für ein paar unvergessliche Stunden für Kinder und Erwachsene gleichermaßen."
+   ],
+   "highlights": [
+    "Live-Delfin- und Seelöwenshow",
+    "Optionale Nahbegegnung oder Schwimm-Upgrade",
+    "Eigens gebautes Showbecken mit Sitzplätzen",
+    "Ideal für Familien mit Kindern",
+    "Durchgehend Fotomöglichkeiten",
+    "Kompaktes Halbtagesformat"
+   ],
+   "included": [
+    "Eintritt und reservierter Show-Sitzplatz",
+    "Hotelabholung und -rückbringung",
+    "Englischsprachige Reisebegleitung",
+    "Standard-Show-Betrachtungspaket",
+    "Flaschenwasser",
+    "Reiseversicherung"
+   ],
+   "excluded": [
+    "Schwimm- oder Begegnungspaket im Wasser (optional, vor Ort zu zahlen)",
+    "Professionelles Fotopaket",
+    "Essen und Getränke vor Ort",
+    "Trinkgelder"
+   ],
+   "program": [
+    {"time": "09:15", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel für die Vormittagssitzung."},
+    {"time": "10:00", "title": "Ankunft und Einlass", "text": "Ankunft im Park und Einnehmen Ihrer reservierten Plätze."},
+    {"time": "10:30", "title": "Delfin- und Seelöwenshow", "text": "Genießen Sie die Live-Vorführung."},
+    {"time": "11:15", "title": "Optionale Begegnung", "text": "Gäste mit gebuchtem Schwimm-Upgrade treffen die Delfine im Wasser."},
+    {"time": "12:45", "title": "Rückfahrt", "text": "Transfer zurück zu Ihrem Hotel."}
+   ],
+   "faq": [
+    {"q": "Ist das Schwimmen mit Delfinen inbegriffen?", "a": "Der Parkeintritt und die Show sind inbegriffen; die Schwimm- oder Berührungsbegegnung im Wasser ist ein optionales, kostenpflichtiges Upgrade, das Sie im Voraus bei uns buchen können."},
+    {"q": "Ab welchem Alter kann man an der Wasserbegegnung teilnehmen?", "a": "Dies variiert je nach Programm, ist aber im Allgemeinen ab etwa 6 Jahren möglich, mit Begleitung eines Erwachsenen für jüngere Kinder - wir bestätigen die genauen Altersregeln bei Buchung des Zusatzangebots."},
+    {"q": "Ist die Show für alle Altersgruppen geeignet?", "a": "Ja, die Show selbst ist für alle Altersgruppen unterhaltsam und erfordert kein Betreten des Wassers."},
+    {"q": "Wie lange dauert die Show?", "a": "Die Hauptshow dauert etwa 30-40 Minuten, der gesamte Besuch inklusive Transfers etwa drei Stunden."}
+   ]
+  },
+  "ru": {
+   "name": "Посещение дельфинария",
+   "short": "Семейная поездка на полдня с шоу дельфинов и морских львов, с возможностью общения в воде по желанию.",
+   "location": "Полуостров Бодрум, Турция",
+   "duration": "3 часа",
+   "departure": "10:00 и 14:00, ежедневно",
+   "return_time": "13:00 / 17:00",
+   "meeting_point": "Трансфер от отеля по всему полуострову Бодрум",
+   "description": [
+    "Утро или день в дельфинарии - одна из наших самых популярных семейных поездок, сочетающая увлекательное шоу с возможностью зайти в воду для более близкого знакомства. Дрессированные дельфины и морские львы выступают вместе с тренерами в специально построенном бассейне для шоу.",
+    "Дополнительные опции позволяют гостям (обычно примерно от 6 лет, с некоторыми ограничениями для детей младшего возраста) поплавать, потрогать дельфинов или сфотографироваться с ними под пристальным наблюдением персонала. Даже без дополнительной опции в воде само шоу подарит запоминающиеся часы и детям, и взрослым."
+   ],
+   "highlights": [
+    "Живое шоу дельфинов и морских львов",
+    "Опциональное близкое общение или плавание",
+    "Специально построенный бассейн для шоу с местами",
+    "Отлично подходит для семей с детьми",
+    "Возможности для фото на протяжении всего визита",
+    "Компактный формат на полдня"
+   ],
+   "included": [
+    "Вход и зарезервированные места на шоу",
+    "Трансфер от отеля и обратно",
+    "Помощь англоговорящего сопровождающего",
+    "Стандартный пакет просмотра шоу",
+    "Питьевая вода",
+    "Страховка"
+   ],
+   "excluded": [
+    "Пакет плавания или общения в воде (по желанию, оплата на месте)",
+    "Профессиональный фотопакет",
+    "Еда и напитки на месте",
+    "Чаевые"
+   ],
+   "program": [
+    {"time": "09:15", "title": "Трансфер из отеля", "text": "Забираем вас из отеля для утреннего сеанса."},
+    {"time": "10:00", "title": "Прибытие и рассадка", "text": "Прибытие в парк и занятие зарезервированных мест."},
+    {"time": "10:30", "title": "Шоу дельфинов и морских львов", "text": "Наслаждайтесь живым представлением."},
+    {"time": "11:15", "title": "Опциональное общение", "text": "Гости с забронированным плаванием встречаются с дельфинами в воде."},
+    {"time": "12:45", "title": "Возвращение", "text": "Трансфер обратно в отель."}
+   ],
+   "faq": [
+    {"q": "Включено ли плавание с дельфинами?", "a": "Вход в парк и шоу включены; плавание или контакт с дельфинами в воде - это опциональное платное дополнение, которое можно забронировать у нас заранее."},
+    {"q": "С какого возраста можно участвовать в общении в воде?", "a": "Это зависит от программы, но обычно доступно примерно с 6 лет, с сопровождением взрослого для детей младшего возраста - мы подтвердим точные возрастные правила при бронировании допопции."},
+    {"q": "Подходит ли шоу для всех возрастов?", "a": "Да, само шоу интересно для всех возрастов и не требует захода в воду."},
+    {"q": "Сколько длится шоу?", "a": "Основное шоу длится примерно 30-40 минут, а весь визит с учётом трансферов - около трёх часов."}
+   ]
+  },
+  "pl": {
+   "name": "Wizyta w Parku Delfinów",
+   "short": "Przyjazna rodzinom półdniowa wycieczka z pokazami delfinów i lwów morskich, z opcjonalnym kontaktem w wodzie.",
+   "location": "Półwysep Bodrum, Turcja",
+   "duration": "3 godziny",
+   "departure": "10:00 i 14:00, codziennie",
+   "return_time": "13:00 / 17:00",
+   "meeting_point": "Odbiór z hotelu na całym półwyspie Bodrum",
+   "description": [
+    "Poranek lub popołudnie w Parku Delfinów to jedna z naszych najpopularniejszych wycieczek rodzinnych, łącząca efektowny pokaz z możliwością wejścia do wody dla bliższego kontaktu. Wytresowane delfiny i lwy morskie występują wraz z trenerami w specjalnie zbudowanym basenie pokazowym.",
+    "Opcjonalne dodatki pozwalają gościom (zazwyczaj od około 6 roku życia, z pewnymi ograniczeniami dla młodszych dzieci) popływać, dotknąć lub sfotografować się z delfinami pod ścisłym nadzorem personelu. Nawet bez dodatku wodnego sam pokaz zapewnia niezapomniane godziny zarówno dzieciom, jak i dorosłym."
+   ],
+   "highlights": [
+    "Pokaz delfinów i lwów morskich na żywo",
+    "Opcjonalny bliski kontakt lub pływanie",
+    "Specjalnie zbudowany basen pokazowy z miejscami siedzącymi",
+    "Świetne dla rodzin z dziećmi",
+    "Możliwości zdjęć przez cały czas trwania wizyty",
+    "Kompaktowy format na pół dnia"
+   ],
+   "included": [
+    "Wstęp i zarezerwowane miejsca na pokaz",
+    "Odbiór i powrót z hotelu",
+    "Anglojęzyczna pomoc podczas wycieczki",
+    "Standardowy pakiet oglądania pokazu",
+    "Woda butelkowana",
+    "Ubezpieczenie podróżne"
+   ],
+   "excluded": [
+    "Pakiet pływania lub kontaktu w wodzie (opcjonalnie, płatne na miejscu)",
+    "Profesjonalny pakiet fotograficzny",
+    "Jedzenie i napoje na miejscu",
+    "Napiwki"
+   ],
+   "program": [
+    {"time": "09:15", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu na sesję poranną."},
+    {"time": "10:00", "title": "Przybycie i zajęcie miejsc", "text": "Przybycie do parku i zajęcie zarezerwowanych miejsc."},
+    {"time": "10:30", "title": "Pokaz delfinów i lwów morskich", "text": "Cieszcie się pokazem na żywo."},
+    {"time": "11:15", "title": "Opcjonalny kontakt", "text": "Goście z zarezerwowanym dodatkiem pływania spotykają delfiny w wodzie."},
+    {"time": "12:45", "title": "Powrót", "text": "Transfer z powrotem do hotelu."}
+   ],
+   "faq": [
+    {"q": "Czy pływanie z delfinami jest wliczone?", "a": "Wstęp do parku i pokaz są wliczone; pływanie lub kontakt dotykowy w wodzie to opcjonalny, płatny dodatek, który można zarezerwować u nas z wyprzedzeniem."},
+    {"q": "Od jakiego wieku można uczestniczyć w kontakcie w wodzie?", "a": "Zależy to od programu, ale zazwyczaj dostępne jest od około 6 roku życia, z towarzyszącym dorosłym dla młodszych dzieci - potwierdzimy dokładne zasady wiekowe przy rezerwacji dodatku."},
+    {"q": "Czy pokaz jest odpowiedni dla każdego wieku?", "a": "Tak, sam pokaz jest atrakcyjny dla każdego wieku i nie wymaga wchodzenia do wody."},
+    {"q": "Ile trwa pokaz?", "a": "Główny pokaz trwa około 30-40 minut, a cała wizyta wraz z transferami zajmuje około trzech godzin."}
+   ]
+  }
+ }
+}
