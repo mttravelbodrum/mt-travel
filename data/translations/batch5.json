@@ -1,0 +1,446 @@
+{
+ "aquapark": {
+  "de": {
+   "name": "Aquapark Tagesticket",
+   "short": "Ein ganzer Tag mit Rutschen, Wellenbecken und Familienspaß in einem der größten Wasserparks der Region.",
+   "location": "Bodrum-Halbinsel, Türkei",
+   "duration": "6 Stunden - Ganztägiger Eintritt",
+   "departure": "09:30 Uhr, täglich",
+   "return_time": "16:00 Uhr",
+   "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+   "description": [
+    "Für einen Tag, bei dem es nur um Spaß statt Sightseeing geht, beinhaltet das Aquapark-Paket Rücktransfer und ganztägigen Eintritt in einen der größten Wasserparks der Region. Die Rutschen reichen von sanften Familienrutschen bis zu steilen Hochgeschwindigkeitsabfahrten, dazu kommen Wellenbecken, Lazy Rivers und eigene Kleinkindbereiche.",
+    "Rund um den Park stehen Sonnenliegen zur Verfügung, und es gibt Essens- und Getränkestände vor Ort, falls Sie den Tag voll auskosten möchten. Eine einfache, mühelose Wahl für Familien oder alle, die eine Pause vom Sightseeing möchten."
+   ],
+   "highlights": [
+    "Ganztägiger Eintritt in einen großen regionalen Wasserpark",
+    "Rutschen für jedes Nervenkitzel-Level, plus Wellenbecken",
+    "Eigene Kleinkind- und Familienzonen",
+    "Rücktransfer vom Hotel inbegriffen",
+    "Sonnenliegen vor Ort verfügbar",
+    "Essens- und Getränkestände im Park"
+   ],
+   "included": [
+    "Ganztägiges Parkeintrittsticket",
+    "Rücktransfer zum Hotel",
+    "Englischsprachige Transferbegleitung",
+    "Zugang zu Wellenbecken und Kleinkindzonen",
+    "Reiseversicherung",
+    "Schließfachvermietung (Kaution vor Ort erforderlich)"
+   ],
+   "excluded": [
+    "Essen und Getränke im Park",
+    "Vermietung einer privaten Cabana oder Premium-Liege",
+    "Handtücher (vor Ort mietbar)",
+    "Trinkgelder"
+   ],
+   "program": [
+    {"time": "08:45", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel für den Transfer zum Park."},
+    {"time": "09:30", "title": "Parkeinlass", "text": "Betreten Sie den Park und richten Sie sich ein - Liegen sind in der Nähe der Becken verfügbar."},
+    {"time": "Ganztägig", "title": "Freizeit", "text": "Genießen Sie Rutschen, Wellenbecken und Familienbereiche in Ihrem eigenen Tempo."},
+    {"time": "15:30", "title": "Treffpunkt", "text": "Sammeln am vereinbarten Treffpunkt für den Rücktransfer."},
+    {"time": "16:00", "title": "Rückfahrt zum Hotel", "text": "Transfer zurück zu Ihrem Hotel."}
+   ],
+   "faq": [
+    {"q": "Ist der Aquapark für kleine Kinder geeignet?", "a": "Ja, es gibt eigene Kleinkindbecken und sanftere Rutschen neben den größeren Attraktionen, sodass der Park für Familien mit gemischten Altersgruppen gut geeignet ist."},
+    {"q": "Werden Handtücher gestellt?", "a": "Handtücher sind nicht inbegriffen, können aber vor Ort gemietet werden; wir empfehlen, ein eigenes mitzubringen, um Zeit und Kosten zu sparen."},
+    {"q": "Können wir den ganzen Tag bleiben?", "a": "Ja, Ihr Ticket deckt den ganztägigen Eintritt ab, und der Transferzeitplan ist auf einen vollen Tag im Park ausgelegt."},
+    {"q": "Gibt es Essen im Park?", "a": "Ja, im gesamten Park gibt es Essens- und Getränkestände, diese sind jedoch nicht im Tourpreis inbegriffen."}
+   ]
+  },
+  "ru": {
+   "name": "Дневной билет в аквапарк",
+   "short": "Целый день горок, волновых бассейнов и семейного веселья в одном из крупнейших аквапарков региона.",
+   "location": "Полуостров Бодрум, Турция",
+   "duration": "6 часов - вход на весь день",
+   "departure": "09:30, ежедневно",
+   "return_time": "16:00",
+   "meeting_point": "Трансфер от отеля по всему полуострову Бодрум",
+   "description": [
+    "Для дня, посвящённого исключительно веселью, а не экскурсиям, пакет в аквапарк включает трансфер туда и обратно и вход на весь день в один из крупнейших аквапарков региона. Горки варьируются от спокойных семейных до крутых скоростных спусков, а также есть волновые бассейны, ленивые реки и отдельные зоны для малышей.",
+    "По территории парка расставлены шезлонги, а на месте есть киоски с едой и напитками, если вы хотите провести здесь целый день. Простой, необременительный вариант для семей или всех, кто хочет отдохнуть от экскурсий."
+   ],
+   "highlights": [
+    "Вход на весь день в крупный региональный аквапарк",
+    "Горки для любого уровня азарта, плюс волновой бассейн",
+    "Отдельные зоны для малышей и семей",
+    "Трансфер от отеля и обратно включён",
+    "Шезлонги доступны на месте",
+    "Киоски с едой и напитками в парке"
+   ],
+   "included": [
+    "Билет на вход в парк на весь день",
+    "Трансфер от отеля и обратно",
+    "Помощь англоговорящего сопровождающего",
+    "Доступ к волновому бассейну и зонам для малышей",
+    "Страховка",
+    "Аренда шкафчика (депозит на месте)"
+   ],
+   "excluded": [
+    "Еда и напитки в парке",
+    "Аренда частной кабаны или премиального шезлонга",
+    "Полотенца (можно арендовать на месте)",
+    "Чаевые"
+   ],
+   "program": [
+    {"time": "08:45", "title": "Трансфер из отеля", "text": "Забираем вас из отеля для трансфера в парк."},
+    {"time": "09:30", "title": "Вход в парк", "text": "Вход в парк и размещение - шезлонги доступны рядом с бассейнами."},
+    {"time": "Весь день", "title": "Свободное время", "text": "Наслаждайтесь горками, волновым бассейном и семейными зонами в своём темпе."},
+    {"time": "15:30", "title": "Точка сбора", "text": "Сбор в согласованной точке для обратного трансфера."},
+    {"time": "16:00", "title": "Возвращение в отель", "text": "Трансфер обратно в отель."}
+   ],
+   "faq": [
+    {"q": "Подходит ли аквапарк для маленьких детей?", "a": "Да, помимо крупных аттракционов есть отдельные бассейны для малышей и более спокойные горки, поэтому парк хорошо подходит для семей с детьми разного возраста."},
+    {"q": "Полотенца предоставляются?", "a": "Полотенца не включены, но их можно арендовать на месте; рекомендуем взять своё, чтобы сэкономить время и деньги."},
+    {"q": "Можем ли мы остаться на весь день?", "a": "Да, ваш билет покрывает вход на весь день, и расписание трансфера рассчитано на полный день в парке."},
+    {"q": "Есть ли еда в парке?", "a": "Да, по всему парку есть киоски с едой и напитками, но они не включены в стоимость тура."}
+   ]
+  },
+  "pl": {
+   "name": "Bilet Dzienny do Aquaparku",
+   "short": "Cały dzień zjeżdżalni, basenów z falami i rodzinnej zabawy w jednym z największych parków wodnych regionu.",
+   "location": "Półwysep Bodrum, Turcja",
+   "duration": "6 godzin - Wstęp całodniowy",
+   "departure": "09:30, codziennie",
+   "return_time": "16:00",
+   "meeting_point": "Odbiór z hotelu na całym półwyspie Bodrum",
+   "description": [
+    "Na dzień poświęcony wyłącznie zabawie, a nie zwiedzaniu, pakiet Aquapark obejmuje transfer w obie strony i całodniowy wstęp do jednego z największych parków wodnych regionu. Zjeżdżalnie obejmują zarówno łagodne trasy rodzinne, jak i strome, szybkie zjazdy, a do tego baseny z falami, leniwe rzeki i dedykowane strefy dla najmłodszych.",
+    "Wokół parku dostępne są leżaki, a na miejscu znajdują się stoiska z jedzeniem i napojami, jeśli chcecie spędzić tu cały dzień. Łatwy, bezwysiłkowy wybór dla rodzin lub każdego, kto chce zrobić sobie przerwę od zwiedzania."
+   ],
+   "highlights": [
+    "Całodniowy wstęp do dużego regionalnego parku wodnego",
+    "Zjeżdżalnie dla każdego poziomu emocji, plus basen z falami",
+    "Dedykowane strefy dla najmłodszych i rodzin",
+    "Transfer z hotelu w obie strony wliczony",
+    "Leżaki dostępne na miejscu",
+    "Stoiska z jedzeniem i napojami w parku"
+   ],
+   "included": [
+    "Całodniowy bilet wstępu do parku",
+    "Transfer z hotelu w obie strony",
+    "Anglojęzyczna pomoc podczas transferu",
+    "Dostęp do basenu z falami i stref dla najmłodszych",
+    "Ubezpieczenie podróżne",
+    "Wynajem szafki (depozyt wymagany na miejscu)"
+   ],
+   "excluded": [
+    "Jedzenie i napoje w parku",
+    "Wynajem prywatnej kabany lub leżaka premium",
+    "Ręczniki (do wynajęcia na miejscu)",
+    "Napiwki"
+   ],
+   "program": [
+    {"time": "08:45", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu w celu transferu do parku."},
+    {"time": "09:30", "title": "Wejście do parku", "text": "Wejście do parku i zadomowienie się - leżaki dostępne w pobliżu basenów."},
+    {"time": "Cały dzień", "title": "Czas wolny", "text": "Cieszcie się zjeżdżalniami, basenem z falami i strefami rodzinnymi we własnym tempie."},
+    {"time": "15:30", "title": "Punkt zbiórki", "text": "Zbiórka w uzgodnionym punkcie na transfer powrotny."},
+    {"time": "16:00", "title": "Powrót do hotelu", "text": "Transfer z powrotem do hotelu."}
+   ],
+   "faq": [
+    {"q": "Czy Aquapark jest odpowiedni dla małych dzieci?", "a": "Tak, oprócz większych atrakcji są dedykowane baseny dla najmłodszych i łagodniejsze zjeżdżalnie, więc park dobrze sprawdza się dla rodzin z dziećmi w różnym wieku."},
+    {"q": "Czy ręczniki są zapewnione?", "a": "Ręczniki nie są wliczone, ale można je wynająć na miejscu; polecamy zabranie własnego, aby zaoszczędzić czas i koszty."},
+    {"q": "Czy możemy zostać na cały dzień?", "a": "Tak, bilet obejmuje wstęp na cały dzień, a harmonogram transferu jest dostosowany do pełnego dnia w parku."},
+    {"q": "Czy w parku jest jedzenie?", "a": "Tak, na terenie całego parku znajdują się stoiska z jedzeniem i napojami, jednak nie są one wliczone w cenę wycieczki."}
+   ]
+  }
+ },
+ "pamukkale": {
+  "de": {
+   "name": "Pamukkale Tagesausflug",
+   "short": "Die weißen Kalksinterterrassen von Pamukkale und die antiken Ruinen von Hierapolis, an einem einzigen, unvergesslichen langen Tag.",
+   "location": "Provinz Denizli, Türkei",
+   "duration": "13 Stunden - Ganztägig (Langstrecke)",
+   "departure": "04:30 Uhr, täglich",
+   "return_time": "20:30 Uhr",
+   "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+   "description": [
+    "Pamukkale - wörtlich 'Baumwollschloss' - ist eines der meistfotografierten Ziele der Türkei: ein Hang mit strahlend weißen Kalksinterterrassen, geformt über Jahrtausende durch kalziumreiches Thermalwasser. Es ist ein wirklich früher Start ab Bodrum, aber jeder Gast sagt uns, dass es sich gelohnt hat.",
+    "Über die Terrassen hinaus erkunden Sie die Ruinen des antiken Hierapolis, einst eine bedeutende römisch-hellenistische Kurstadt mit einem gut erhaltenen Theater und einer weitläufigen Nekropole. Gäste können zudem optional im Antiken Pool der Kleopatra schwimmen, wo Sie zwischen versunkenen antiken Säulen in warmem Mineralwasser treiben."
+   ],
+   "highlights": [
+    "Die weißen Kalksinterterrassen von Pamukkale",
+    "Antike Ruinen von Hierapolis und römisches Theater",
+    "Weite Ausblicke über das Tal",
+    "Optionales Schwimmen im Antiken Pool der Kleopatra",
+    "UNESCO-Weltkulturerbe",
+    "Ganztägiges geführtes Erlebnis mit Mittagspause"
+   ],
+   "included": [
+    "Hin- und Rücktransport im klimatisierten Fahrzeug",
+    "Hotelabholung und -rückbringung",
+    "Englischsprachiger Reiseleiter",
+    "Eintritt Pamukkale und Hierapolis",
+    "Mittagessen in einem lokalen Restaurant",
+    "Reiseversicherung"
+   ],
+   "excluded": [
+    "Eintritt zum Antiken Pool der Kleopatra (optional, vor Ort zu zahlen)",
+    "Getränke zum Mittagessen",
+    "Persönliche Ausgaben und Souvenirs",
+    "Trinkgeld für Reiseleiter und Fahrer"
+   ],
+   "program": [
+    {"time": "04:30", "title": "Hotelabholung", "text": "Sehr früher Start, um die Zeit vor Ort optimal zu nutzen."},
+    {"time": "08:30", "title": "Ankunft in Pamukkale", "text": "Beginn des geführten Spaziergangs über die Kalksinterterrassen."},
+    {"time": "10:00", "title": "Ruinen von Hierapolis", "text": "Erkundung des antiken Theaters, der Nekropole und der Stadtruinen."},
+    {"time": "11:30", "title": "Optionaler Kleopatra-Pool", "text": "Freizeit für ein optionales Bad zwischen antiken Säulen."},
+    {"time": "13:00", "title": "Mittagessen", "text": "Halt in einem lokalen Restaurant vor der Rückfahrt."},
+    {"time": "14:00", "title": "Rückfahrt", "text": "Fahrt zurück Richtung Bodrum, Ankunft am Abend."}
+   ],
+   "faq": [
+    {"q": "Warum beginnt die Pamukkale-Tour so früh?", "a": "Pamukkale liegt etwa 3,5-4 Stunden von Bodrum entfernt, daher stellt ein früher Start sicher, dass Sie viel Zeit vor Ort haben, statt den Tag mit Fahren zu verlieren."},
+    {"q": "Muss ich etwas Besonderes mitbringen?", "a": "Badebekleidung und Handtuch werden empfohlen, falls Sie den Kleopatra-Pool besuchen möchten, ebenso bequeme Wanderschuhe für die Terrassen."},
+    {"q": "Muss man barfuß über die Terrassen laufen?", "a": "Ja, Besucher werden in der Regel gebeten, auf den Haupt-Kalksinterterrassen barfuß zu gehen, um die Formationen zu schützen, daher sind leicht auszuziehende Sandalen hilfreich."},
+    {"q": "Ist diese Tour für ältere Reisende geeignet?", "a": "Die Terrassen erfordern etwas Gehen auf unebenem, nassem Kalkstein, aber das Tempo ist für die meisten Fitnesslevel machbar - teilen Sie uns eventuelle Mobilitätsbedenken im Voraus mit."}
+   ]
+  },
+  "ru": {
+   "name": "Однодневная поездка в Памуккале",
+   "short": "Белые травертиновые террасы Памуккале и античные руины Иераполиса за один долгий, но незабываемый день.",
+   "location": "Денизли, Турция",
+   "duration": "13 часов - весь день (дальняя поездка)",
+   "departure": "04:30, ежедневно",
+   "return_time": "20:30",
+   "meeting_point": "Трансфер от отеля по всему полуострову Бодрум",
+   "description": [
+    "Памуккале - дословно 'Хлопковый замок' - одно из самых фотографируемых мест Турции: склон холма, покрытый ослепительно белыми травертиновыми террасами, сформированными за тысячи лет богатой кальцием термальной водой. Выезд из Бодрума действительно очень ранний, но каждый наш гость говорит, что оно того стоило.",
+    "Помимо самих террас, вы исследуете руины античного Иераполиса - некогда важного римско-эллинистического курортного города с хорошо сохранившимся театром и обширным некрополем. Гости также могут по желанию искупаться в Античном бассейне Клеопатры, где можно плавать среди затонувших древних колонн в тёплой минеральной воде."
+   ],
+   "highlights": [
+    "Белые травертиновые террасы Памуккале",
+    "Античные руины Иераполиса и римский театр",
+    "Панорамные виды на долину",
+    "Купание в Античном бассейне Клеопатры по желанию",
+    "Объект Всемирного наследия ЮНЕСКО",
+    "Целый день с гидом и остановкой на обед"
+   ],
+   "included": [
+    "Трансфер туда и обратно на кондиционированном транспорте",
+    "Трансфер от отеля и обратно",
+    "Англоговорящий гид",
+    "Входные билеты в Памуккале и Иераполис",
+    "Обед в местном ресторане",
+    "Страховка"
+   ],
+   "excluded": [
+    "Вход в Античный бассейн Клеопатры (по желанию, оплата на месте)",
+    "Напитки к обеду",
+    "Личные расходы и сувениры",
+    "Чаевые гиду и водителю"
+   ],
+   "program": [
+    {"time": "04:30", "title": "Трансфер из отеля", "text": "Очень ранний выезд, чтобы максимально использовать время на месте."},
+    {"time": "08:30", "title": "Прибытие в Памуккале", "text": "Начало прогулки с гидом по травертиновым террасам."},
+    {"time": "10:00", "title": "Руины Иераполиса", "text": "Осмотр античного театра, некрополя и городских руин."},
+    {"time": "11:30", "title": "Бассейн Клеопатры (по желанию)", "text": "Свободное время для купания среди античных колонн."},
+    {"time": "13:00", "title": "Обед", "text": "Остановка в местном ресторане перед обратной дорогой."},
+    {"time": "14:00", "title": "Обратный путь", "text": "Дорога обратно в сторону Бодрума, прибытие вечером."}
+   ],
+   "faq": [
+    {"q": "Почему тур в Памуккале начинается так рано?", "a": "Памуккале находится примерно в 3,5-4 часах от Бодрума, поэтому ранний выезд обеспечивает достаточно времени на месте, а не в дороге."},
+    {"q": "Нужно ли взять с собой что-то особенное?", "a": "Рекомендуем купальник и полотенце, если планируете посетить бассейн Клеопатры, а также удобную обувь для ходьбы по террасам."},
+    {"q": "Нужно ли ходить по террасам босиком?", "a": "Да, посетителей обычно просят ходить босиком по основным травертиновым террасам, чтобы защитить формации, поэтому пригодятся сандалии, которые легко снять."},
+    {"q": "Подходит ли этот тур пожилым путешественникам?", "a": "Терраса предполагает ходьбу по неровному влажному известняку, но темп посилен для большинства уровней физической подготовки - сообщите нам заранее о любых проблемах с передвижением."}
+   ]
+  },
+  "pl": {
+   "name": "Jednodniowa Wycieczka do Pamukkale",
+   "short": "Białe tarasy trawertynowe Pamukkale i starożytne ruiny Hierapolis w jeden długi, niezapomniany dzień.",
+   "location": "Prowincja Denizli, Turcja",
+   "duration": "13 godzin - Cały dzień (Duża odległość)",
+   "departure": "04:30, codziennie",
+   "return_time": "20:30",
+   "meeting_point": "Odbiór z hotelu na całym półwyspie Bodrum",
+   "description": [
+    "Pamukkale - dosłownie 'Bawełniany Zamek' - to jedno z najczęściej fotografowanych miejsc w Turcji: zbocze pokryte olśniewająco białymi tarasami trawertynowymi, uformowanymi przez tysiące lat przez bogatą w wapń wodę termalną. To naprawdę bardzo wczesny wyjazd z Bodrum, ale każdy nasz gość mówi, że było warto.",
+    "Poza samymi tarasami zwiedzicie ruiny starożytnego Hierapolis, niegdyś ważnego rzymsko-hellenistycznego miasta uzdrowiskowego z dobrze zachowanym teatrem i rozległą nekropolią. Goście mogą także skorzystać z opcjonalnej kąpieli w Antycznym Basenie Kleopatry, gdzie unosicie się w ciepłej wodzie mineralnej wśród zatopionych starożytnych kolumn."
+   ],
+   "highlights": [
+    "Białe tarasy trawertynowe Pamukkale",
+    "Starożytne ruiny Hierapolis i rzymski teatr",
+    "Rozległe widoki na dolinę",
+    "Opcjonalna kąpiel w Antycznym Basenie Kleopatry",
+    "Obiekt Światowego Dziedzictwa UNESCO",
+    "Całodniowa wycieczka z przewodnikiem i postojem na obiad"
+   ],
+   "included": [
+    "Transport w obie strony klimatyzowanym pojazdem",
+    "Odbiór i powrót z hotelu",
+    "Anglojęzyczny przewodnik",
+    "Bilety wstępu do Pamukkale i Hierapolis",
+    "Obiad w lokalnej restauracji",
+    "Ubezpieczenie podróżne"
+   ],
+   "excluded": [
+    "Wstęp do Antycznego Basenu Kleopatry (opcjonalnie, płatne na miejscu)",
+    "Napoje do obiadu",
+    "Wydatki osobiste i pamiątki",
+    "Napiwki dla przewodnika i kierowcy"
+   ],
+   "program": [
+    {"time": "04:30", "title": "Odbiór z hotelu", "text": "Bardzo wczesny wyjazd, aby maksymalnie wykorzystać czas na miejscu."},
+    {"time": "08:30", "title": "Przybycie do Pamukkale", "text": "Rozpoczęcie spaceru z przewodnikiem po tarasach trawertynowych."},
+    {"time": "10:00", "title": "Ruiny Hierapolis", "text": "Zwiedzanie starożytnego teatru, nekropolii i ruin miasta."},
+    {"time": "11:30", "title": "Opcjonalny Basen Kleopatry", "text": "Czas wolny na opcjonalną kąpiel wśród starożytnych kolumn."},
+    {"time": "13:00", "title": "Obiad", "text": "Postój w lokalnej restauracji przed podróżą powrotną."},
+    {"time": "14:00", "title": "Podróż powrotna", "text": "Jazda z powrotem w kierunku Bodrum, przybycie wieczorem."}
+   ],
+   "faq": [
+    {"q": "Dlaczego wycieczka do Pamukkale zaczyna się tak wcześnie?", "a": "Pamukkale znajduje się około 3,5-4 godziny od Bodrum, więc wczesny wyjazd zapewnia dużo czasu na miejscu zamiast tracenia dnia na dojazd."},
+    {"q": "Czy muszę zabrać coś specjalnego?", "a": "Zalecamy strój kąpielowy i ręcznik, jeśli planujecie odwiedzić Basen Kleopatry, a także wygodne buty do chodzenia po tarasach."},
+    {"q": "Czy trzeba chodzić po tarasach boso?", "a": "Tak, odwiedzający są zazwyczaj proszeni o chodzenie boso po głównych tarasach trawertynowych, aby chronić formacje, więc przydadzą się sandały łatwe do zdjęcia."},
+    {"q": "Czy ta wycieczka jest odpowiednia dla starszych podróżnych?", "a": "Tarasy wymagają chodzenia po nierównym, mokrym wapieniu, ale tempo jest możliwe do zniesienia dla większości poziomów sprawności - prosimy o wcześniejsze zgłoszenie ewentualnych problemów z poruszaniem się."}
+   ]
+  }
+ },
+ "ephesus": {
+  "de": {
+   "name": "Efes Antike Stadt Tour",
+   "short": "Wandeln Sie auf den Marmorstraßen einer der am besten erhaltenen antiken Städte im Mittelmeerraum.",
+   "location": "Selcuk, Provinz Izmir, Türkei",
+   "duration": "11 Stunden - Ganztägig (Langstrecke)",
+   "departure": "06:30 Uhr, täglich",
+   "return_time": "19:30 Uhr",
+   "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+   "description": [
+    "Nur wenige antike Stätten lassen Geschichte so lebendig werden wie Ephesus. Einst eine bedeutende römische Hafenstadt mit rund 250.000 Einwohnern, sind ihre marmorgepflasterten Straßen, prachtvollen Fassaden und öffentlichen Gebäude bemerkenswert intakt geblieben - eine der vollständigsten klassischen Städte im gesamten Mittelmeerraum.",
+    "Ihr Reiseleiter führt Sie an der Celsus-Bibliothek vorbei, dem einst 24.000 Zuschauer fassenden Großen Theater und den Terrassenhäusern, in denen wohlhabende Epheser lebten. Viele Gäste verbinden den Besuch gern mit dem nahegelegenen Haus der Jungfrau Maria und der Basilika des Heiligen Johannes in Selcuk, beide reich an eigener Geschichte."
+   ],
+   "highlights": [
+    "Die Celsus-Bibliothek, Ephesus' ikonische Fassade",
+    "Das Große Theater, einst für 24.000 Zuschauer",
+    "Die marmorgepflasterte Kuretenstraße",
+    "Optionaler Besuch des Hauses der Jungfrau Maria",
+    "UNESCO-Weltkulturerbe",
+    "Ganztägige geführte Tour mit Mittagspause"
+   ],
+   "included": [
+    "Hin- und Rücktransport im klimatisierten Fahrzeug",
+    "Hotelabholung und -rückbringung",
+    "Englischsprachiger lizenzierter Reiseleiter",
+    "Eintritt zur archäologischen Stätte Ephesus",
+    "Mittagessen in einem lokalen Restaurant",
+    "Reiseversicherung"
+   ],
+   "excluded": [
+    "Eintritt zu den Terrassenhäusern (optional, vor Ort zu zahlen)",
+    "Eintritt zum Haus der Jungfrau Maria (optional)",
+    "Getränke zum Mittagessen",
+    "Trinkgeld für Reiseleiter und Fahrer"
+   ],
+   "program": [
+    {"time": "06:30", "title": "Hotelabholung", "text": "Früher Start für die Fahrt Richtung Norden nach Selcuk."},
+    {"time": "09:30", "title": "Ankunft in Ephesus", "text": "Geführte Wandertour durch die antike Stadt."},
+    {"time": "11:30", "title": "Celsus-Bibliothek und Theater", "text": "Besuch der berühmtesten Sehenswürdigkeiten der Stätte."},
+    {"time": "13:00", "title": "Mittagessen", "text": "Halt in einem lokalen Restaurant bei Selcuk."},
+    {"time": "14:30", "title": "Optionale weitere Stätten", "text": "Zeit für das Haus der Jungfrau Maria oder die Terrassenhäuser."},
+    {"time": "15:30", "title": "Rückfahrt", "text": "Fahrt zurück Richtung Bodrum, Ankunft am Abend."}
+   ],
+   "faq": [
+    {"q": "Wie viel Gehen ist in Ephesus erforderlich?", "a": "Die Hauptroute durch die antike Stadt umfasst etwa 1,5-2 km auf Marmor- und Steinwegen, daher werden bequeme Wanderschuhe empfohlen."},
+    {"q": "Gibt es Schatten an der Stätte?", "a": "Einige Bereiche bieten Schatten, aber ein Großteil der Stätte liegt im Freien - Sonnenschutz, ein Hut und Wasser werden dringend empfohlen, besonders im Sommer."},
+    {"q": "Lohnen sich die Terrassenhäuser den zusätzlichen Eintritt?", "a": "Viele Gäste empfinden sie als Highlight, da sie originale Mosaiken und Fresken überdacht bewahren - Ihr Reiseleiter berät Sie gern je nach Ihren Interessen."},
+    {"q": "Kann man dies mit Pamukkale kombinieren?", "a": "Ephesus und Pamukkale werden aufgrund der Entfernung zueinander als separate Tagestouren angeboten, aber fragen Sie uns gern nach mehrtägigen Kombinationsmöglichkeiten."}
+   ]
+  },
+  "ru": {
+   "name": "Тур в античный город Эфес",
+   "short": "Прогуляйтесь по мраморным улицам одного из наиболее хорошо сохранившихся античных городов Средиземноморья.",
+   "location": "Сельчук, Измир, Турция",
+   "duration": "11 часов - весь день (дальняя поездка)",
+   "departure": "06:30, ежедневно",
+   "return_time": "19:30",
+   "meeting_point": "Трансфер от отеля по всему полуострову Бодрум",
+   "description": [
+    "Немногие античные памятники оживляют историю так, как Эфес. Некогда крупный римский портовый город с населением около 250 000 человек, его мощёные мрамором улицы, величественные фасады и общественные здания сохранились удивительно хорошо, что делает его одним из самых полных классических городов во всём Средиземноморье.",
+    "Ваш гид проведёт вас мимо библиотеки Цельса, Большого театра, некогда вмещавшего 24 000 зрителей, и Террасных домов, где жили состоятельные эфесяне. Многие гости предпочитают объединить визит с посещением расположенных неподалёку Дома Девы Марии и Базилики Святого Иоанна в Сельчуке, оба места богаты собственной историей."
+   ],
+   "highlights": [
+    "Библиотека Цельса - знаковый фасад Эфеса",
+    "Большой театр, некогда вмещавший 24 000 зрителей",
+    "Мощёная мрамором улица Куретов",
+    "Посещение Дома Девы Марии по желанию",
+    "Объект Всемирного наследия ЮНЕСКО",
+    "Целый день с гидом и остановкой на обед"
+   ],
+   "included": [
+    "Трансфер туда и обратно на кондиционированном транспорте",
+    "Трансфер от отеля и обратно",
+    "Англоговорящий лицензированный гид",
+    "Вход на археологический объект Эфес",
+    "Обед в местном ресторане",
+    "Страховка"
+   ],
+   "excluded": [
+    "Вход в Террасные дома (по желанию, оплата на месте)",
+    "Вход в Дом Девы Марии (по желанию)",
+    "Напитки к обеду",
+    "Чаевые гиду и водителю"
+   ],
+   "program": [
+    {"time": "06:30", "title": "Трансфер из отеля", "text": "Ранний выезд для поездки на север, в Сельчук."},
+    {"time": "09:30", "title": "Прибытие в Эфес", "text": "Пешая экскурсия с гидом по античному городу."},
+    {"time": "11:30", "title": "Библиотека Цельса и театр", "text": "Посещение самых знаменитых памятников объекта."},
+    {"time": "13:00", "title": "Обед", "text": "Остановка в местном ресторане неподалёку от Сельчука."},
+    {"time": "14:30", "title": "Дополнительные объекты по желанию", "text": "Время для Дома Девы Марии или Террасных домов."},
+    {"time": "15:30", "title": "Обратный путь", "text": "Дорога обратно в сторону Бодрума, прибытие вечером."}
+   ],
+   "faq": [
+    {"q": "Сколько нужно ходить пешком в Эфесе?", "a": "Основной маршрут по античному городу составляет примерно 1,5-2 км по мраморным и каменным дорожкам, поэтому рекомендуется удобная обувь для ходьбы."},
+    {"q": "Есть ли на объекте тень?", "a": "В некоторых зонах есть тень, но большая часть объекта открыта - настоятельно рекомендуем защиту от солнца, головной убор и воду, особенно летом."},
+    {"q": "Стоят ли Террасные дома дополнительной платы за вход?", "a": "Многие гости считают их одним из главных моментов поездки, так как там сохранены оригинальные мозаики и фрески под навесом - ваш гид подскажет с учётом ваших интересов."},
+    {"q": "Можно ли совместить это с Памуккале?", "a": "Эфес и Памуккале предлагаются как отдельные однодневные туры из-за расстояния между ними, но вы можете спросить нас о вариантах многодневных комбинаций."}
+   ]
+  },
+  "pl": {
+   "name": "Wycieczka do Starożytnego Miasta Efez",
+   "short": "Przejdźcie się marmurowymi ulicami jednego z najlepiej zachowanych starożytnych miast w basenie Morza Śródziemnego.",
+   "location": "Selczuk, prowincja Izmir, Turcja",
+   "duration": "11 godzin - Cały dzień (Duża odległość)",
+   "departure": "06:30, codziennie",
+   "return_time": "19:30",
+   "meeting_point": "Odbiór z hotelu na całym półwyspie Bodrum",
+   "description": [
+    "Niewiele starożytnych miejsc ożywia historię tak jak Efez. Niegdyś ważne rzymskie miasto portowe liczące około 250 000 mieszkańców, jego wybrukowane marmurem ulice, okazałe fasady i budynki publiczne pozostały niezwykle dobrze zachowane, co czyni je jednym z najbardziej kompletnych klasycznych miast w całym basenie Morza Śródziemnego.",
+    "Przewodnik oprowadzi Was obok Biblioteki Celsusa, Wielkiego Teatru, niegdyś mieszczącego 24 000 widzów, oraz Domów Tarasowych, w których mieszkali zamożni mieszkańcy Efezu. Wielu gości decyduje się połączyć wizytę z pobliskim Domem Matki Boskiej i Bazyliką św. Jana w Selczuku - oba miejsca mają bogatą własną historię."
+   ],
+   "highlights": [
+    "Biblioteka Celsusa - ikoniczna fasada Efezu",
+    "Wielki Teatr, niegdyś mieszczący 24 000 widzów",
+    "Wybrukowana marmurem Ulica Kuretów",
+    "Opcjonalna wizyta w Domu Matki Boskiej",
+    "Obiekt Światowego Dziedzictwa UNESCO",
+    "Całodniowa wycieczka z przewodnikiem i postojem na obiad"
+   ],
+   "included": [
+    "Transport w obie strony klimatyzowanym pojazdem",
+    "Odbiór i powrót z hotelu",
+    "Anglojęzyczny licencjonowany przewodnik",
+    "Wstęp na teren wykopalisk w Efezie",
+    "Obiad w lokalnej restauracji",
+    "Ubezpieczenie podróżne"
+   ],
+   "excluded": [
+    "Wstęp do Domów Tarasowych (opcjonalnie, płatne na miejscu)",
+    "Wstęp do Domu Matki Boskiej (opcjonalnie)",
+    "Napoje do obiadu",
+    "Napiwki dla przewodnika i kierowcy"
+   ],
+   "program": [
+    {"time": "06:30", "title": "Odbiór z hotelu", "text": "Wczesny wyjazd w podróż na północ, do Selczuka."},
+    {"time": "09:30", "title": "Przybycie do Efezu", "text": "Piesza wycieczka z przewodnikiem po starożytnym mieście."},
+    {"time": "11:30", "title": "Biblioteka Celsusa i Teatr", "text": "Zwiedzanie najsłynniejszych zabytków tego miejsca."},
+    {"time": "13:00", "title": "Obiad", "text": "Postój w lokalnej restauracji w pobliżu Selczuka."},
+    {"time": "14:30", "title": "Opcjonalne dodatkowe miejsca", "text": "Czas na Dom Matki Boskiej lub Domy Tarasowe."},
+    {"time": "15:30", "title": "Podróż powrotna", "text": "Jazda z powrotem w kierunku Bodrum, przybycie wieczorem."}
+   ],
+   "faq": [
+    {"q": "Ile trzeba chodzić w Efezie?", "a": "Główna trasa przez starożytne miasto obejmuje około 1,5-2 km po marmurowych i kamiennych ścieżkach, dlatego zalecane są wygodne buty do chodzenia."},
+    {"q": "Czy na miejscu jest cień?", "a": "Niektóre obszary oferują cień, ale większa część terenu jest odkryta - zdecydowanie zalecamy ochronę przeciwsłoneczną, nakrycie głowy i wodę, zwłaszcza latem."},
+    {"q": "Czy Domy Tarasowe są warte dodatkowej opłaty za wstęp?", "a": "Wielu gości uważa je za jeden z najważniejszych punktów, ponieważ zachowały oryginalne mozaiki i freski pod zadaszeniem - przewodnik doradzi w oparciu o Państwa zainteresowania."},
+    {"q": "Czy można to połączyć z Pamukkale?", "a": "Efez i Pamukkale są oferowane jako osobne wycieczki jednodniowe ze względu na odległość między nimi, ale zapytajcie nas o opcje wielodniowych kombinacji."}
+   ]
+  }
+ }
+}

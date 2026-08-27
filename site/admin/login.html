@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Yönetici Girişi | MT Travel</title>
+<meta content="MT Travel yönetici paneli girişi." name="description"/>
+<link href="https://www.mttravel.com/admin/login.html" rel="canonical"/>
+<meta content="noindex, nofollow" name="robots"/>
+<meta content="website" property="og:type"/>
+<meta content="Yönetici Girişi | MT Travel" property="og:title"/>
+<meta content="MT Travel yönetici paneli girişi." property="og:description"/>
+<meta content="../assets/images/common/og-image.jpg" property="og:image"/>
+<meta content="https://www.mttravel.com/admin/login.html" property="og:url"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Yönetici Girişi | MT Travel" name="twitter:title"/>
+<meta content="MT Travel yönetici paneli girişi." name="twitter:description"/>
+<meta content="../assets/images/common/og-image.jpg" name="twitter:image"/>
+<link href="../assets/images/common/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="../assets/images/common/favicon-16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="../assets/images/common/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="../assets/css/variables.css" rel="stylesheet"/>
+<link href="../assets/css/base.css" rel="stylesheet"/>
+<link href="../assets/css/layout.css" rel="stylesheet"/>
+<link href="../assets/css/components.css" rel="stylesheet"/>
+<link href="../assets/css/pages.css" rel="stylesheet"/>
+<link href="../assets/css/animations.css" rel="stylesheet"/>
+<link href="../assets/css/admin.css" rel="stylesheet"/>
+</head>
+<body class="admin-body">
+<div class="login-shell">
+<div class="login-shell__art">
+<div class="login-art-content">
+<img alt="" src="../assets/images/common/banner-admin-login.jpg"/>
+<h2 data-i18n="admin.login_art_title" style="color:#fff;">MT Travel'ı Yönetin</h2>
+<p data-i18n="admin.login_art_sub" style="color:var(--slate-300);">Rezervasyonlar, turlar, müşteriler ve raporlar - hepsi tek yerde.</p>
+</div>
+</div>
+<div class="login-shell__form">
+<div class="login-box">
+<a class="logo" href="../index.html">
+<span class="logo__mark"><img src="../assets/images/common/logo-mark.png" alt="MT Travel" width="388" height="200"></span>
+<span class="logo__text"><strong>MT</strong><span>TRAVEL</span></span>
+</a>
+<h2 data-i18n="admin.login_title" style="margin-top:28px;">Tekrar Hoş Geldiniz</h2>
+<p data-i18n="admin.login_sub" style="margin-bottom:28px;">MT Travel'ı yönetmek için giriş yapın</p>
+<form id="adminLoginForm">
+<div class="field">
+<label class="field-label" data-i18n="form.email" for="loginEmail">E-posta Adresi</label>
+<div class="input-icon-wrap">
+<svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><rect height="16" rx="2" width="20" x="2" y="4"></rect><path d="m22 6-10 7L2 6"></path></svg>
+<input autocomplete="username" class="input" id="loginEmail" placeholder="admin@mttravel.com" type="email"/>
+</div>
+<div class="field-error"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><path d="m10.29 3.86-8.18 14.14A2 2 0 0 0 3.82 21h16.36a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"></path><line x1="12" x2="12" y1="9" y2="13"></line><line x1="12" x2="12.01" y1="17" y2="17"></line></svg><span data-i18n="validate.email">Lütfen geçerli bir e-posta adresi girin.</span></div>
+</div>
+<div class="field">
+<label class="field-label" data-i18n="form.password" for="loginPassword">Şifre</label>
+<div class="input-icon-wrap">
+<svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><rect height="11" rx="2" width="18" x="3" y="11"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+<input autocomplete="current-password" class="input" id="loginPassword" type="password"/>
+</div>
+<div class="field-error"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><path d="m10.29 3.86-8.18 14.14A2 2 0 0 0 3.82 21h16.36a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"></path><line x1="12" x2="12" y1="9" y2="13"></line><line x1="12" x2="12.01" y1="17" y2="17"></line></svg><span data-i18n="validate.password_length">Şifre en az 4 karakter olmalıdır.</span></div>
+</div>
+<div style="display:flex; align-items:center; margin-bottom:24px;">
+<div class="checkbox-row" style="align-items:center;">
+<input checked="" id="rememberMe" type="checkbox"/>
+<label data-i18n="admin.remember_me" for="rememberMe">Beni hatırla</label>
+</div>
+</div>
+<button class="btn btn--primary btn--block" data-i18n="admin.login_btn" id="adminLoginBtn" type="submit">Giriş Yap</button>
+<p data-i18n="admin.login_note" style="text-align:center; margin-top:20px; font-size:.8rem; color:var(--slate-400);">Arka uç sunucusunun çalışıyor olması gerekir (cd backend, ardından node server.js). Canlıya almadan önce varsayılan örnek yönetici şifresini değiştirin (bkz. backend/README.md).</p>
+</form>
+</div>
+</div>
+</div>
+<script src="../assets/js/utils.js"></script>
+<script src="../assets/js/data/site-data.js"></script>
+<script src="../assets/js/data/tours-data.js"></script>
+<script src="../assets/js/data/countries-data.js"></script>
+<script src="../assets/js/i18n/bundle.js"></script>
+<script src="../assets/js/api-client.js"></script>
+<script src="../assets/js/language.js"></script>
+<script src="../assets/js/main.js"></script>
+<script src="../assets/js/admin-common.js"></script>
+<script src="../assets/js/admin-login.js"></script>
+</body>
+</html>

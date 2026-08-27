@@ -1,0 +1,440 @@
+{
+ "dalyan": {
+  "de": {
+   "name": "Dalyan Tour",
+   "short": "Flussboote, antike Felsengräber, Heilschlammbäder und Turtle Beach an einem abwechslungsreichen Tag.",
+   "location": "Dalyan, Provinz Mugla, Türkei",
+   "duration": "12 Stunden - Ganztägig",
+   "departure": "07:00 Uhr, täglich",
+   "return_time": "19:00 Uhr",
+   "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+   "description": [
+    "Dalyan vereint ein ungewöhnliches Maß an Abwechslung in einem einzigen Tag. Sie fahren mit dem Boot den schilfgesäumten Fluss Dalyan entlang und passieren dabei die eindrucksvollen lykischen Felsengräber, die direkt in die darüberliegende Klippe gehauen sind - ein markanter, fotogener Start in den Tag.",
+    "Von dort führt die Bootsfahrt weiter zu den Ruinen des antiken Kaunos, einem Halt an einem Heilschlammbad mit heißer Quelle und schließlich zum Iztuzu-Strand - auch bekannt als 'Turtle Beach' wegen der Karettschildkröten, die dort an den Stränden nisten. Ein voller, unvergesslicher Tag, der Geschichte, Natur und Entspannung verbindet."
+   ],
+   "highlights": [
+    "Bootsfahrt vorbei an den lykischen Felsengräbern",
+    "Antike Ruinen von Kaunos",
+    "Halt an Heilschlammbad und heißer Quelle",
+    "Freizeit am Iztuzu 'Turtle Beach'",
+    "Tierwelt am Fluss, einschließlich Schildkröten und Vögel",
+    "Ganztägiges geführtes Erlebnis mit Mittagspause"
+   ],
+   "included": [
+    "Hin- und Rücktransport im klimatisierten Fahrzeug",
+    "Flussbootfahrt",
+    "Hotelabholung und -rückbringung",
+    "Englischsprachiger Reiseleiter",
+    "Eintritt zu Schlammbad und heißer Quelle",
+    "Mittagessen in einem lokalen Restaurant"
+   ],
+   "excluded": [
+    "Getränke zum Mittagessen",
+    "Persönliche Ausgaben und Souvenirs",
+    "Eintrittsgebühr zu den Kaunos-Ruinen (gering, vor Ort zu zahlen)",
+    "Trinkgeld für Reiseleiter und Fahrer"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Hotelabholung", "text": "Abfahrt in Richtung des Dalyan-Flussdeltas."},
+    {"time": "10:00", "title": "Flussbootfahrt", "text": "Fahrt vorbei an den lykischen Felsengräbern und Schilfgebieten."},
+    {"time": "11:00", "title": "Ruinen von Kaunos", "text": "Besuch der antiken Ruinen am Flussufer."},
+    {"time": "12:00", "title": "Schlammbad und heiße Quelle", "text": "Zeit, das Heilschlamm- und Mineralbad zu genießen."},
+    {"time": "13:30", "title": "Mittagessen", "text": "Halt in einem lokalen Restaurant."},
+    {"time": "14:30", "title": "Iztuzu Turtle Beach", "text": "Freizeit zum Entspannen und Baden am berühmten Strand."}
+   ],
+   "faq": [
+    {"q": "Sehen wir am Turtle Beach wirklich Schildkröten?", "a": "Karettschildkröten nisten saisonal am Iztuzu-Strand, und Sichtungen im Wasser sind möglich, aber nicht garantiert - der Strand selbst ist so oder so wunderschön."},
+    {"q": "Ist das Schlammbad im Preis inbegriffen?", "a": "Ja, der Eintritt zum Schlammbad und den heißen Quellen ist in Ihrem Tourpaket enthalten."},
+    {"q": "Was sollte ich für die Dalyan-Tour mitbringen?", "a": "Badebekleidung, Handtuch, Sonnencreme und Wechselkleidung werden empfohlen, da der Tag sowohl das Schlammbad als auch den Strand umfasst."},
+    {"q": "Ist dies eine entspannte oder aktive Tour?", "a": "Es ist eine gute Mischung - Bootsfahrt und Strandzeit sind entspannt, mit nur etwas Gehen bei den Kaunos-Ruinen."}
+   ]
+  },
+  "ru": {
+   "name": "Тур в Даламан (Дальян)",
+   "short": "Речные лодки, античные скальные гробницы, лечебные грязевые ванны и пляж черепах за один насыщенный день.",
+   "location": "Дальян, Мугла, Турция",
+   "duration": "12 часов - весь день",
+   "departure": "07:00, ежедневно",
+   "return_time": "19:00",
+   "meeting_point": "Трансфер от отеля по всему полуострову Бодрум",
+   "description": [
+    "Дальян вмещает в один день необычайное разнообразие впечатлений. Вы отправитесь на лодке по реке Дальян, окружённой тростником, минуя впечатляющие ликийские скальные гробницы, вырубленные прямо в скале над водой - яркое, фотогеничное начало дня.",
+    "Далее лодка проследует к руинам античного Кавноса, остановке у лечебной грязевой ванны с горячим источником и, наконец, к пляжу Изтузу, также известному как 'пляж черепах' благодаря головастым морским черепахам, гнездящимся на его песке. Насыщенный, незабываемый день, объединяющий историю, природу и отдых."
+   ],
+   "highlights": [
+    "Прогулка на лодке мимо ликийских скальных гробниц",
+    "Античные руины Кавноса",
+    "Остановка у лечебной грязевой ванны и горячего источника",
+    "Свободное время на пляже Изтузу ('пляж черепах')",
+    "Речная фауна, включая черепах и птиц",
+    "Целый день с гидом и остановкой на обед"
+   ],
+   "included": [
+    "Трансфер туда и обратно на кондиционированном транспорте",
+    "Прогулка на речной лодке",
+    "Трансфер от отеля и обратно",
+    "Англоговорящий гид",
+    "Вход в грязевую ванну и горячий источник",
+    "Обед в местном ресторане"
+   ],
+   "excluded": [
+    "Напитки к обеду",
+    "Личные расходы и сувениры",
+    "Входная плата в руины Кавноса (небольшая, на месте)",
+    "Чаевые гиду и водителю"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Трансфер из отеля", "text": "Выезд в сторону дельты реки Дальян."},
+    {"time": "10:00", "title": "Прогулка на речной лодке", "text": "Проезд мимо ликийских скальных гробниц и тростниковых зарослей."},
+    {"time": "11:00", "title": "Руины Кавноса", "text": "Посещение античных руин на берегу реки."},
+    {"time": "12:00", "title": "Грязевая ванна и горячий источник", "text": "Время насладиться лечебной грязью и минеральными бассейнами."},
+    {"time": "13:30", "title": "Обед", "text": "Остановка в местном ресторане."},
+    {"time": "14:30", "title": "Пляж черепах Изтузу", "text": "Свободное время для отдыха и купания на знаменитом пляже."}
+   ],
+   "faq": [
+    {"q": "Действительно ли мы увидим черепах на пляже черепах?", "a": "Головастые морские черепахи сезонно гнездятся на пляже Изтузу, и встреча с ними в воде возможна, но не гарантирована - сам пляж прекрасен в любом случае."},
+    {"q": "Включена ли грязевая ванна в стоимость?", "a": "Да, вход в грязевую ванну и минеральные бассейны включён в ваш тур-пакет."},
+    {"q": "Что взять с собой на тур в Дальян?", "a": "Рекомендуем купальник, полотенце, солнцезащитный крем и сменную одежду, так как день включает и грязевую ванну, и пляж."},
+    {"q": "Это спокойный или активный тур?", "a": "Хорошее сочетание - прогулка на лодке и время на пляже спокойные, лишь немного ходьбы у руин Кавноса."}
+   ]
+  },
+  "pl": {
+   "name": "Wycieczka do Dalyan",
+   "short": "Łodzie rzeczne, starożytne grobowce skalne, lecznicze kąpiele błotne i Plaża Żółwi w jeden urozmaicony dzień.",
+   "location": "Dalyan, prowincja Mugla, Turcja",
+   "duration": "12 godzin - Cały dzień",
+   "departure": "07:00, codziennie",
+   "return_time": "19:00",
+   "meeting_point": "Odbiór z hotelu na całym półwyspie Bodrum",
+   "description": [
+    "Dalyan mieści w jednym dniu niezwykłą różnorodność atrakcji. Popłyniecie łodzią porośniętą trzciną rzeką Dalyan, mijając imponujące likijskie grobowce skalne, wykute bezpośrednio w klifie nad wodą - efektowny, fotogeniczny początek dnia.",
+    "Stamtąd łódź płynie dalej do ruin starożytnego Kaunos, na postój przy leczniczej kąpieli błotnej z gorącym źródłem, a na koniec na plażę Iztuzu - znaną również jako 'Plaża Żółwi' ze względu na żółwie karetta karetta gniazdujące na jej piaskach. Pełen, niezapomniany dzień łączący historię, naturę i relaks."
+   ],
+   "highlights": [
+    "Rejs łodzią obok likijskich grobowców skalnych",
+    "Starożytne ruiny Kaunos",
+    "Postój przy leczniczej kąpieli błotnej i gorącym źródle",
+    "Czas wolny na plaży Iztuzu ('Plaża Żółwi')",
+    "Fauna rzeczna, w tym żółwie i ptaki",
+    "Całodniowa wycieczka z przewodnikiem i postojem na obiad"
+   ],
+   "included": [
+    "Transport w obie strony klimatyzowanym pojazdem",
+    "Rejs łodzią rzeczną",
+    "Odbiór i powrót z hotelu",
+    "Anglojęzyczny przewodnik",
+    "Wstęp do kąpieli błotnej i gorącego źródła",
+    "Obiad w lokalnej restauracji"
+   ],
+   "excluded": [
+    "Napoje do obiadu",
+    "Wydatki osobiste i pamiątki",
+    "Opłata wstępu do ruin Kaunos (niewielka, na miejscu)",
+    "Napiwki dla przewodnika i kierowcy"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Odbiór z hotelu", "text": "Wyjazd w kierunku delty rzeki Dalyan."},
+    {"time": "10:00", "title": "Rejs łodzią rzeczną", "text": "Przepłynięcie obok likijskich grobowców skalnych i trzcinowisk."},
+    {"time": "11:00", "title": "Ruiny Kaunos", "text": "Zwiedzanie starożytnych ruin nad brzegiem rzeki."},
+    {"time": "12:00", "title": "Kąpiel błotna i gorące źródło", "text": "Czas na cieszenie się leczniczym błotem i basenami mineralnymi."},
+    {"time": "13:30", "title": "Obiad", "text": "Postój w lokalnej restauracji."},
+    {"time": "14:30", "title": "Plaża Żółwi Iztuzu", "text": "Czas wolny na relaks i kąpiel na słynnej plaży."}
+   ],
+   "faq": [
+    {"q": "Czy naprawdę zobaczymy żółwie na Plaży Żółwi?", "a": "Żółwie karetta karetta sezonowo gniazdują wzdłuż plaży Iztuzu, a ich obserwacja w wodzie jest możliwa, ale nie gwarantowana - sama plaża jest piękna niezależnie od tego."},
+    {"q": "Czy kąpiel błotna jest wliczona w cenę?", "a": "Tak, wstęp do kąpieli błotnej i basenów mineralnych jest wliczony w Państwa pakiet wycieczkowy."},
+    {"q": "Co zabrać na wycieczkę do Dalyan?", "a": "Zalecamy strój kąpielowy, ręcznik, krem z filtrem i zmianę ubrania, ponieważ dzień obejmuje zarówno kąpiel błotną, jak i plażę."},
+    {"q": "Czy to spokojna czy aktywna wycieczka?", "a": "To dobra mieszanka - rejs łodzią i czas na plaży są spokojne, z niewielką ilością chodzenia przy ruinach Kaunos."}
+   ]
+  }
+ },
+ "rafting": {
+  "de": {
+   "name": "Rafting-Abenteuer",
+   "short": "Ein Tagesausflug zum Wildwasserfluss der Region für eine geführte Raftingfahrt durch eine malerische Schlucht.",
+   "location": "Dalaman-Fluss-Schlucht, Türkei",
+   "duration": "12 Stunden - Ganztägig (Langstrecke)",
+   "departure": "07:00 Uhr, täglich",
+   "return_time": "19:00 Uhr",
+   "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+   "description": [
+    "Da es auf der Bodrum-Halbinsel selbst kein Wildwasser gibt, führt diese Tour Sie ins Landesinnere zum Raftingfluss der Region, wo eine Schlucht mit pinienbewachsenen Klippen und kühlem, schnell fließendem Wasser für einen wirklich spannenden Kontrast zu einem Strandtag sorgt.",
+    "Nach einer Sicherheitseinweisung und einem kurzen Übungspaddeln in ruhigem Wasser führt Ihr Guide eine kleine Rafting-Crew durch eine Reihe von für Anfänger geeigneten Stromschnellen, mit reichlich ruhigeren Abschnitten dazwischen, um die Schluchtlandschaft zu genießen. Erfahrung ist nicht erforderlich, und die gesamte Sicherheitsausrüstung wird gestellt."
+   ],
+   "highlights": [
+    "Geführtes Wildwasser-Rafting für Anfänger geeignet",
+    "Malerische Schlucht mit pinienbewachsenen Klippen",
+    "Kleine Rafting-Crews mit erfahrenem Guide",
+    "Sicherheitseinweisung und Übungspaddeln inbegriffen",
+    "Mittagspause am Fluss",
+    "Ganztägiger Ausflug mit malerischem Transfer"
+   ],
+   "included": [
+    "Rafting-Ausrüstung (Boot, Paddel, Helm, Schwimmweste)",
+    "Erfahrener Rafting-Guide",
+    "Hin- und Rücktransport im klimatisierten Fahrzeug",
+    "Hotelabholung und -rückbringung",
+    "Mittagessen am Fluss",
+    "Reiseversicherung"
+   ],
+   "excluded": [
+    "Wechselkleidung (Sie werden nass)",
+    "Wasserdichtes Kamera-/Fotopaket (käuflich)",
+    "Persönliche Ausgaben",
+    "Trinkgeld für den Guide"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Hotelabholung", "text": "Abfahrt in Richtung der Rafting-Region."},
+    {"time": "10:30", "title": "Sicherheitseinweisung", "text": "Anpassung der Ausrüstung und Übungspaddeln in ruhigem Wasser."},
+    {"time": "11:00", "title": "Rafting-Strecke", "text": "Bewältigung der Stromschnellen mit Ihrem Guide und Ihrer Rafting-Crew."},
+    {"time": "13:00", "title": "Mittagessen am Fluss", "text": "Entspannte Mittagspause in der Schlucht."},
+    {"time": "14:30", "title": "Freizeit", "text": "Optionales entspanntes Treiben oder Zeit am Flussufer vor der Abfahrt."},
+    {"time": "15:30", "title": "Rückfahrt", "text": "Fahrt zurück Richtung Bodrum, Ankunft am Abend."}
+   ],
+   "faq": [
+    {"q": "Brauche ich Rafting-Erfahrung?", "a": "Nein, die bei dieser Tour genutzte Strecke ist für Einsteiger geeignet, und Ihr Guide leitet die Rafting-Crew zuvor durch eine vollständige Sicherheitseinweisung."},
+    {"q": "Werde ich komplett nass?", "a": "Ja, rechnen Sie damit, durchgehend nass zu werden - bringen Sie für die Heimfahrt komplette Wechselkleidung mit."},
+    {"q": "Was ist das Mindestalter fürs Rafting?", "a": "In der Regel ab etwa 7 Jahren, kann jedoch je nach Flussbedingungen am jeweiligen Tag variieren - teilen Sie uns bei der Buchung das Alter Ihrer Gruppe mit."},
+    {"q": "Ist es sicher, wenn ich nicht gut schwimmen kann?", "a": "Schwimmwesten werden durchgehend getragen und der Guide ist in Flusssicherheit geschult, teilen Sie uns aber bitte im Voraus mit, falls jemand in Ihrer Gruppe kein sicherer Schwimmer ist."}
+   ]
+  },
+  "ru": {
+   "name": "Рафтинг-приключение",
+   "short": "Однодневная поездка на реку региона для рафтинга с гидом через живописный каньон.",
+   "location": "Каньон реки Даламан, Турция",
+   "duration": "12 часов - весь день (дальняя поездка)",
+   "departure": "07:00, ежедневно",
+   "return_time": "19:00",
+   "meeting_point": "Трансфер от отеля по всему полуострову Бодрум",
+   "description": [
+    "Поскольку на самом полуострове Бодрум нет порожистых рек, этот тур везёт вас вглубь материка к реке региона для рафтинга, где каньон с покрытыми соснами скалами и прохладной быстрой водой создаёт по-настоящему захватывающий контраст пляжному дню.",
+    "После инструктажа по безопасности и короткой тренировки на спокойной воде ваш гид ведёт небольшой экипаж по серии порогов, подходящих для новичков, с достаточным количеством спокойных участков между ними для наслаждения пейзажем каньона. Опыт не требуется, всё защитное снаряжение предоставляется."
+   ],
+   "highlights": [
+    "Рафтинг с гидом, подходящий для новичков",
+    "Живописный каньон с покрытыми соснами скалами",
+    "Небольшие экипажи с опытным гидом",
+    "Инструктаж по безопасности и тренировочное гребля включены",
+    "Обеденный перерыв у реки",
+    "Целый день с живописным трансфером"
+   ],
+   "included": [
+    "Снаряжение для рафтинга (плот, весло, шлем, спасательный жилет)",
+    "Опытный гид по рафтингу",
+    "Трансфер туда и обратно на кондиционированном транспорте",
+    "Трансфер от отеля и обратно",
+    "Обед у реки",
+    "Страховка"
+   ],
+   "excluded": [
+    "Сменная одежда (вы промокнете)",
+    "Водонепроницаемый фото/видео пакет (можно приобрести)",
+    "Личные расходы",
+    "Чаевые гиду"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Трансфер из отеля", "text": "Выезд в сторону региона рафтинга."},
+    {"time": "10:30", "title": "Инструктаж по безопасности", "text": "Подгонка снаряжения и тренировочная гребля на спокойной воде."},
+    {"time": "11:00", "title": "Маршрут рафтинга", "text": "Прохождение порогов вместе с гидом и экипажем."},
+    {"time": "13:00", "title": "Обед у реки", "text": "Спокойный обеденный перерыв в каньоне."},
+    {"time": "14:30", "title": "Свободное время", "text": "Опциональный спокойный сплав или время у берега перед отъездом."},
+    {"time": "15:30", "title": "Обратный путь", "text": "Дорога обратно в сторону Бодрума, прибытие вечером."}
+   ],
+   "faq": [
+    {"q": "Нужен ли мне опыт рафтинга?", "a": "Нет, маршрут, используемый в этом туре, подходит для новичков, и ваш гид проведёт полный инструктаж по безопасности перед стартом."},
+    {"q": "Я полностью промокну?", "a": "Да, будьте готовы промокнуть на всём протяжении - возьмите с собой полный комплект сменной одежды для обратной дороги."},
+    {"q": "Какой минимальный возраст для рафтинга?", "a": "Обычно от 7 лет, но это может меняться в зависимости от состояния реки в конкретный день - сообщите нам возраст участников вашей группы при бронировании."},
+    {"q": "Безопасно ли это, если я плохо плаваю?", "a": "Спасательные жилеты надеваются постоянно, а гид обучен речной безопасности, но, пожалуйста, сообщите нам заранее, если кто-то в вашей группе не уверенно плавает."}
+   ]
+  },
+  "pl": {
+   "name": "Przygoda z Raftingiem",
+   "short": "Jednodniowa wycieczka na rzekę górską regionu na spływ raftingowy z przewodnikiem przez malowniczy kanion.",
+   "location": "Kanion Rzeki Dalaman, Turcja",
+   "duration": "12 godzin - Cały dzień (Duża odległość)",
+   "departure": "07:00, codziennie",
+   "return_time": "19:00",
+   "meeting_point": "Odbiór z hotelu na całym półwyspie Bodrum",
+   "description": [
+    "Ponieważ na samym półwyspie Bodrum nie ma rzek górskich, ta wycieczka zabiera Was w głąb lądu, na rzekę raftingową regionu, gdzie kanion z porośniętymi sosnami klifami i chłodną, wartko płynącą wodą tworzy naprawdę ekscytujący kontrast dla dnia na plaży.",
+    "Po instruktażu bezpieczeństwa i krótkim treningu wiosłowania na spokojnej wodzie przewodnik prowadzi niewielką załogę przez serię progów odpowiednich dla początkujących, z wieloma spokojniejszymi odcinkami pomiędzy nimi na podziwianie krajobrazu kanionu. Doświadczenie nie jest wymagane, a cały sprzęt ochronny jest zapewniony."
+   ],
+   "highlights": [
+    "Rafting z przewodnikiem odpowiedni dla początkujących",
+    "Malowniczy kanion z porośniętymi sosnami klifami",
+    "Niewielkie załogi z doświadczonym przewodnikiem",
+    "Instruktaż bezpieczeństwa i trening wiosłowania w cenie",
+    "Przerwa na obiad nad rzeką",
+    "Całodniowa wycieczka z malowniczym transferem"
+   ],
+   "included": [
+    "Sprzęt raftingowy (tratwa, wiosło, kask, kamizelka ratunkowa)",
+    "Doświadczony przewodnik raftingowy",
+    "Transport w obie strony klimatyzowanym pojazdem",
+    "Odbiór i powrót z hotelu",
+    "Obiad nad rzeką",
+    "Ubezpieczenie podróżne"
+   ],
+   "excluded": [
+    "Zmiana ubrania (zmoczą się Państwo)",
+    "Wodoodporny pakiet foto/wideo (do kupienia)",
+    "Wydatki osobiste",
+    "Napiwek dla przewodnika"
+   ],
+   "program": [
+    {"time": "07:00", "title": "Odbiór z hotelu", "text": "Wyjazd w kierunku regionu raftingowego."},
+    {"time": "10:30", "title": "Instruktaż bezpieczeństwa", "text": "Dopasowanie sprzętu i trening wiosłowania na spokojnej wodzie."},
+    {"time": "11:00", "title": "Trasa raftingowa", "text": "Pokonywanie progów wraz z przewodnikiem i załogą."},
+    {"time": "13:00", "title": "Obiad nad rzeką", "text": "Spokojna przerwa obiadowa w kanionie."},
+    {"time": "14:30", "title": "Czas wolny", "text": "Opcjonalny spokojny spływ lub czas nad brzegiem rzeki przed wyjazdem."},
+    {"time": "15:30", "title": "Podróż powrotna", "text": "Jazda z powrotem w kierunku Bodrum, przybycie wieczorem."}
+   ],
+   "faq": [
+    {"q": "Czy potrzebne jest doświadczenie w raftingu?", "a": "Nie, trasa używana w tej wycieczce jest odpowiednia dla początkujących, a przewodnik przeprowadzi pełny instruktaż bezpieczeństwa przed startem."},
+    {"q": "Czy całkowicie się zmoczę?", "a": "Tak, należy spodziewać się zmoczenia przez cały czas - proszę zabrać na drogę powrotną pełną zmianę ubrania."},
+    {"q": "Jaki jest minimalny wiek do raftingu?", "a": "Zazwyczaj od około 7 roku życia, choć może się to różnić w zależności od stanu rzeki danego dnia - proszę podać wiek uczestników grupy przy rezerwacji."},
+    {"q": "Czy to bezpieczne, jeśli słabo pływam?", "a": "Kamizelki ratunkowe są noszone przez cały czas, a przewodnik jest przeszkolony w zakresie bezpieczeństwa rzecznego, ale prosimy o wcześniejsze zgłoszenie, jeśli ktoś w grupie słabo pływa."}
+   ]
+  }
+ },
+ "airport-transfer": {
+  "de": {
+   "name": "Flughafentransfer",
+   "short": "Direkter, zuverlässiger Transfer zwischen dem Flughafen Milas-Bodrum und Ihrem Hotel, inklusive Flugverfolgung.",
+   "location": "Flughafen Milas-Bodrum (BJV) zu Hotels auf der Bodrum-Halbinsel",
+   "duration": "45-70 Minuten (je nach Ziel)",
+   "departure": "Auf Anfrage, rund um die Uhr",
+   "return_time": "Abgestimmt auf Ihre Flugzeit",
+   "meeting_point": "Ankunftshalle des Flughafens / Ihre Hotellobby",
+   "description": [
+    "Nach einem langen Flug zu landen, ist nicht der Moment, um über einen Taxipreis zu verhandeln. Bei unserem Flughafentransfer-Service wartet ein Fahrer mit Ihrem Namen in der Ankunftshalle und bringt Sie direkt zu Ihrem Hotel, egal wo auf der Bodrum-Halbinsel.",
+    "Wir verfolgen Ihren Flug in Echtzeit, sodass Ihr Fahrer selbst bei Verspätung da ist, wenn Sie landen. Derselbe Service läuft für Ihre Abreise in umgekehrter Richtung, zeitlich so geplant, dass Sie mit ausreichend Puffer zum Check-in gelangen."
+   ],
+   "highlights": [
+    "Fahrer wartet in der Ankunftshalle mit Namensschild",
+    "Echtzeit-Flugverfolgung, unabhängig von Verspätungen",
+    "Direkte Route zu Hotels auf der gesamten Halbinsel",
+    "Komfortable, klimatisierte Fahrzeuge",
+    "Rund um die Uhr verfügbar",
+    "Festpreis, keine Überraschungen"
+   ],
+   "included": [
+    "Privates Transferfahrzeug",
+    "Empfang bei Ankunft mit Namensschild",
+    "Flugverfolgung und Wartezeit",
+    "Flaschenwasser an Bord",
+    "Alle Mautgebühren und Flughafenabgaben",
+    "24/7 Verfügbarkeit"
+   ],
+   "excluded": [
+    "Zusätzliche Stopps über die direkte Route hinaus",
+    "Kindersitz (auf Anfrage verfügbar, bitte bei Buchung angeben)",
+    "Trinkgeld für den Fahrer",
+    "Wartezeit über eine Stunde nach Landung hinaus"
+   ],
+   "program": [
+    {"time": "Bei Landung", "title": "Empfang", "text": "Ihr Fahrer empfängt Sie in der Ankunftshalle mit einem Namensschild."},
+    {"time": "+10 Min", "title": "Direkter Transfer", "text": "Eine komfortable, klimatisierte Fahrt direkt zu Ihrem Hotel."},
+    {"time": "Bei Ankunft", "title": "Absetzen am Hotel", "text": "Direktes Absetzen am Hoteleingang, ohne weitere Stopps."}
+   ],
+   "faq": [
+    {"q": "Was passiert, wenn sich mein Flug verspätet?", "a": "Wir verfolgen alle Flüge in Echtzeit, sodass sich Ihr Fahrer automatisch anpasst und ohne Zusatzkosten wartet, wenn Sie landen."},
+    {"q": "Wie buche ich meinen Rücktransfer?", "a": "Sie können beide Richtungen gleichzeitig buchen oder Ihren Abreisetransfer später hinzufügen - teilen Sie uns einfach Ihre Flugnummer und Abholzeit mit."},
+    {"q": "Ist der Transfer privat oder geteilt?", "a": "Dieser Service ist ein privater, direkter Transfer nur für Ihre Gruppe - keine weiteren Fahrgäste oder zusätzlichen Stopps."},
+    {"q": "Kann ich einen Kindersitz anfragen?", "a": "Ja, bitte geben Sie dies bei der Buchung an, damit wir den passenden Sitz für das Alter Ihres Kindes bereitstellen können."}
+   ]
+  },
+  "ru": {
+   "name": "Трансфер из аэропорта",
+   "short": "Прямой, надёжный трансфер между аэропортом Милас-Бодрум и вашим отелем, с отслеживанием рейса.",
+   "location": "Аэропорт Милас-Бодрум (BJV) - отели полуострова Бодрум",
+   "duration": "45-70 минут (в зависимости от места назначения)",
+   "departure": "По запросу, круглосуточно",
+   "return_time": "Согласовано с временем вашего рейса",
+   "meeting_point": "Зал прилёта аэропорта / лобби вашего отеля",
+   "description": [
+    "Приземление после долгого перелёта - не время торговаться о цене такси. В нашей службе трансфера из аэропорта водитель ждёт в зале прилёта с табличкой с вашим именем, готовый отвезти вас прямо в отель в любой точке полуострова Бодрум.",
+    "Мы отслеживаем ваш рейс в реальном времени, поэтому даже при задержке водитель будет на месте к моменту вашей посадки. Та же услуга работает и в обратном направлении при отъезде, рассчитанная так, чтобы у вас было достаточно времени до регистрации."
+   ],
+   "highlights": [
+    "Водитель ждёт в зале прилёта с табличкой с именем",
+    "Отслеживание рейса в реальном времени, независимо от задержки",
+    "Прямой маршрут до отелей по всему полуострову",
+    "Комфортные кондиционированные автомобили",
+    "Доступно круглосуточно",
+    "Фиксированная цена, без сюрпризов"
+   ],
+   "included": [
+    "Частный автомобиль трансфера",
+    "Встреча в зале прилёта с табличкой с именем",
+    "Отслеживание рейса и время ожидания",
+    "Питьевая вода в машине",
+    "Все дорожные сборы и аэропортовые пошлины",
+    "Доступность 24/7"
+   ],
+   "excluded": [
+    "Дополнительные остановки сверх прямого маршрута",
+    "Детское автокресло (доступно по запросу, укажите при бронировании)",
+    "Чаевые водителю",
+    "Время ожидания свыше часа после посадки"
+   ],
+   "program": [
+    {"time": "При посадке", "title": "Встреча", "text": "Водитель встречает вас в зале прилёта с табличкой с именем."},
+    {"time": "+10 мин", "title": "Прямой трансфер", "text": "Комфортная поездка на кондиционированном автомобиле прямо до отеля."},
+    {"time": "По прибытии", "title": "Высадка у отеля", "text": "Высадка прямо у входа в отель, без дополнительных остановок."}
+   ],
+   "faq": [
+    {"q": "Что будет, если мой рейс задержится?", "a": "Мы отслеживаем все рейсы в реальном времени, поэтому водитель автоматически скорректирует время и будет ждать вас без дополнительной платы."},
+    {"q": "Как забронировать обратный трансфер?", "a": "Вы можете забронировать оба направления сразу или добавить трансфер на вылет позже - просто сообщите нам номер рейса и время встречи."},
+    {"q": "Трансфер частный или групповой?", "a": "Эта услуга - частный, прямой трансфер только для вашей группы, без других пассажиров и дополнительных остановок."},
+    {"q": "Могу ли я запросить детское кресло?", "a": "Да, пожалуйста, укажите это при бронировании, чтобы мы подготовили подходящее кресло по возрасту вашего ребёнка."}
+   ]
+  },
+  "pl": {
+   "name": "Transfer z Lotniska",
+   "short": "Bezpośredni, niezawodny transfer między Lotniskiem Milas-Bodrum a Państwa hotelem, ze śledzeniem lotu.",
+   "location": "Lotnisko Milas-Bodrum (BJV) do hoteli na Półwyspie Bodrum",
+   "duration": "45-70 minut (zależnie od miejsca docelowego)",
+   "departure": "Na życzenie, 24/7",
+   "return_time": "Dopasowany do godziny Państwa lotu",
+   "meeting_point": "Hala przylotów na lotnisku / lobby hotelowe",
+   "description": [
+    "Lądowanie po długim locie to nie moment na targowanie się o cenę taksówki. W naszej usłudze Transferu z Lotniska kierowca czeka w hali przylotów z tabliczką z Państwa nazwiskiem, gotowy zawieźć Państwa prosto do hotelu w dowolnym miejscu na półwyspie Bodrum.",
+    "Śledzimy Państwa lot w czasie rzeczywistym, więc nawet w przypadku opóźnienia kierowca będzie czekał po lądowaniu. Ta sama usługa działa w drugą stronę przy wylocie, zaplanowana tak, by mieli Państwo mnóstwo czasu na odprawę."
+   ],
+   "highlights": [
+    "Kierowca czekający w hali przylotów z tabliczką z nazwiskiem",
+    "Śledzenie lotu w czasie rzeczywistym, niezależnie od opóźnienia",
+    "Bezpośrednia trasa do hoteli na całym półwyspie",
+    "Komfortowe, klimatyzowane pojazdy",
+    "Dostępność całodobowa",
+    "Stała cena, bez niespodzianek"
+   ],
+   "included": [
+    "Prywatny pojazd transferowy",
+    "Powitanie w hali przylotów z tabliczką z nazwiskiem",
+    "Śledzenie lotu i czas oczekiwania",
+    "Woda butelkowana w pojeździe",
+    "Wszystkie opłaty drogowe i lotniskowe",
+    "Dostępność 24/7"
+   ],
+   "excluded": [
+    "Dodatkowe postoje poza trasą bezpośrednią",
+    "Fotelik dziecięcy (dostępny na życzenie, proszę zaznaczyć przy rezerwacji)",
+    "Napiwek dla kierowcy",
+    "Czas oczekiwania powyżej godziny po lądowaniu"
+   ],
+   "program": [
+    {"time": "Po lądowaniu", "title": "Powitanie", "text": "Kierowca spotyka Państwa w hali przylotów z tabliczką z nazwiskiem."},
+    {"time": "+10 min", "title": "Transfer bezpośredni", "text": "Komfortowa, klimatyzowana jazda prosto do hotelu."},
+    {"time": "Po przybyciu", "title": "Wysadzenie przy hotelu", "text": "Wysadzenie bezpośrednio przy wejściu do hotelu, bez dodatkowych postojów."}
+   ],
+   "faq": [
+    {"q": "Co się stanie, jeśli mój lot się opóźni?", "a": "Śledzimy wszystkie loty w czasie rzeczywistym, więc kierowca automatycznie dostosuje się i będzie czekał po Państwa lądowaniu bez dodatkowych opłat."},
+    {"q": "Jak zarezerwować transfer powrotny?", "a": "Mogą Państwo zarezerwować obie trasy naraz lub dodać transfer na wylot później - wystarczy podać nam numer lotu i godzinę odbioru."},
+    {"q": "Czy transfer jest prywatny czy współdzielony?", "a": "Ta usługa to prywatny, bezpośredni transfer wyłącznie dla Państwa grupy - bez innych pasażerów i dodatkowych postojów."},
+    {"q": "Czy mogę poprosić o fotelik dziecięcy?", "a": "Tak, proszę zaznaczyć to przy rezerwacji, abyśmy mogli przygotować odpowiedni fotelik dopasowany do wieku Państwa dziecka."}
+   ]
+  }
+ }
+}

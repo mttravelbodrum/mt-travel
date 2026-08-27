@@ -1,0 +1,134 @@
+/* ==========================================================================
+   MT TRAVEL — DESIGN TOKENS
+   Central place for colors, type, spacing, radius, shadow.
+   Edit values here to re-theme the entire website at once.
+   ========================================================================== */
+
+:root {
+  /* ---- Brand colors : deep Aegean navy + teal sea + warm gold ---- */
+  --navy-950: #081019;
+  --navy-900: #0B1D2E;
+  --navy-800: #12283C;
+  --navy-700: #1C3A52;
+  --navy-600: #2C5170;
+
+  --teal-700: #0B7C72;
+  --teal-600: #0E9186;
+  --teal-500: #14A99C;
+  --teal-400: #2FC2B4;
+  --teal-100: #E2F6F3;
+  --teal-50:  #F1FBF9;
+
+  --gold-600: #B07E2E;
+  --gold-500: #CE9B41;
+  --gold-400: #E0B65C;
+  --gold-100: #FAF0DA;
+
+  --sand-50:  #FBF9F5;
+  --sand-100: #F6F3EC;
+  --sand-200: #EFE9DD;
+
+  --white: #FFFFFF;
+  --ink-900: #14212C;
+  --ink-700: #2E3E49;
+  --slate-600: #4C5C68;
+  --slate-500: #64757F;
+  --slate-300: #A6B3BB;
+  --slate-200: #CBD5DA;
+  --slate-100: #E7ECEE;
+  --slate-50:  #F4F6F7;
+
+  --success-700: #146C41;
+  --success-600: #1E9E5A;
+  --success-100: #E1F6EA;
+  --warning-700: #9C640E;
+  --warning-600: #C9821F;
+  --warning-100: #FCF0DA;
+  --danger-700:  #A32E2E;
+  --danger-600:  #D14343;
+  --danger-100:  #FBE8E8;
+
+  /* ---- Semantic aliases ---- */
+  --color-bg: var(--white);
+  --color-bg-alt: var(--sand-100);
+  --color-surface: var(--white);
+  --color-text: var(--ink-900);
+  --color-text-muted: var(--slate-500);
+  --color-border: var(--slate-100);
+  --color-primary: var(--teal-500);
+  --color-primary-dark: var(--teal-700);
+  --color-accent: var(--gold-500);
+  --color-dark: var(--navy-900);
+
+  /* ---- Typography ---- */
+  --font-display: 'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif;
+  --font-body: 'Inter', 'Segoe UI', Arial, sans-serif;
+
+  --fs-xs: 0.75rem;
+  --fs-sm: 0.875rem;
+  --fs-base: 1rem;
+  --fs-md: 1.125rem;
+  --fs-lg: 1.25rem;
+  --fs-xl: 1.5rem;
+  --fs-2xl: 1.875rem;
+  --fs-3xl: 2.375rem;
+  --fs-4xl: 3rem;
+  --fs-5xl: 3.75rem;
+
+  /* ---- Radius ---- */
+  --radius-sm: 8px;
+  --radius-md: 14px;
+  --radius-lg: 20px;
+  --radius-xl: 28px;
+  --radius-pill: 999px;
+
+  /* ---- Shadow ---- */
+  --shadow-sm: 0 2px 10px rgba(8, 16, 25, 0.06);
+  --shadow-md: 0 10px 30px rgba(8, 16, 25, 0.10);
+  --shadow-lg: 0 24px 60px rgba(8, 16, 25, 0.16);
+  --shadow-gold: 0 10px 26px rgba(206, 155, 65, 0.28);
+  --shadow-teal: 0 10px 26px rgba(20, 169, 156, 0.28);
+
+  /* ---- Spacing scale ---- */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 20px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-10: 40px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-20: 80px;
+  --space-24: 96px;
+
+  /* ---- Layout ---- */
+  --container-max: 1280px;
+  --container-pad: 24px;
+  --topbar-h: 40px;
+  --header-h: 88px;
+  --header-h-scrolled: 68px;
+
+  /* ---- Motion ---- */
+  --ease: cubic-bezier(0.4, 0, 0.2, 1);
+  --dur-fast: 150ms;
+  --dur-base: 280ms;
+  --dur-slow: 500ms;
+
+  /* ---- Z-index scale ---- */
+  --z-topbar: 60;
+  --z-header: 50;
+  --z-dropdown: 70;
+  --z-mobilenav: 80;
+  --z-modal: 100;
+  --z-toast: 110;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  :root {
+    --dur-fast: 0ms;
+    --dur-base: 0ms;
+    --dur-slow: 0ms;
+  }
+}

@@ -1,0 +1,443 @@
+{
+ "boat-trip": {
+  "de": {
+   "name": "Bodrum Bootstour",
+   "short": "Eine klassische Gulet-Kreuzfahrt zu Bodrums Buchten, Küsten und den Mineralschlamm-Höhlen der Schwarzen Insel.",
+   "location": "Bodrum-Halbinsel, Türkei",
+   "duration": "7 Stunden - Tagestour",
+   "departure": "10:00 Uhr, täglich (wetterabhängig)",
+   "return_time": "17:00 Uhr",
+   "meeting_point": "Bodrum Marina, Anlegestelle 4 (oder Hotelabholpunkt)",
+   "description": [
+    "Es gibt einen Grund, warum die Bodrum-Bootstour unser meistgebuchter Ausflug ist: Sie ist schlicht der beste Weg, die Halbinsel zu erleben. An Bord eines traditionellen Holz-Guletts fahren Sie eine Reihe geschützter Buchten an und ankern überall dort, wo das Wasser zu verlockend aussieht, um weiterzufahren.",
+    "Zu den Höhepunkten zählen die unglaublich klaren Untiefen der Aquarium-Bucht, ein Halt an der Schwarzen Insel (Karaada), wo eine Höhlenquelle Ihnen erlaubt, sich mit mineralstoffreichem Schlamm einzureiben und im Meer abzuspülen, sowie reichlich Zeit zum Schwimmen bei Musik an Deck. Unterwegs wird ein einfaches Mittagessen an Bord serviert."
+   ],
+   "highlights": [
+    "Kreuzfahrt an Bord eines traditionellen Holz-Guletts",
+    "Badestopp im klaren, seichten Wasser der Aquarium-Bucht",
+    "Mineralschlamm-Höhlenerlebnis auf der Schwarzen Insel",
+    "Mehrere Schwimm- und Sonnenstopps",
+    "Mittagessen und Musik an Bord",
+    "Kostenlose Hotelabholung auf der gesamten Bodrum-Halbinsel"
+   ],
+   "included": [
+    "Ganztägige Gulet-Kreuzfahrt",
+    "Hotelabholung und -rückbringung",
+    "Mittagessen an Bord",
+    "Softdrinks und Tee an Bord",
+    "Schnorchelausrüstung (begrenzte Anzahl)",
+    "Schwimmwesten und Sicherheitseinweisung"
+   ],
+   "excluded": [
+    "Alkoholische Getränke",
+    "Eintritt zum Schlammbad auf der Schwarzen Insel (geringe lokale Gebühr)",
+    "Persönliche Ausgaben",
+    "Trinkgeld für die Crew"
+   ],
+   "program": [
+    {"time": "09:15", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zur Marina."},
+    {"time": "10:00", "title": "Abfahrt", "text": "Das Gulet legt in der Bodrum Marina ab und fährt zur ersten Bucht."},
+    {"time": "11:00", "title": "Aquarium-Bucht", "text": "Ankern und Schwimmen im seichten, kristallklaren Wasser."},
+    {"time": "13:00", "title": "Mittagessen an Bord", "text": "Ein entspanntes Mittagessen wird vor Anker in einer ruhigen Bucht serviert."},
+    {"time": "14:30", "title": "Schwarze Insel", "text": "Optionaler Besuch der Mineralschlamm-Höhle, danach weiteres Schwimmen."},
+    {"time": "16:30", "title": "Rückfahrt zur Marina", "text": "Rückfahrt zur Bodrum Marina und Transfer zu Ihrem Hotel."}
+   ],
+   "faq": [
+    {"q": "Was sollte ich zur Bodrum-Bootstour mitbringen?", "a": "Empfohlen werden Badebekleidung, Handtuch, Sonnencreme und Wechselkleidung. Schnorchelausrüstung und Schwimmwesten werden an Bord gestellt."},
+    {"q": "Ist die Bodrum-Bootstour für Nichtschwimmer geeignet?", "a": "Ja, für alle, die sich im Wasser nicht ganz sicher fühlen, sind Schwimmwesten vorhanden, und niemand muss ins Wasser gehen."},
+    {"q": "Was passiert bei schlechtem Wetter?", "a": "Die Route kann an die Seebedingungen angepasst werden; in seltenen Fällen unsicheren Wetters wird die Tour verschoben oder erstattet."},
+    {"q": "Ist das Mittagessen wirklich inbegriffen?", "a": "Ja, ein vollständiges Mittagessen an Bord sowie Softdrinks sind im Preis inbegriffen - nur alkoholische Getränke kosten extra."}
+   ]
+  },
+  "ru": {
+   "name": "Морская прогулка на яхте по Бодруму",
+   "short": "Классический круиз на гулете по бухтам Бодрума и пещере с минеральной грязью на Чёрном острове.",
+   "location": "Полуостров Бодрум, Турция",
+   "duration": "7 часов - однодневный тур",
+   "departure": "10:00, ежедневно (по погоде)",
+   "return_time": "17:00",
+   "meeting_point": "Марина Бодрума, причал 4 (или точка трансфера из отеля)",
+   "description": [
+    "Морская прогулка по Бодруму - наша самая популярная экскурсия не случайно: это просто лучший способ увидеть полуостров. Вы отправитесь в плавание на традиционном деревянном гулете вдоль череды укрытых бухт, бросая якорь везде, где вода выглядит слишком заманчиво, чтобы проплыть мимо.",
+    "Среди главных моментов - невероятно прозрачные мелководья Акварной бухты, остановка у Чёрного острова (Караада), где в пещерном источнике можно обмазаться минеральной грязью и смыть её в море, а также много времени для купания под музыку на палубе. По пути подаётся простой обед на борту."
+   ],
+   "highlights": [
+    "Круиз на традиционном деревянном гулете",
+    "Остановка для купания в прозрачном мелководье Акварной бухты",
+    "Пещера с минеральной грязью на Чёрном острове",
+    "Несколько остановок для купания и загара",
+    "Обед и музыка на борту",
+    "Бесплатный трансфер из отеля по всему полуострову Бодрум"
+   ],
+   "included": [
+    "Круиз на гулете на весь день",
+    "Трансфер от отеля и обратно",
+    "Обед на борту",
+    "Безалкогольные напитки и чай на борту",
+    "Снаряжение для снорклинга (ограниченное количество)",
+    "Спасательные жилеты и инструктаж по безопасности"
+   ],
+   "excluded": [
+    "Алкогольные напитки",
+    "Вход в грязевую ванну на Чёрном острове (небольшая местная плата)",
+    "Личные расходы",
+    "Чаевые экипажу"
+   ],
+   "program": [
+    {"time": "09:15", "title": "Трансфер из отеля", "text": "Забираем вас из отеля и везём в марину."},
+    {"time": "10:00", "title": "Отправление", "text": "Гулет отходит от марины Бодрума к первой бухте."},
+    {"time": "11:00", "title": "Акварная бухта", "text": "Стоянка на якоре и купание в мелкой кристально чистой воде."},
+    {"time": "13:00", "title": "Обед на борту", "text": "Неспешный обед подаётся на якорной стоянке в тихой бухте."},
+    {"time": "14:30", "title": "Чёрный остров", "text": "Посещение пещеры с минеральной грязью по желанию, затем снова купание."},
+    {"time": "16:30", "title": "Возвращение в марину", "text": "Возвращение в марину Бодрума и трансфер в отель."}
+   ],
+   "faq": [
+    {"q": "Что взять с собой на морскую прогулку по Бодруму?", "a": "Рекомендуем купальник, полотенце, солнцезащитный крем и сменную одежду. Снаряжение для снорклинга и спасательные жилеты предоставляются на борту."},
+    {"q": "Подходит ли прогулка тем, кто плохо плавает?", "a": "Да, для всех, кто не уверен в своих силах, есть спасательные жилеты, и заходить в воду никого не заставляют."},
+    {"q": "Что будет, если погода испортится?", "a": "Маршрут может быть скорректирован в зависимости от состояния моря; в редких случаях действительно небезопасной погоды тур переносится или деньги возвращаются."},
+    {"q": "Обед правда включён?", "a": "Да, полноценный обед на борту и безалкогольные напитки включены в стоимость - доплата нужна только за алкоголь."}
+   ]
+  },
+  "pl": {
+   "name": "Rejs Łodzią po Bodrum",
+   "short": "Klasyczny rejs guletą po zatokach Bodrum i jaskini z mineralnym błotem na Czarnej Wyspie.",
+   "location": "Półwysep Bodrum, Turcja",
+   "duration": "7 godzin - Wycieczka jednodniowa",
+   "departure": "10:00, codziennie (zależnie od pogody)",
+   "return_time": "17:00",
+   "meeting_point": "Marina Bodrum, Molo 4 (lub punkt odbioru z hotelu)",
+   "description": [
+    "Jest powód, dla którego rejs łodzią po Bodrum to nasza najczęściej rezerwowana wycieczka: to po prostu najlepszy sposób na poznanie półwyspu. Popłyniecie tradycyjną drewnianą guletą do szeregu osłoniętych zatok, rzucając kotwicę wszędzie tam, gdzie woda wygląda zbyt kusząco, by przepłynąć obok.",
+    "Do najważniejszych punktów należą niewiarygodnie czyste płycizny Zatoki Akwarium, postój przy Czarnej Wyspie (Karaada), gdzie jaskinne źródło pozwala pokryć się bogatym w minerały błotem i spłukać je w morzu, oraz mnóstwo czasu na pływanie przy muzyce na pokładzie. Po drodze podawany jest prosty obiad na pokładzie."
+   ],
+   "highlights": [
+    "Rejs na pokładzie tradycyjnej drewnianej gulety",
+    "Postój na kąpiel w czystej, płytkiej wodzie Zatoki Akwarium",
+    "Jaskinia z mineralnym błotem na Czarnej Wyspie",
+    "Wiele postojów na pływanie i opalanie",
+    "Obiad i muzyka na pokładzie",
+    "Bezpłatny odbiór z hotelu na całym półwyspie Bodrum"
+   ],
+   "included": [
+    "Całodniowy rejs guletą",
+    "Odbiór i powrót z hotelu",
+    "Obiad na pokładzie",
+    "Napoje bezalkoholowe i herbata na pokładzie",
+    "Sprzęt do snorkelingu (ograniczona liczba zestawów)",
+    "Kamizelki ratunkowe i instruktaż bezpieczeństwa"
+   ],
+   "excluded": [
+    "Napoje alkoholowe",
+    "Wstęp do kąpieli błotnej na Czarnej Wyspie (niewielka opłata lokalna)",
+    "Wydatki osobiste",
+    "Napiwki dla załogi"
+   ],
+   "program": [
+    {"time": "09:15", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu i transfer do mariny."},
+    {"time": "10:00", "title": "Wyjazd", "text": "Guleta wypływa z Mariny Bodrum w kierunku pierwszej zatoki."},
+    {"time": "11:00", "title": "Zatoka Akwarium", "text": "Kotwiczenie i kąpiel w płytkiej, krystalicznie czystej wodzie."},
+    {"time": "13:00", "title": "Obiad na pokładzie", "text": "Spokojny obiad podawany podczas kotwiczenia w cichej zatoce."},
+    {"time": "14:30", "title": "Czarna Wyspa", "text": "Opcjonalna wizyta w jaskini z mineralnym błotem, a następnie dalsze pływanie."},
+    {"time": "16:30", "title": "Powrót do mariny", "text": "Rejs powrotny do Mariny Bodrum i transfer do hotelu."}
+   ],
+   "faq": [
+    {"q": "Co zabrać na rejs łodzią po Bodrum?", "a": "Zalecamy strój kąpielowy, ręcznik, krem z filtrem i zmianę ubrania. Sprzęt do snorkelingu i kamizelki ratunkowe są zapewnione na pokładzie."},
+    {"q": "Czy rejs jest odpowiedni dla osób słabo pływających?", "a": "Tak, dla każdego, kto nie czuje się pewnie w wodzie, dostępne są kamizelki ratunkowe, a nikt nie jest zmuszany do wchodzenia do wody."},
+    {"q": "Co się stanie w przypadku złej pogody?", "a": "Trasa może zostać dostosowana do warunków morskich; w rzadkich przypadkach naprawdę niebezpiecznej pogody wycieczka jest przekładana lub zwracane są pieniądze."},
+    {"q": "Czy obiad naprawdę jest wliczony?", "a": "Tak, pełny obiad na pokładzie i napoje bezalkoholowe są wliczone w cenę - dodatkowo płatne są tylko napoje alkoholowe."}
+   ]
+  }
+ },
+ "private-boat-trip": {
+  "de": {
+   "name": "Private Bootstour",
+   "short": "Dieselben wunderschönen Buchten wie bei unserer klassischen Kreuzfahrt, auf einem Gulet exklusiv für Ihre Gruppe gechartert.",
+   "location": "Bodrum-Halbinsel, Türkei",
+   "duration": "6 Stunden - Individuell anpassbar",
+   "departure": "Flexibel, nach Vereinbarung",
+   "return_time": "Flexibel",
+   "meeting_point": "Bodrum Marina oder Ihr Hotelsteg (nach Vereinbarung)",
+   "description": [
+    "Für Reisende, die lieber ihr eigenes Tempo bestimmen, chartert die private Bootstour ein Holz-Gulett ausschließlich für Ihre Gruppe - Familie, Freunde oder ein Paar, das etwas Besonderes feiert. Es gibt keinen gemeinsamen Zeitplan, dem Sie folgen müssen, sodass Sie selbst entscheiden, wie lange Sie in jeder Bucht verweilen.",
+    "Unsere Crew schlägt je nach Bedingungen und Ihren Interessen eine Route vor, von ruhigen Badebuchten bis zur Mineralschlamm-Höhle auf der Schwarzen Insel - die Route gestalten aber wirklich Sie. Es gilt eine Mindestgruppengröße; kontaktieren Sie uns für genaue Preise darüber hinaus."
+   ],
+   "highlights": [
+    "Privates Gulet nur für Ihre Gruppe",
+    "Flexible Abfahrtszeit und Route",
+    "Wählen Sie Ihre eigene Mischung aus Buchten und Aktivitäten",
+    "Mittagessen an Bord nach Ihren Wünschen",
+    "Ideal für Feiern und Familiengruppen",
+    "Persönliche, englischsprachige Crew"
+   ],
+   "included": [
+    "Private Gulet-Charter",
+    "Abholung und Rückbringung von Hotel oder Steg",
+    "Mittagessen an Bord",
+    "Softdrinks und Tee an Bord",
+    "Schnorchelausrüstung",
+    "Schwimmwesten und Sicherheitseinweisung"
+   ],
+   "excluded": [
+    "Alkoholische Getränke (auf Anfrage ergänzbar)",
+    "Eintritt zum Schlammbad auf der Schwarzen Insel (geringe lokale Gebühr)",
+    "Besondere Catering-Upgrades",
+    "Trinkgeld für die Crew"
+   ],
+   "program": [
+    {"time": "Nach Vereinbarung", "title": "Abholung", "text": "Wir stimmen eine für Ihre Gruppe passende Abholzeit ab."},
+    {"time": "Flexibel", "title": "Routenplanung", "text": "Der Kapitän schlägt eine Route vor; Sie entscheiden, was hinzukommt oder entfällt."},
+    {"time": "Flexibel", "title": "Buchten und Schwimmen", "text": "Ankern Sie so lange Sie möchten an jedem Stopp."},
+    {"time": "Flexibel", "title": "Mittagessen an Bord", "text": "Das Mittagessen wird serviert, wann es für Ihre Gruppe passt."},
+    {"time": "Flexibel", "title": "Rückfahrt", "text": "Rückfahrt zur mit Ihrem Kapitän vereinbarten Zeit."}
+   ],
+   "faq": [
+    {"q": "Wie viele Personen können an einer privaten Bootstour teilnehmen?", "a": "Boote sind in verschiedenen Größen verfügbar; teilen Sie uns bei der Buchung Ihre Gruppengröße mit, damit wir das passende Gulet finden."},
+    {"q": "Können wir unsere eigene Route wählen?", "a": "Ja, der Ablauf ist flexibel - unsere Crew macht Vorschläge, aber Sie entscheiden frei, welche Buchten und Aktivitäten für Sie Priorität haben."},
+    {"q": "Eignet sich das für einen besonderen Anlass?", "a": "Es ist eine unserer beliebtesten Optionen für Geburtstage, Jahrestage und Heiratsanträge - teilen Sie es uns im Voraus mit, wir helfen gern bei kleinen Extras."},
+    {"q": "Ändern sich die Preise mit der Gruppengröße?", "a": "Der angegebene Preis gilt pro Person bei einer Mindestgruppengröße; für größere oder kleinere Gruppen kontaktieren Sie uns direkt für ein genaues Angebot."}
+   ]
+  },
+  "ru": {
+   "name": "Частная морская прогулка",
+   "short": "Те же прекрасные бухты, что и в нашем классическом круизе, но на гулете, зафрахтованном только для вашей группы.",
+   "location": "Полуостров Бодрум, Турция",
+   "duration": "6 часов - индивидуально",
+   "departure": "Гибко, по договорённости",
+   "return_time": "Гибко",
+   "meeting_point": "Марина Бодрума или причал вашего отеля (по договорённости)",
+   "description": [
+    "Для путешественников, которые предпочитают устанавливать собственный темп, частная морская прогулка предоставляет деревянный гулет только для вашей группы - семьи, друзей или пары, отмечающей особое событие. Здесь нет общего расписания, которому нужно следовать, поэтому вы сами решаете, сколько времени провести в каждой бухте.",
+    "Наш экипаж предложит маршрут исходя из условий и ваших интересов - от спокойных бухт для купания до пещеры с минеральной грязью на Чёрном острове, но маршрут действительно формируете вы. Действует минимальная численность группы; для точной стоимости свыше этого минимума свяжитесь с нами."
+   ],
+   "highlights": [
+    "Частный гулет только для вашей группы",
+    "Гибкое время отправления и маршрут",
+    "Выберите свою комбинацию бухт и активностей",
+    "Обед на борту по вашим предпочтениям",
+    "Идеально для праздников и семейных групп",
+    "Персональный англоговорящий экипаж"
+   ],
+   "included": [
+    "Аренда частного гулета",
+    "Трансфер от отеля или причала и обратно",
+    "Обед на борту",
+    "Безалкогольные напитки и чай на борту",
+    "Снаряжение для снорклинга",
+    "Спасательные жилеты и инструктаж по безопасности"
+   ],
+   "excluded": [
+    "Алкогольные напитки (доступны по запросу)",
+    "Вход в грязевую ванну на Чёрном острове (небольшая местная плата)",
+    "Специальные варианты кейтеринга",
+    "Чаевые экипажу"
+   ],
+   "program": [
+    {"time": "По договорённости", "title": "Трансфер", "text": "Мы согласуем удобное для вашей группы время трансфера."},
+    {"time": "Гибко", "title": "Планирование маршрута", "text": "Капитан предложит маршрут; вы решаете, что добавить или убрать."},
+    {"time": "Гибко", "title": "Бухты и купание", "text": "Стойте на якоре в каждой точке столько, сколько захотите."},
+    {"time": "Гибко", "title": "Обед на борту", "text": "Обед подаётся в удобное для вашей группы время."},
+    {"time": "Гибко", "title": "Возвращение", "text": "Возвращение в согласованное с капитаном время."}
+   ],
+   "faq": [
+    {"q": "Сколько человек может участвовать в частной морской прогулке?", "a": "Доступны лодки разных размеров; сообщите нам численность вашей группы при бронировании, и мы подберём подходящий гулет."},
+    {"q": "Можем ли мы выбрать свой маршрут?", "a": "Да, программа гибкая - наш экипаж предложит варианты, но вы свободны в выборе приоритетных бухт и активностей."},
+    {"q": "Подходит ли это для особого случая?", "a": "Это один из самых популярных вариантов для дней рождения, годовщин и предложений руки и сердца - сообщите нам заранее, и мы поможем с приятными деталями."},
+    {"q": "Меняется ли цена в зависимости от размера группы?", "a": "Указанная цена - за человека при минимальной численности группы; для больших или меньших групп свяжитесь с нами напрямую для точного расчёта."}
+   ]
+  },
+  "pl": {
+   "name": "Prywatny Rejs Łodzią",
+   "short": "Te same piękne zatoki co w naszym klasycznym rejsie, na gulecie wyczarterowanej wyłącznie dla Państwa grupy.",
+   "location": "Półwysep Bodrum, Turcja",
+   "duration": "6 godzin - Do dostosowania",
+   "departure": "Elastyczny, do uzgodnienia",
+   "return_time": "Elastyczny",
+   "meeting_point": "Marina Bodrum lub pomost przy Państwa hotelu (do uzgodnienia)",
+   "description": [
+    "Dla podróżnych, którzy wolą sami ustalać tempo, Prywatny Rejs Łodzią oferuje drewnianą guletę wyłącznie dla Państwa grupy - rodziny, przyjaciół lub pary świętującej wyjątkową okazję. Nie ma tu wspólnego harmonogramu do przestrzegania, więc sami decydują Państwo, ile czasu spędzić w każdej zatoce.",
+    "Nasza załoga zaproponuje trasę w oparciu o warunki i Państwa zainteresowania - od spokojnych zatoczek do kąpieli po jaskinię z mineralnym błotem na Czarnej Wyspie - ale to Państwo naprawdę kształtują ten plan. Obowiązuje minimalna liczebność grupy; w sprawie dokładnych cen powyżej tego minimum prosimy o kontakt."
+   ],
+   "highlights": [
+    "Prywatna guleta wyłącznie dla Państwa grupy",
+    "Elastyczna godzina wyjazdu i trasa",
+    "Wybierzcie własną kombinację zatok i atrakcji",
+    "Obiad na pokładzie według Państwa preferencji",
+    "Idealne na uroczystości i wyjazdy rodzinne",
+    "Osobista, anglojęzyczna załoga"
+   ],
+   "included": [
+    "Czarter prywatnej gulety",
+    "Odbiór i powrót z hotelu lub pomostu",
+    "Obiad na pokładzie",
+    "Napoje bezalkoholowe i herbata na pokładzie",
+    "Sprzęt do snorkelingu",
+    "Kamizelki ratunkowe i instruktaż bezpieczeństwa"
+   ],
+   "excluded": [
+    "Napoje alkoholowe (dostępne na życzenie)",
+    "Wstęp do kąpieli błotnej na Czarnej Wyspie (niewielka opłata lokalna)",
+    "Specjalne opcje cateringowe",
+    "Napiwki dla załogi"
+   ],
+   "program": [
+    {"time": "Do uzgodnienia", "title": "Odbiór", "text": "Ustalimy porę odbioru dogodną dla Państwa grupy."},
+    {"time": "Elastyczny", "title": "Planowanie trasy", "text": "Kapitan zaproponuje trasę; decydują Państwo, co dodać lub pominąć."},
+    {"time": "Elastyczny", "title": "Zatoki i pływanie", "text": "Kotwiczcie tak długo, jak chcecie, przy każdym postoju."},
+    {"time": "Elastyczny", "title": "Obiad na pokładzie", "text": "Obiad podawany jest w porze dogodnej dla Państwa grupy."},
+    {"time": "Elastyczny", "title": "Powrót", "text": "Powrót o porze uzgodnionej z kapitanem."}
+   ],
+   "faq": [
+    {"q": "Ile osób może wziąć udział w Prywatnym Rejsie Łodzią?", "a": "Dostępne są łodzie różnej wielkości; przy rezerwacji proszę podać liczebność grupy, a dobierzemy odpowiednią guletę."},
+    {"q": "Czy możemy wybrać własną trasę?", "a": "Tak, plan jest elastyczny - nasza załoga zaproponuje opcje, ale mają Państwo swobodę w ustalaniu priorytetowych zatok i atrakcji."},
+    {"q": "Czy to dobra opcja na wyjątkową okazję?", "a": "To jedna z naszych najpopularniejszych opcji na urodziny, rocznice i oświadczyny - proszę dać nam znać wcześniej, a pomożemy zorganizować drobne dodatki."},
+    {"q": "Czy cena zmienia się w zależności od wielkości grupy?", "a": "Podana cena obowiązuje za osobę przy minimalnej liczebności grupy; w przypadku większych lub mniejszych grup prosimy o bezpośredni kontakt w celu wyceny."}
+   ]
+  }
+ },
+ "vip-yacht": {
+  "de": {
+   "name": "VIP Yacht Charter",
+   "short": "Eine Premium-Motoryacht-Charter mit eigener Crew für Gäste, die die Ägäis in ihrer luxuriösesten Form erleben möchten.",
+   "location": "Bodrum-Halbinsel, Türkei",
+   "duration": "8 Stunden - Ganztägig (Halbtags-Option verfügbar)",
+   "departure": "Flexibel, nach Vereinbarung",
+   "return_time": "Flexibel",
+   "meeting_point": "Bodrum Marina, privater Liegeplatz (oder nach Vereinbarung)",
+   "description": [
+    "Unser VIP Yacht Charter ist für Gäste konzipiert, die den Glanz einer eigenen Yacht ohne den Aufwand des Besitzes genießen möchten. Sie kreuzen an Bord einer Premium-Motoryacht mit professionellem Kapitän und Crew und legen an, wo Wasser und Aussicht am schönsten sind.",
+    "Erwarten Sie ein sorgfältig zusammengestelltes Menü an Bord, gekühlte Getränke, hochwertiges Wasserspielzeug und die Art aufmerksamen Service, die den Tag mühelos wirken lässt. Ein Favorit für besondere Anlässe, Heiratsanträge und Gäste, die sich einfach die beste Version eines Bodrum-Tages auf See gönnen möchten."
+   ],
+   "highlights": [
+    "Premium-Motoryacht mit professioneller Crew",
+    "Vollständig flexible Route und Zeitplanung",
+    "Sorgfältig zusammengestelltes Bordmenü und Erfrischungen",
+    "Wasserspielzeug und Premium-Schnorchelausrüstung",
+    "Ideal für Heiratsanträge und Feiern",
+    "Diskreter Service auf Fünf-Sterne-Niveau"
+   ],
+   "included": [
+    "Private Yacht-Charter mit Kapitän und Crew",
+    "Abholung und Rückbringung von Hotel oder Marina",
+    "Bordmenü und Erfrischungen",
+    "Premium-Schnorchel- und Wasserspielzeug",
+    "Schwimmwesten und vollständige Sicherheitseinweisung",
+    "Bluetooth-Soundsystem an Bord"
+   ],
+   "excluded": [
+    "Premium-Champagner und Spirituosen (auf Anfrage)",
+    "Besondere Eventdekoration oder Catering-Upgrades",
+    "Eintritt zum Schlammbad auf der Schwarzen Insel (geringe lokale Gebühr)",
+    "Trinkgeld für die Crew"
+   ],
+   "program": [
+    {"time": "Nach Vereinbarung", "title": "Abholung", "text": "Eine Abholzeit wird passend zu Ihrem Zeitplan abgestimmt."},
+    {"time": "Flexibel", "title": "Abfahrt", "text": "Einschiffung an der Marina oder dem vereinbarten privaten Liegeplatz."},
+    {"time": "Flexibel", "title": "Kreuzfahrt und Schwimmen", "text": "Besuchen Sie Ihre ausgewählten Buchten mit so viel Zeit vor Anker wie gewünscht."},
+    {"time": "Flexibel", "title": "Essen an Bord", "text": "Ein sorgfältig zusammengestelltes Menü wird zur passenden Zeit serviert."},
+    {"time": "Flexibel", "title": "Rückfahrt", "text": "Rückfahrt zur Marina zur vereinbarten Zeit."}
+   ],
+   "faq": [
+    {"q": "Wie viele Gäste fasst die VIP Yacht?", "a": "Die Kapazität hängt von der für Ihr Datum zugewiesenen Yacht ab; teilen Sie uns bei der Anfrage Ihre Gruppengröße mit, damit wir das passende Schiff bestätigen können."},
+    {"q": "Können wir eine Halbtags-Charter buchen?", "a": "Ja, eine kürzere Halbtagsoption ist verfügbar - teilen Sie uns bei der Buchung Ihre Präferenz mit, wir passen den Preis entsprechend an."},
+    {"q": "Ist das Catering anpassbar?", "a": "Ja, wir können das Bordmenü bei rechtzeitiger Ankündigung an Ernährungswünsche oder besondere Anfragen anpassen."},
+    {"q": "Eignet sich das für einen Heiratsantrag?", "a": "Es ist einer unserer meistgefragten Rahmen für Heiratsanträge - melden Sie sich im Voraus, unser Team hilft gern, diesen Moment zu gestalten."}
+   ]
+  },
+  "ru": {
+   "name": "Аренда VIP-яхты",
+   "short": "Аренда премиальной моторной яхты с персональным экипажем - для тех, кто хочет увидеть Эгейское море в самом роскошном виде.",
+   "location": "Полуостров Бодрум, Турция",
+   "duration": "8 часов - весь день (доступен вариант на полдня)",
+   "departure": "Гибко, по договорённости",
+   "return_time": "Гибко",
+   "meeting_point": "Марина Бодрума, частный причал (или по договорённости)",
+   "description": [
+    "Наша услуга аренды VIP-яхты создана для гостей, которые хотят получить лоск частной яхты без хлопот владения ею. Вы отправитесь в плавание на премиальной моторной яхте с профессиональным капитаном и экипажем, останавливаясь там, где вода и вид особенно хороши.",
+    "Вас ждут продуманное меню на борту, охлаждённые напитки, качественный водный инвентарь и тот внимательный сервис, который делает день по-настоящему беззаботным. Это популярный выбор для важных торжеств, предложений руки и сердца и гостей, которые просто хотят подарить себе лучший вариант морского дня в Бодруме."
+   ],
+   "highlights": [
+    "Премиальная моторная яхта с профессиональным экипажем",
+    "Полностью гибкий маршрут и расписание",
+    "Продуманное меню и напитки на борту",
+    "Водный инвентарь и премиальное снаряжение для снорклинга",
+    "Идеально для предложений руки и сердца и торжеств",
+    "Ненавязчивый сервис уровня пять звёзд"
+   ],
+   "included": [
+    "Аренда частной яхты с капитаном и экипажем",
+    "Трансфер от отеля или марины и обратно",
+    "Меню и напитки на борту",
+    "Премиальное снаряжение для снорклинга и водный инвентарь",
+    "Спасательные жилеты и полный инструктаж по безопасности",
+    "Bluetooth аудиосистема на борту"
+   ],
+   "excluded": [
+    "Премиальное шампанское и крепкие напитки (по запросу)",
+    "Особое оформление мероприятия или улучшенный кейтеринг",
+    "Вход в грязевую ванну на Чёрном острове (небольшая местная плата)",
+    "Чаевые экипажу"
+   ],
+   "program": [
+    {"time": "По договорённости", "title": "Трансфер", "text": "Время трансфера согласовывается с учётом вашего расписания."},
+    {"time": "Гибко", "title": "Отправление", "text": "Посадка на яхту в марине или в согласованном частном месте."},
+    {"time": "Гибко", "title": "Плавание и купание", "text": "Посетите выбранные бухты, оставаясь на якоре столько, сколько пожелаете."},
+    {"time": "Гибко", "title": "Питание на борту", "text": "Продуманное меню подаётся в удобное для вас время."},
+    {"time": "Гибко", "title": "Возвращение", "text": "Возвращение в марину в согласованное время."}
+   ],
+   "faq": [
+    {"q": "Сколько гостей вмещает VIP-яхта?", "a": "Вместимость зависит от яхты, назначенной на вашу дату; сообщите нам численность группы при запросе, и мы подтвердим подходящее судно."},
+    {"q": "Можно ли забронировать аренду на полдня?", "a": "Да, доступен более короткий вариант на полдня - сообщите о своих предпочтениях при бронировании, и мы скорректируем стоимость."},
+    {"q": "Можно ли изменить меню?", "a": "Да, при заблаговременном уведомлении мы можем адаптировать меню на борту под диетические предпочтения или особые пожелания."},
+    {"q": "Подходит ли это для предложения руки и сердца?", "a": "Это один из самых востребованных вариантов для предложений - свяжитесь с нами заранее, и наша команда поможет организовать этот момент."}
+   ]
+  },
+  "pl": {
+   "name": "Czarter Jachtu VIP",
+   "short": "Czarter luksusowego jachtu motorowego z dedykowaną załogą - dla gości pragnących poznać Morze Egejskie w najbardziej luksusowej odsłonie.",
+   "location": "Półwysep Bodrum, Turcja",
+   "duration": "8 godzin - Cały dzień (dostępna opcja półdniowa)",
+   "departure": "Elastyczny, do uzgodnienia",
+   "return_time": "Elastyczny",
+   "meeting_point": "Marina Bodrum, prywatne nabrzeże (lub do uzgodnienia)",
+   "description": [
+    "Nasz Czarter Jachtu VIP powstał dla gości, którzy chcą cieszyć się elegancją prywatnego jachtu bez kłopotów związanych z jego posiadaniem. Popłyniecie luksusowym jachtem motorowym z profesjonalnym kapitanem i załogą, zatrzymując się tam, gdzie woda i widoki są najpiękniejsze.",
+    "Spodziewajcie się starannie dobranego menu na pokładzie, schłodzonych napojów, wysokiej jakości sprzętu wodnego oraz uważnej obsługi, dzięki której dzień wydaje się całkowicie bezwysiłkowy. To ulubiony wybór na ważne uroczystości, oświadczyny i dla gości, którzy chcą po prostu zafundować sobie najlepszą wersję dnia na morzu w Bodrum."
+   ],
+   "highlights": [
+    "Luksusowy jacht motorowy z profesjonalną załogą",
+    "W pełni elastyczna trasa i harmonogram",
+    "Starannie dobrane menu i napoje na pokładzie",
+    "Sprzęt wodny i sprzęt do snorkelingu klasy premium",
+    "Idealne na oświadczyny i uroczystości",
+    "Dyskretna obsługa na poziomie pięciu gwiazdek"
+   ],
+   "included": [
+    "Czarter prywatnego jachtu z kapitanem i załogą",
+    "Odbiór i powrót z hotelu lub mariny",
+    "Menu i napoje na pokładzie",
+    "Sprzęt do snorkelingu klasy premium i zabawki wodne",
+    "Kamizelki ratunkowe i pełny instruktaż bezpieczeństwa",
+    "System audio Bluetooth na pokładzie"
+   ],
+   "excluded": [
+    "Szampan i alkohole klasy premium (na życzenie)",
+    "Specjalna dekoracja wydarzenia lub podwyższony catering",
+    "Wstęp do kąpieli błotnej na Czarnej Wyspie (niewielka opłata lokalna)",
+    "Napiwki dla załogi"
+   ],
+   "program": [
+    {"time": "Do uzgodnienia", "title": "Odbiór", "text": "Godzina odbioru zostanie dostosowana do Państwa planu."},
+    {"time": "Elastyczny", "title": "Wyjście w rejs", "text": "Wejście na pokład w marinie lub w uzgodnionym prywatnym miejscu."},
+    {"time": "Elastyczny", "title": "Rejs i pływanie", "text": "Odwiedźcie wybrane zatoki, pozostając na kotwicy tak długo, jak zechcecie."},
+    {"time": "Elastyczny", "title": "Posiłek na pokładzie", "text": "Starannie dobrane menu podawane jest o dogodnej dla Państwa porze."},
+    {"time": "Elastyczny", "title": "Powrót", "text": "Powrót do mariny o uzgodnionej porze."}
+   ],
+   "faq": [
+    {"q": "Ile gości pomieści jacht VIP?", "a": "Pojemność zależy od jachtu przypisanego do Państwa terminu; przy zapytaniu proszę podać liczebność grupy, a potwierdzimy odpowiednią jednostkę."},
+    {"q": "Czy można zarezerwować czarter na pół dnia?", "a": "Tak, dostępna jest krótsza opcja półdniowa - proszę zaznaczyć preferencję przy rezerwacji, a odpowiednio dostosujemy cenę."},
+    {"q": "Czy catering można dostosować?", "a": "Tak, przy odpowiednim wyprzedzeniu możemy dostosować menu na pokładzie do preferencji dietetycznych lub specjalnych próśb."},
+    {"q": "Czy to dobra opcja na oświadczyny?", "a": "To jedna z najczęściej wybieranych opcji na oświadczyny - proszę skontaktować się wcześniej, a nasz zespół pomoże zaplanować tę chwilę."}
+   ]
+  }
+ }
+}

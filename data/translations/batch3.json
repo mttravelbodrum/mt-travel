@@ -1,0 +1,443 @@
+{
+ "turkish-bath": {
+  "de": {
+   "name": "Türkisches Hamam-Erlebnis",
+   "short": "Ein traditionelles osmanisches Hamam-Ritual - heißer Marmor, Dampf, Schaumwäsche und ein Ganzkörper-Peeling.",
+   "location": "Bodrum Stadtzentrum, Türkei",
+   "duration": "1,5 Stunden",
+   "departure": "Mehrere Zeitfenster, täglich",
+   "return_time": "Am selben Tag, nach Abschluss",
+   "meeting_point": "Historisches Hamam, Bodrum Stadtzentrum",
+   "description": [
+    "Das türkische Hamam ist jahrhundertealt, und dieses Erlebnis folgt dem traditionellen Ritual von Anfang bis Ende. Sie beginnen mit Entspannung auf der beheizten Marmorplatte (dem Göbek Taşı, dem 'Bauchstein'), während sanfter Dampf die Poren öffnet, bevor eine Betreuerin oder ein Betreuer ein Ganzkörper-Kese-Peeling durchführt, das die Haut bemerkenswert weich zurücklässt.",
+    "Es folgt eine warme Schaumwäsche, großzügig aus einem Tuch nach traditioneller Art gegossen, und der Besuch endet mit einer optionalen Ölmassage. Für Männer und Frauen gibt es getrennte Sitzungen, und das gesamte Erlebnis ist ebenso entspannend wie authentisch gestaltet."
+   ],
+   "highlights": [
+    "Historisches Hamam in Bodrums Altstadt",
+    "Traditionelle heiße Marmorplatte (Göbek Taşı)",
+    "Ganzkörper-Kese-Peeling",
+    "Warme, traditionelle Schaumwäsche",
+    "Optionales Ölmassage-Upgrade",
+    "Getrennte Sitzungen für Männer und Frauen"
+   ],
+   "included": [
+    "Hamam-Eintritt und vollständiges Ritual",
+    "Kese-Peeling und Schaumwäsche",
+    "Handtücher, Peshtemal-Tuch und Pantoffeln",
+    "Kräutertee nach der Sitzung",
+    "Schließfach für Ihre Wertsachen",
+    "Hotelabholung auf Anfrage verfügbar"
+   ],
+   "excluded": [
+    "Ölmassage-Upgrade (optionaler Zusatz)",
+    "Transport, sofern nicht im Voraus angefragt",
+    "Persönliche Pflegeartikel",
+    "Trinkgeld für das Personal"
+   ],
+   "program": [
+    {"time": "00:00", "title": "Ankunft und Empfang", "text": "Umziehen in Ihr Peshtemal-Tuch und Verstauen Ihrer Sachen im Schließfach."},
+    {"time": "00:15", "title": "Aufwärmen auf dem Marmor", "text": "Entspannen Sie auf dem beheizten Göbek Taşı, während Dampf die Poren öffnet."},
+    {"time": "00:45", "title": "Kese-Peeling", "text": "Ein traditionelles Ganzkörper-Peeling entfernt abgestorbene Hautschüppchen."},
+    {"time": "01:05", "title": "Schaumwäsche", "text": "Eine warme, großzügige Schaumwäsche nach traditioneller Art."},
+    {"time": "01:20", "title": "Entspannen und Tee", "text": "Abschluss mit Kräutertee im Ruhebereich."}
+   ],
+   "faq": [
+    {"q": "Ist das türkische Bad gemischt oder getrennt für Männer und Frauen?", "a": "Nach traditionellem Hamam-Brauch finden die Sitzungen getrennt für Männer und Frauen statt."},
+    {"q": "Was sollte ich zum Hamam mitbringen?", "a": "Es ist nichts Zusätzliches nötig - Peshtemal-Tuch, Handtücher und Pantoffeln werden gestellt. Wer das traditionelle Tuch nicht nutzen möchte, kann eigene Badebekleidung mitbringen."},
+    {"q": "Ist die Ölmassage inbegriffen?", "a": "Das Kernritual (Aufwärmen auf Marmor, Peeling und Schaumwäsche) ist inbegriffen; die Ölmassage ist ein optionales, kostenpflichtiges Upgrade, das Sie bei der Buchung hinzufügen können."},
+    {"q": "Können Kinder am türkischen Bad teilnehmen?", "a": "Ja, Kinder sind in Begleitung eines Elternteils willkommen, wobei das Peeling bei jüngeren Gästen in der Regel sanfter ausgeführt wird."}
+   ]
+  },
+  "ru": {
+   "name": "Турецкая баня (хаммам)",
+   "short": "Традиционный османский ритуал хаммама - горячий мрамор, пар, пенное омовение и пилинг всего тела.",
+   "location": "Центр города Бодрум, Турция",
+   "duration": "1,5 часа",
+   "departure": "Несколько сеансов ежедневно",
+   "return_time": "В тот же день, по завершении",
+   "meeting_point": "Историческая баня, центр города Бодрум",
+   "description": [
+    "Турецкому хаммаму уже много веков, и это впечатление следует традиционному ритуалу от начала до конца. Вы начнёте с отдыха на подогреваемой мраморной плите (гёбек таши, «камень живота»), где мягкий пар раскрывает поры, а затем сотрудник проведёт пилинг всего тела кесе, после которого кожа становится удивительно гладкой.",
+    "Далее следует тёплое пенное омовение, щедро льющееся из ткани по традиционному методу, а визит завершается опциональным массажем с маслом. Для мужчин и женщин предусмотрены раздельные сеансы, и весь опыт задуман таким же расслабляющим, каким и подлинным."
+   ],
+   "highlights": [
+    "Историческая баня в старом городе Бодрума",
+    "Традиционная горячая мраморная плита (гёбек таши)",
+    "Пилинг кесе для всего тела",
+    "Тёплое традиционное пенное омовение",
+    "Опциональный апгрейд - массаж с маслом",
+    "Раздельные сеансы для мужчин и женщин"
+   ],
+   "included": [
+    "Вход в баню и полный ритуал",
+    "Пилинг кесе и пенное омовение",
+    "Полотенца, палантин пештемаль и тапочки",
+    "Травяной чай после сеанса",
+    "Шкафчик для личных вещей",
+    "Трансфер от отеля по запросу"
+   ],
+   "excluded": [
+    "Апгрейд - массаж с маслом (по желанию)",
+    "Транспорт, если не запрошен заранее",
+    "Личные туалетные принадлежности",
+    "Чаевые персоналу"
+   ],
+   "program": [
+    {"time": "00:00", "title": "Прибытие и регистрация", "text": "Переоденьтесь в пештемаль и оставьте вещи в шкафчике."},
+    {"time": "00:15", "title": "Прогрев на мраморе", "text": "Отдых на горячем гёбек таши, пока пар раскрывает поры."},
+    {"time": "00:45", "title": "Пилинг кесе", "text": "Традиционный пилинг всего тела удаляет отмершие частицы кожи."},
+    {"time": "01:05", "title": "Пенное омовение", "text": "Тёплое, щедрое пенное омовение по традиционному методу."},
+    {"time": "01:20", "title": "Отдых и чай", "text": "Завершение травяным чаем в зоне отдыха."}
+   ],
+   "faq": [
+    {"q": "Турецкая баня смешанная или раздельная для мужчин и женщин?", "a": "Согласно традиционному обычаю хаммама сеансы проводятся раздельно для мужчин и женщин."},
+    {"q": "Что взять с собой в хаммам?", "a": "Ничего дополнительного не требуется - пештемаль, полотенца и тапочки предоставляются. Если вы предпочитаете не использовать традиционную ткань, можно взять свой купальник."},
+    {"q": "Массаж с маслом включён?", "a": "Основной ритуал (прогрев на мраморе, пилинг и пенное омовение) включён; массаж с маслом - это опциональный платный апгрейд, который можно добавить при бронировании."},
+    {"q": "Могут ли дети посещать турецкую баню?", "a": "Да, дети допускаются в сопровождении родителя, при этом пилинг для юных гостей обычно выполняется мягче."}
+   ]
+  },
+  "pl": {
+   "name": "Turecka Łaźnia (Hammam)",
+   "short": "Tradycyjny osmański rytuał hammamu - gorący marmur, para, pienista kąpiel i peeling całego ciała.",
+   "location": "Centrum Bodrum, Turcja",
+   "duration": "1,5 godziny",
+   "departure": "Wiele godzin sesji, codziennie",
+   "return_time": "Tego samego dnia, po zakończeniu",
+   "meeting_point": "Zabytkowy hammam, centrum Bodrum",
+   "description": [
+    "Turecki hammam ma wielowiekową tradycję, a to doświadczenie podąża za tradycyjnym rytuałem od początku do końca. Zaczniecie od relaksu na podgrzewanej marmurowej płycie (goebek tasi, czyli 'kamieniu brzucha'), gdzie delikatna para otwiera pory, po czym obsługa wykona peeling całego ciała kese, dzięki któremu skóra staje się niezwykle gładka.",
+    "Następnie następuje ciepła kąpiel pianowa, hojnie polewana z tkaniny w tradycyjny sposób, a wizyta kończy się opcjonalnym masażem olejkowym. Dostępne są osobne sesje dla mężczyzn i kobiet, a całe doświadczenie ma być równie relaksujące, co autentyczne."
+   ],
+   "highlights": [
+    "Zabytkowy hammam w starej części Bodrum",
+    "Tradycyjna gorąca płyta marmurowa (goebek tasi)",
+    "Peeling kese całego ciała",
+    "Ciepła, tradycyjna kąpiel pianowa",
+    "Opcjonalny masaż olejkowy",
+    "Osobne sesje dla mężczyzn i kobiet"
+   ],
+   "included": [
+    "Wstęp do hammamu i pełny rytuał",
+    "Peeling kese i kąpiel pianowa",
+    "Ręczniki, chusta peshtemal i klapki",
+    "Herbata ziołowa po sesji",
+    "Szafka na rzeczy osobiste",
+    "Odbiór z hotelu na życzenie"
+   ],
+   "excluded": [
+    "Masaż olejkowy (opcjonalny dodatek)",
+    "Transport, jeśli nie zamówiony wcześniej",
+    "Osobiste kosmetyki",
+    "Napiwki dla obsługi"
+   ],
+   "program": [
+    {"time": "00:00", "title": "Przybycie i zameldowanie", "text": "Przebranie się w peshtemal i zostawienie rzeczy w szafce."},
+    {"time": "00:15", "title": "Rozgrzewka na marmurze", "text": "Relaks na podgrzanej płycie goebek tasi, gdy para otwiera pory."},
+    {"time": "00:45", "title": "Peeling kese", "text": "Tradycyjny peeling całego ciała usuwa martwy naskórek."},
+    {"time": "01:05", "title": "Kąpiel pianowa", "text": "Ciepła, obfita kąpiel pianowa w tradycyjnym stylu."},
+    {"time": "01:20", "title": "Relaks i herbata", "text": "Zakończenie herbatą ziołową w strefie relaksu."}
+   ],
+   "faq": [
+    {"q": "Czy turecka łaźnia jest koedukacyjna, czy osobna dla mężczyzn i kobiet?", "a": "Zgodnie z tradycyjnym zwyczajem hammamu sesje odbywają się osobno dla mężczyzn i kobiet."},
+    {"q": "Co zabrać do hammamu?", "a": "Nic dodatkowego nie jest potrzebne - chusta peshtemal, ręczniki i klapki są zapewnione. Jeśli wolicie nie używać tradycyjnej chusty, możecie zabrać własny strój kąpielowy."},
+    {"q": "Czy masaż olejkowy jest wliczony?", "a": "Podstawowy rytuał (rozgrzewka na marmurze, peeling i kąpiel pianowa) jest wliczony; masaż olejkowy to opcjonalny, płatny dodatek, który można dodać przy rezerwacji."},
+    {"q": "Czy dzieci mogą korzystać z tureckiej łaźni?", "a": "Tak, dzieci są mile widziane pod opieką rodzica, choć peeling dla młodszych gości jest zazwyczaj wykonywany łagodniej."}
+   ]
+  }
+ },
+ "jeep-safari": {
+  "de": {
+   "name": "Jeep-Safari-Abenteuer",
+   "short": "Ein Konvoi offener Jeeps durch Bodrums Hügel, Mandarinenhaine und Bergdörfer.",
+   "location": "Hinterland der Bodrum-Halbinsel, Türkei",
+   "duration": "6 Stunden - Halbtägig",
+   "departure": "09:00 Uhr, täglich",
+   "return_time": "15:00 Uhr",
+   "meeting_point": "Hotelabholung auf der gesamten Bodrum-Halbinsel",
+   "description": [
+    "Tauschen Sie die Küste gegen die Hügel bei diesem Konvoi offener Jeeps durch die wildere Seite der Bodrum-Halbinsel. Ihr Fahrer führt eine kleine Gruppe von Geländewagen über Feldwege durch Pinienwälder, Mandarinen- und Olivenhaine sowie verschlafene Bergdörfer, die die meisten Besucher nie zu Gesicht bekommen.",
+    "Es gibt regelmäßige Fotostopps an Panoramaaussichtspunkten über der Ägäis, einen Wasser- und Schlammabschnitt, der immer für Gelächter sorgt, sowie eine Dorfpause, bei der Sie frische lokale Produkte oder ein kaltes Getränk erwerben können. Ein staubiger, energiegeladener Kontrast zu einem Strandtag - und ein guter dazu."
+   ],
+   "highlights": [
+    "Konvoi offener Geländewagen durch das Hinterland der Halbinsel",
+    "Bergaussichtspunkte über die ägäische Küste",
+    "Landschaft mit Mandarinen- und Olivenhainen",
+    "Verspielter Wasser- und Schlammabschnitt",
+    "Halt in einem traditionellen Bergdorf",
+    "Kleine Konvoigröße für ein persönliches Tempo"
+   ],
+   "included": [
+    "Jeepsitz in einem gemeinsam genutzten Geländewagen-Konvoi",
+    "Hotelabholung und -rückbringung",
+    "Englischsprachiger Fahrer-Guide",
+    "Flaschenwasser an Bord",
+    "Dorfhalt mit Freizeit",
+    "Versicherung während des Ausflugs"
+   ],
+   "excluded": [
+    "Mittagessen und Snacks (im Dorf käuflich)",
+    "Persönliche Ausgaben und Souvenirs",
+    "Wechselkleidung, falls Sie am Schlammabschnitt teilnehmen",
+    "Trinkgeld für den Fahrer"
+   ],
+   "program": [
+    {"time": "09:00", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Startpunkt des Konvois."},
+    {"time": "09:45", "title": "Aufstieg in die Hügel", "text": "Der Jeep-Konvoi beginnt den Aufstieg über Wald- und Hainwege."},
+    {"time": "11:00", "title": "Aussichtspunkt-Halt", "text": "Fotostopp mit Blick über die ägäische Küste."},
+    {"time": "12:00", "title": "Wasser- und Schlammabschnitt", "text": "Ein verspielter Geländeabschnitt mit Wasser- und Schlammdurchquerungen."},
+    {"time": "13:00", "title": "Dorfpause", "text": "Freizeit in einem Bergdorf für ein Getränk oder lokalen Snack."},
+    {"time": "14:30", "title": "Rückfahrt", "text": "Der Konvoi kehrt zurück und Sie werden an Ihrem Hotel abgesetzt."}
+   ],
+   "faq": [
+    {"q": "Brauche ich Geländefahrerfahrung?", "a": "Nein, ein erfahrener Fahrer-Guide führt den Konvoi in einem gemeinsam genutzten Jeep - Sie genießen einfach die Fahrt."},
+    {"q": "Werde ich nass oder schmutzig?", "a": "Die aktive Teilnahme am Wasser- und Schlammabschnitt ist optional, aber etwas Wasser oder Staub auf der Strecke gehört zum Spaß - wir empfehlen Kleidung, deren Verschmutzung Ihnen nichts ausmacht."},
+    {"q": "Ist die Jeep-Safari für Kinder geeignet?", "a": "Ja, Kinder sind willkommen, das holprige Gelände eignet sich jedoch am besten für Kinder ab 5 Jahren."},
+    {"q": "Ist das Mittagessen inbegriffen?", "a": "Das Mittagessen ist nicht inbegriffen, aber im Dorf gibt es die Möglichkeit, einen Snack oder ein Getränk zu kaufen; teilen Sie uns mit, wenn Sie eine Tour mit Mittagessen bevorzugen."}
+   ]
+  },
+  "ru": {
+   "name": "Джип-сафари приключение",
+   "short": "Конвой открытых джипов по холмам Бодрума, мандариновым рощам и горным деревням.",
+   "location": "Внутренние районы полуострова Бодрум, Турция",
+   "duration": "6 часов - полдня",
+   "departure": "09:00, ежедневно",
+   "return_time": "15:00",
+   "meeting_point": "Трансфер от отеля по всему полуострову Бодрум",
+   "description": [
+    "Смените побережье на холмы в этом конвое открытых джипов по более дикой стороне полуострова Бодрум. Ваш водитель ведёт небольшую группу внедорожников по грунтовым дорогам через сосновые леса, мандариновые и оливковые рощи и сонные горные деревни, которые большинство туристов никогда не видят.",
+    "Вас ждут регулярные остановки для фото на панорамных смотровых площадках над Эгейским морем, весело-грязевой участок трассы, который всегда вызывает смех, и остановка в деревне, где можно купить свежие местные продукты или холодный напиток. Пыльный, энергичный контраст пляжному дню - и хороший контраст."
+   ],
+   "highlights": [
+    "Конвой открытых внедорожников по внутренним районам полуострова",
+    "Горные смотровые площадки над побережьем Эгейского моря",
+    "Сельская местность с мандариновыми и оливковыми рощами",
+    "Весёлый водно-грязевой участок трассы",
+    "Остановка в традиционной горной деревне",
+    "Небольшой размер конвоя для комфортного темпа"
+   ],
+   "included": [
+    "Место в джипе в составе общего конвоя внедорожников",
+    "Трансфер от отеля и обратно",
+    "Англоговорящий водитель-гид",
+    "Питьевая вода в машине",
+    "Остановка в деревне со свободным временем",
+    "Страховка на время экскурсии"
+   ],
+   "excluded": [
+    "Обед и закуски (можно купить в деревне)",
+    "Личные расходы и сувениры",
+    "Сменная одежда, если вы участвуете в грязевом участке",
+    "Чаевые водителю"
+   ],
+   "program": [
+    {"time": "09:00", "title": "Трансфер из отеля", "text": "Забираем вас из отеля и везём к стартовой точке конвоя."},
+    {"time": "09:45", "title": "Подъём в холмы", "text": "Конвой джипов начинает подъём по лесным и рощевым тропам."},
+    {"time": "11:00", "title": "Остановка на смотровой площадке", "text": "Остановка для фото с видом на побережье Эгейского моря."},
+    {"time": "12:00", "title": "Водно-грязевой участок", "text": "Весёлый внедорожный участок с преодолением воды и грязи."},
+    {"time": "13:00", "title": "Остановка в деревне", "text": "Свободное время в горной деревне для напитка или местной закуски."},
+    {"time": "14:30", "title": "Возвращение", "text": "Конвой возвращается, и вас высаживают у отеля."}
+   ],
+   "faq": [
+    {"q": "Нужен ли мне опыт внедорожного вождения?", "a": "Нет, конвой ведёт опытный водитель-гид на общем джипе - вам остаётся только наслаждаться поездкой."},
+    {"q": "Я намокну или испачкаюсь?", "a": "Активное участие в водно-грязевом участке необязательно, но немного воды или пыли на трассе - часть веселья; рекомендуем одежду, которую не жалко испачкать."},
+    {"q": "Подходит ли джип-сафари для детей?", "a": "Да, дети допускаются, но неровная местность лучше всего подходит для детей от 5 лет."},
+    {"q": "Обед включён?", "a": "Обед не включён, но в деревне можно купить закуску или напиток; сообщите нам, если предпочитаете тур с обедом."}
+   ]
+  },
+  "pl": {
+   "name": "Przygoda Jeep Safari",
+   "short": "Konwój odkrytych jeepów przez wzgórza Bodrum, gaje mandarynkowe i górskie wioski.",
+   "location": "Zaplecze Półwyspu Bodrum, Turcja",
+   "duration": "6 godzin - Pół dnia",
+   "departure": "09:00, codziennie",
+   "return_time": "15:00",
+   "meeting_point": "Odbiór z hotelu na całym półwyspie Bodrum",
+   "description": [
+    "Zamieńcie wybrzeże na wzgórza podczas tego konwoju odkrytych jeepów przez dzikszą stronę półwyspu Bodrum. Kierowca prowadzi niewielką grupę terenówek po polnych drogach przez lasy sosnowe, gaje mandarynkowe i oliwne oraz senne górskie wioski, których większość turystów nigdy nie widzi.",
+    "Podczas trasy odbywają się regularne postoje na zdjęcia w punktach widokowych nad Morzem Egejskim, zabawny odcinek z wodą i błotem, który zawsze wywołuje śmiech, oraz postój we wsi, gdzie można kupić świeże lokalne produkty lub zimny napój. Zakurzony, pełen energii kontrast dla dnia na plaży - i to dobry kontrast."
+   ],
+   "highlights": [
+    "Konwój odkrytych terenówek przez zaplecze półwyspu",
+    "Górskie punkty widokowe nad wybrzeżem Morza Egejskiego",
+    "Wiejski krajobraz z gajami mandarynkowymi i oliwnymi",
+    "Zabawny odcinek trasy z wodą i błotem",
+    "Postój w tradycyjnej górskiej wiosce",
+    "Niewielki konwój dla osobistego tempa"
+   ],
+   "included": [
+    "Miejsce w jeepie we wspólnym konwoju terenówek",
+    "Odbiór i powrót z hotelu",
+    "Anglojęzyczny kierowca-przewodnik",
+    "Woda butelkowana w trasie",
+    "Postój we wsi z czasem wolnym",
+    "Ubezpieczenie na czas wycieczki"
+   ],
+   "excluded": [
+    "Obiad i przekąski (do kupienia we wsi)",
+    "Wydatki osobiste i pamiątki",
+    "Zmiana ubrania w razie udziału w odcinku błotnym",
+    "Napiwek dla kierowcy"
+   ],
+   "program": [
+    {"time": "09:00", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu i transfer do punktu startowego konwoju."},
+    {"time": "09:45", "title": "Wjazd na wzgórza", "text": "Konwój jeepów zaczyna wjazd przez leśne i sadownicze drogi."},
+    {"time": "11:00", "title": "Postój przy punkcie widokowym", "text": "Postój na zdjęcia z widokiem na wybrzeże Morza Egejskiego."},
+    {"time": "12:00", "title": "Odcinek z wodą i błotem", "text": "Zabawny odcinek terenowy z przeprawami przez wodę i błoto."},
+    {"time": "13:00", "title": "Postój we wsi", "text": "Czas wolny w górskiej wiosce na napój lub lokalną przekąskę."},
+    {"time": "14:30", "title": "Powrót", "text": "Konwój wraca, a Państwo zostają wysadzeni przy hotelu."}
+   ],
+   "faq": [
+    {"q": "Czy potrzebne jest doświadczenie w jeździe terenowej?", "a": "Nie, konwojem kieruje doświadczony kierowca-przewodnik we wspólnym jeepie - wystarczy cieszyć się jazdą."},
+    {"q": "Czy się zmoczę lub pobrudzę?", "a": "Aktywny udział w odcinku z wodą i błotem jest opcjonalny, ale odrobina wody czy kurzu na trasie to część zabawy - polecamy ubranie, którego nie szkoda pobrudzić."},
+    {"q": "Czy Jeep Safari jest odpowiednie dla dzieci?", "a": "Tak, dzieci są mile widziane, choć wyboisty teren najlepiej sprawdza się dla dzieci od 5 roku życia."},
+    {"q": "Czy obiad jest wliczony?", "a": "Obiad nie jest wliczony, ale we wsi można kupić przekąskę lub napój; dajcie nam znać, jeśli wolicie wycieczkę z obiadem."}
+   ]
+  }
+ },
+ "atv-safari": {
+  "de": {
+   "name": "ATV-Safari",
+   "short": "Übernehmen Sie das Lenkrad für ein selbstgefahrenes Quad-Abenteuer auf den Feldwegen der Halbinsel.",
+   "location": "Hinterland der Bodrum-Halbinsel, Türkei",
+   "duration": "3 Stunden - Halbtägig",
+   "departure": "10:00 und 14:00 Uhr, täglich",
+   "return_time": "13:00 / 17:00 Uhr",
+   "meeting_point": "ATV-Basislager (Hotelabholung verfügbar)",
+   "description": [
+    "Geht es bei der Jeep-Safari um die Aussicht, so geht es bei der ATV-Safari ums Fahren. Nach einer kurzen Sicherheitseinweisung übernehmen Sie das Lenkrad Ihres eigenen Quads und folgen Ihrem Guide über staubige Pfade, Waldwege und offenes Gelände am Rand der Halbinsel.",
+    "Es sind ein paar aktive, praxisnahe Stunden - Ein- und Zweisitzer-Quads sind verfügbar, sodass sich das Angebot sowohl für Alleinreisende als auch für Paare eignet. Ein kurzer Rastplatz lässt Sie verschnaufen und Fotos machen, bevor es zurück zur Basis geht."
+   ],
+   "highlights": [
+    "Selbstgefahrenes Quad, kein Führerschein erforderlich",
+    "Geführter Konvoi über Wald- und Feldwege",
+    "Ein- und Zweisitzer-Quads verfügbar",
+    "Sicherheitseinweisung und Helm inbegriffen",
+    "Malerischer Rastplatz auf halber Strecke",
+    "Kompaktes Halbtagesformat"
+   ],
+   "included": [
+    "Quad-Vermietung für die Strecke",
+    "Helm und Sicherheitsausrüstung",
+    "Sicherheitseinweisung und Proberunde",
+    "Englischsprachiger Guide",
+    "Hotelabholung und -rückbringung",
+    "Flaschenwasser"
+   ],
+   "excluded": [
+    "Treibstoffzuschlag bei längeren Strecken (selten, wird vorab mitgeteilt)",
+    "Persönliche Ausgaben",
+    "Foto-/Videopaket (käuflich)",
+    "Trinkgeld für den Guide"
+   ],
+   "program": [
+    {"time": "09:30", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zum Basislager."},
+    {"time": "10:00", "title": "Sicherheitseinweisung", "text": "Erklärung der Quad-Steuerung und Sicherheitsregeln sowie eine kurze Proberunde."},
+    {"time": "10:20", "title": "Geführte Fahrt", "text": "Folgen Sie Ihrem Guide über Wald- und Landschaftswege."},
+    {"time": "11:15", "title": "Rastplatz", "text": "Kurze Pause für Wasser und Fotos an einem malerischen Punkt."},
+    {"time": "12:40", "title": "Rückkehr zur Basis", "text": "Der Konvoi kehrt zum Basislager zurück, Transfer zu Ihrem Hotel."}
+   ],
+   "faq": [
+    {"q": "Brauche ich einen Führerschein für die ATV-Safari?", "a": "Für die bei dieser Tour genutzten Quads ist kein Führerschein erforderlich, das Mindestalter zum Fahren liegt jedoch bei 16 Jahren (jüngere Gäste können als Beifahrer mit einem Erwachsenen mitfahren)."},
+    {"q": "Können sich zwei Personen ein Quad teilen?", "a": "Ja, Zweisitzer-Quads sind für Paare oder Elternteil und Kind verfügbar - teilen Sie uns Ihre Präferenz bei der Buchung mit."},
+    {"q": "Was sollte ich anziehen?", "a": "Geschlossene Schuhe, eine Sonnenbrille und Kleidung, deren Verschmutzung Ihnen nichts ausmacht, werden empfohlen. Helme werden gestellt."},
+    {"q": "Ist die ATV-Safari körperlich anstrengend?", "a": "Sie ist mäßig aktiv - Sie lenken und geben selbst Gas - aber Vorerfahrung ist nicht nötig."}
+   ]
+  },
+  "ru": {
+   "name": "АТВ-сафари",
+   "short": "Возьмитесь за руль для самостоятельного приключения на квадроцикле по грунтовым тропам полуострова.",
+   "location": "Внутренние районы полуострова Бодрум, Турция",
+   "duration": "3 часа - полдня",
+   "departure": "10:00 и 14:00, ежедневно",
+   "return_time": "13:00 / 17:00",
+   "meeting_point": "Базовый лагерь АТВ (трансфер от отеля доступен)",
+   "description": [
+    "Если джип-сафари - это про виды, то АТВ-сафари - про саму езду. После короткого инструктажа по безопасности вы сядете за руль собственного квадроцикла и последуете за гидом по пыльным тропам, лесным дорогам и открытой местности на краю полуострова.",
+    "Вас ждут пара активных, насыщенных часов - доступны одно- и двухместные квадроциклы, поэтому вариант подходит как для одиночных путешественников, так и для пар. Короткая остановка для отдыха позволит перевести дух и сделать фото перед последним отрезком пути обратно на базу."
+   ],
+   "highlights": [
+    "Самостоятельное вождение квадроцикла, права не требуются",
+    "Конвой с гидом по лесным и грунтовым тропам",
+    "Доступны одно- и двухместные квадроциклы",
+    "Инструктаж по безопасности и шлем включены",
+    "Живописная остановка на середине маршрута",
+    "Компактный формат на полдня"
+   ],
+   "included": [
+    "Аренда квадроцикла на маршрут",
+    "Шлем и защитное снаряжение",
+    "Инструктаж по безопасности и пробный круг",
+    "Англоговорящий гид",
+    "Трансфер от отеля и обратно",
+    "Питьевая вода"
+   ],
+   "excluded": [
+    "Доплата за топливо на более длинных маршрутах (редко, сообщается заранее)",
+    "Личные расходы",
+    "Фото/видео пакет (можно приобрести)",
+    "Чаевые гиду"
+   ],
+   "program": [
+    {"time": "09:30", "title": "Трансфер из отеля", "text": "Забираем вас из отеля и везём в базовый лагерь."},
+    {"time": "10:00", "title": "Инструктаж по безопасности", "text": "Объяснение управления квадроциклом и правил безопасности, короткий пробный круг."},
+    {"time": "10:20", "title": "Поездка с гидом", "text": "Следуйте за гидом по лесным и природным тропам."},
+    {"time": "11:15", "title": "Остановка для отдыха", "text": "Короткий перерыв на воду и фото в живописном месте."},
+    {"time": "12:40", "title": "Возвращение на базу", "text": "Конвой возвращается в базовый лагерь, трансфер в отель."}
+   ],
+   "faq": [
+    {"q": "Нужны ли водительские права для АТВ-сафари?", "a": "Для квадроциклов, используемых в этом туре, права не нужны, но для управления необходимо быть не младше 16 лет (более юные гости могут ехать пассажирами со взрослым)."},
+    {"q": "Могут ли два человека разделить один квадроцикл?", "a": "Да, для пар или родителя с ребёнком доступны двухместные квадроциклы - сообщите о своих предпочтениях при бронировании."},
+    {"q": "Что надеть?", "a": "Рекомендуется закрытая обувь, солнцезащитные очки и одежда, которую не жалко испачкать. Шлемы предоставляются."},
+    {"q": "АТВ-сафари физически тяжёлое?", "a": "Оно умеренно активное - вы сами управляете рулём и газом - но предварительный опыт не требуется."}
+   ]
+  },
+  "pl": {
+   "name": "ATV Safari",
+   "short": "Chwyćcie za kierownicę podczas samodzielnej przygody quadem na polnych szlakach półwyspu.",
+   "location": "Zaplecze Półwyspu Bodrum, Turcja",
+   "duration": "3 godziny - Pół dnia",
+   "departure": "10:00 i 14:00, codziennie",
+   "return_time": "13:00 / 17:00",
+   "meeting_point": "Obóz bazowy ATV (odbiór z hotelu dostępny)",
+   "description": [
+    "Jeśli Jeep Safari to widoki, to ATV Safari to jazda. Po krótkim instruktażu bezpieczeństwa chwycicie za kierownicę własnego quada i podążycie za przewodnikiem po zakurzonych szlakach, leśnych drogach i otwartym terenie na skraju półwyspu.",
+    "Czekają Was aktywne, praktyczne godziny - dostępne są quady jedno- i dwuosobowe, więc opcja sprawdzi się zarówno dla samotnych podróżników, jak i par. Krótki postój pozwoli złapać oddech i zrobić zdjęcia przed ostatnim odcinkiem powrotu do bazy."
+   ],
+   "highlights": [
+    "Samodzielna jazda quadem, prawo jazdy niewymagane",
+    "Konwój z przewodnikiem po leśnych i polnych szlakach",
+    "Dostępne quady jedno- i dwuosobowe",
+    "Instruktaż bezpieczeństwa i kask w cenie",
+    "Malowniczy postój w połowie trasy",
+    "Kompaktowy format na pół dnia"
+   ],
+   "included": [
+    "Wynajem quada na trasę",
+    "Kask i sprzęt ochronny",
+    "Instruktaż bezpieczeństwa i okrążenie próbne",
+    "Anglojęzyczny przewodnik",
+    "Odbiór i powrót z hotelu",
+    "Woda butelkowana"
+   ],
+   "excluded": [
+    "Dopłata paliwowa przy dłuższych trasach (rzadko, zgłaszana wcześniej)",
+    "Wydatki osobiste",
+    "Pakiet foto/wideo (do kupienia)",
+    "Napiwek dla przewodnika"
+   ],
+   "program": [
+    {"time": "09:30", "title": "Odbiór z hotelu", "text": "Odbiór z hotelu i transfer do obozu bazowego."},
+    {"time": "10:00", "title": "Instruktaż bezpieczeństwa", "text": "Wyjaśnienie sterowania quadem i zasad bezpieczeństwa oraz krótkie okrążenie próbne."},
+    {"time": "10:20", "title": "Przejazd z przewodnikiem", "text": "Podążajcie za przewodnikiem po leśnych i wiejskich szlakach."},
+    {"time": "11:15", "title": "Postój na odpoczynek", "text": "Krótka przerwa na wodę i zdjęcia w malowniczym miejscu."},
+    {"time": "12:40", "title": "Powrót do bazy", "text": "Konwój wraca do obozu bazowego, transfer do hotelu."}
+   ],
+   "faq": [
+    {"q": "Czy do ATV Safari potrzebne jest prawo jazdy?", "a": "Do quadów używanych w tej wycieczce prawo jazdy nie jest wymagane, ale aby prowadzić, trzeba mieć ukończone 16 lat (młodsi goście mogą jechać jako pasażerowie z dorosłym)."},
+    {"q": "Czy dwie osoby mogą jechać jednym quadem?", "a": "Tak, dla par lub rodzica z dzieckiem dostępne są quady dwuosobowe - proszę zaznaczyć preferencję przy rezerwacji."},
+    {"q": "Co powinienem/powinnam założyć?", "a": "Zalecane jest zamknięte obuwie, okulary przeciwsłoneczne i ubranie, którego nie szkoda zakurzyć. Kaski są zapewnione."},
+    {"q": "Czy ATV Safari jest wymagające fizycznie?", "a": "Jest umiarkowanie aktywne - sami sterujecie i obsługujecie gaz - ale wcześniejsze doświadczenie nie jest wymagane."}
+   ]
+  }
+ }
+}

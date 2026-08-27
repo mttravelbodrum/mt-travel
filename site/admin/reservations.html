@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+
+<html lang="tr">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>Rezervasyonlar | MT Travel Admin</title>
+<meta content="MT Travel yönetim paneli." name="description"/>
+<link href="https://www.mttravel.com/admin/reservations.html" rel="canonical"/>
+<meta content="noindex, nofollow" name="robots"/>
+<meta content="website" property="og:type"/>
+<meta content="Rezervasyonlar | MT Travel Admin" property="og:title"/>
+<meta content="MT Travel yönetim paneli." property="og:description"/>
+<meta content="../assets/images/common/og-image.jpg" property="og:image"/>
+<meta content="https://www.mttravel.com/admin/reservations.html" property="og:url"/>
+<meta content="summary_large_image" name="twitter:card"/>
+<meta content="Rezervasyonlar | MT Travel Admin" name="twitter:title"/>
+<meta content="MT Travel yönetim paneli." name="twitter:description"/>
+<meta content="../assets/images/common/og-image.jpg" name="twitter:image"/>
+<link href="../assets/images/common/favicon-32.png" rel="icon" sizes="32x32" type="image/png"/>
+<link href="../assets/images/common/favicon-16.png" rel="icon" sizes="16x16" type="image/png"/>
+<link href="../assets/images/common/apple-touch-icon.png" rel="apple-touch-icon"/>
+<link href="https://fonts.googleapis.com" rel="preconnect"/>
+<link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;600;700;800&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet"/>
+<link href="../assets/css/variables.css" rel="stylesheet"/>
+<link href="../assets/css/base.css" rel="stylesheet"/>
+<link href="../assets/css/layout.css" rel="stylesheet"/>
+<link href="../assets/css/components.css" rel="stylesheet"/>
+<link href="../assets/css/pages.css" rel="stylesheet"/>
+<link href="../assets/css/animations.css" rel="stylesheet"/>
+<link href="../assets/css/admin.css" rel="stylesheet"/>
+</head>
+<body class="admin-body">
+<div class="admin-shell">
+<aside class="admin-sidebar" id="adminSidebar">
+<div class="admin-sidebar__brand">
+<a class="logo" href="../index.html">
+<span class="logo__mark"><img src="../assets/images/common/logo-mark.png" alt="MT Travel" width="388" height="200"></span>
+<span class="logo__text"><strong>MT</strong><span>TRAVEL</span></span>
+</a>
+</div>
+<div class="admin-sidebar__scroll">
+<p class="admin-nav-label" data-i18n="admin.management">Yönetim</p>
+<ul class="admin-nav">
+<li><a class="" href="dashboard.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><rect height="7" width="7" x="3" y="3"></rect><rect height="7" width="7" x="14" y="3"></rect><rect height="7" width="7" x="14" y="14"></rect><rect height="7" width="7" x="3" y="14"></rect></svg><span data-i18n="admin.dashboard">Panel</span></a></li>
+<li><a class="is-active" href="reservations.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"></path><rect height="4" rx="1" width="8" x="8" y="2"></rect><polyline points="9 14 11 16 15 12"></polyline></svg><span data-i18n="admin.bookings">Rezervasyonlar</span></a></li>
+<li><a class="" href="tours.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" x2="8" y1="2" y2="18"></line><line x1="16" x2="16" y1="6" y2="22"></line></svg><span data-i18n="admin.tours">Turlar</span></a></li>
+<li><a class="" href="hotels.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><polygon points="3 10 12 4 21 10"></polygon><line x1="3" x2="21" y1="21" y2="21"></line><line x1="5" x2="5" y1="10" y2="21"></line><line x1="10" x2="10" y1="10" y2="21"></line><line x1="14" x2="14" y1="10" y2="21"></line><line x1="19" x2="19" y1="10" y2="21"></line></svg><span data-i18n="admin.hotels">Oteller</span></a></li>
+<li><a class="" href="customers.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg><span data-i18n="admin.customers">Müşteriler</span></a></li>
+<li><a class="" href="media.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><rect height="18" rx="2" width="18" x="3" y="3"></rect><circle cx="8.5" cy="8.5" r="1.5"></circle><polyline points="21 15 16 10 5 21"></polyline></svg><span data-i18n="admin.media">Medya Kütüphanesi</span></a></li>
+<li><a class="" href="reports.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><line x1="12" x2="12" y1="20" y2="10"></line><line x1="18" x2="18" y1="20" y2="4"></line><line x1="6" x2="6" y1="20" y2="16"></line></svg><span data-i18n="admin.reports">Raporlar</span></a></li>
+<li><a class="" href="settings.html"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><circle cx="12" cy="12" r="3"></circle><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.9l.1.1a2 2 0 1 1-2.8 2.8l-.1-.1a1.7 1.7 0 0 0-1.9-.3 1.7 1.7 0 0 0-1 1.6V21a2 2 0 0 1-4 0v-.1a1.7 1.7 0 0 0-1.1-1.6 1.7 1.7 0 0 0-1.9.3l-.1.1a2 2 0 1 1-2.8-2.8l.1-.1a1.7 1.7 0 0 0 .3-1.9 1.7 1.7 0 0 0-1.6-1H3a2 2 0 0 1 0-4h.1a1.7 1.7 0 0 0 1.6-1 1.7 1.7 0 0 0-.3-1.9l-.1-.1a2 2 0 1 1 2.8-2.8l.1.1a1.7 1.7 0 0 0 1.9.3H9a1.7 1.7 0 0 0 1-1.6V3a2 2 0 0 1 4 0v.1a1.7 1.7 0 0 0 1 1.6 1.7 1.7 0 0 0 1.9-.3l.1-.1a2 2 0 1 1 2.8 2.8l-.1.1a1.7 1.7 0 0 0-.3 1.9V9a1.7 1.7 0 0 0 1.6 1H21a2 2 0 0 1 0 4h-.1a1.7 1.7 0 0 0-1.6 1Z"></path></svg><span data-i18n="admin.settings">Ayarlar</span></a></li>
+</ul>
+</div>
+<div class="admin-sidebar__foot">
+<a href="../index.html" target="_blank"><svg fill="none" height="17" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="17"><circle cx="12" cy="12" r="10"></circle><line x1="2" x2="22" y1="12" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10Z"></path></svg><span data-i18n="admin.view_website">Web Sitesini Görüntüle</span></a>
+<a data-admin-logout="" href="login.html" style="margin-top:10px;"><svg fill="none" height="17" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="17"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"></path><polyline points="16 17 21 12 16 7"></polyline><line x1="21" x2="9" y1="12" y2="12"></line></svg><span data-i18n="admin.logout">Çıkış Yap</span></a>
+</div>
+</aside>
+<div class="admin-main">
+<div class="admin-topbar">
+<div class="admin-topbar__title">
+<button aria-label="Toggle menu" data-i18n-aria-label="a11y.toggle_menu" class="admin-burger" id="adminBurger"><svg fill="none" height="20" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="20"><line x1="3" x2="21" y1="12" y2="12"></line><line x1="3" x2="21" y1="6" y2="6"></line><line x1="3" x2="21" y1="18" y2="18"></line></svg></button>
+<h1 data-i18n="admin.bookings">Rezervasyonlar</h1>
+<span class="badge badge--outline" data-i18n="admin.connecting" id="globalDataSourceBadge" style="margin-left:10px;">Bağlanıyor...</span>
+</div>
+<div class="admin-topbar__actions">
+<div class="tb-dropdown" id="adminLangDropdown">
+<button class="tb-dropdown__btn" style="color:var(--ink-900);" type="button">
+<img alt="" class="tb-dropdown__flag" data-rel="../" id="currentLangFlag" src="../assets/icons/flags/tr.png"/>
+<span id="currentLangLabel">TR</span><svg class="chev" fill="none" height="10" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="10"><polyline points="6 9 12 15 18 9"></polyline></svg>
+</button>
+<div class="tb-dropdown__menu">
+<button class="tb-dropdown__item" data-lang="tr"><img alt="" class="tb-dropdown__flag" src="../assets/icons/flags/tr.png"/> Turkce</button><button class="tb-dropdown__item is-active" data-lang="en"><img alt="" class="tb-dropdown__flag" src="../assets/icons/flags/gb.png"/> English</button><button class="tb-dropdown__item" data-lang="de"><img alt="" class="tb-dropdown__flag" src="../assets/icons/flags/de.png"/> Deutsch</button><button class="tb-dropdown__item" data-lang="ru"><img alt="" class="tb-dropdown__flag" src="../assets/icons/flags/ru.png"/> Russkiy</button><button class="tb-dropdown__item" data-lang="pl"><img alt="" class="tb-dropdown__flag" src="../assets/icons/flags/pl.png"/> Polski</button>
+</div>
+</div>
+<button aria-label="Notifications" class="admin-notif" id="adminNotifBtn">
+<svg fill="none" height="19" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="19"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"></path><path d="M13.7 21a2 2 0 0 1-3.4 0"></path></svg><span class="admin-notif__dot"></span>
+</button>
+<div class="tb-dropdown" id="adminNotifWrap" style="position:relative;">
+<div class="tb-dropdown__menu" id="adminNotifPanel" style="right:0; left:auto; min-width:300px;">
+<div data-i18n="admin.recent_notifications" style="padding:10px 12px; font-weight:800; font-size:.85rem; color:var(--navy-900);">Son Bildirimler</div>
+<div data-i18n="admin.loading" style="padding:16px 12px; font-size:.82rem; color:var(--slate-400);">Yükleniyor...</div>
+</div>
+</div>
+<div class="admin-user">
+<img alt="Admin user" data-i18n-alt="a11y.admin_user" src="../assets/images/common/avatar-admin.png"/>
+<div><strong data-i18n="admin.user_name">Yönetici</strong><span data-i18n="admin.user_role">Yönetici Hesabı</span></div>
+</div>
+</div>
+</div>
+<div class="admin-content">
+<div id="adminReservationsApp">
+<div class="panel">
+<div class="toolbar">
+<div class="toolbar__left">
+<div class="search-box">
+<svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="16"><circle cx="11" cy="11" r="8"></circle><line x1="21" x2="16.65" y1="21" y2="16.65"></line></svg>
+<input data-i18n-placeholder="admin.search_reservations_placeholder" id="bookingsSearch" placeholder="İsim, numara veya e-posta ile ara..." type="text"/>
+</div>
+<div class="select-wrap">
+<select class="filter-select" id="bookingsStatusFilter">
+<option data-i18n="admin.all_statuses" value="all">Tüm Durumlar</option>
+<option data-i18n="admin.status_pending" value="Pending">Beklemede</option>
+<option data-i18n="admin.status_confirmed" value="Confirmed">Onaylandı</option>
+<option data-i18n="admin.status_completed" value="Completed">Tamamlandı</option>
+<option data-i18n="admin.status_cancelled" value="Cancelled">İptal Edildi</option>
+</select>
+</div>
+<div class="select-wrap">
+<select class="filter-select" id="bookingsSort">
+<option data-i18n="admin.sort_newest" value="createdAt_desc">En Yeni</option>
+<option data-i18n="admin.sort_oldest" value="createdAt_asc">En Eski</option>
+<option data-i18n="admin.sort_date_asc" value="date_asc">Tur Tarihi ↑</option>
+<option data-i18n="admin.sort_date_desc" value="date_desc">Tur Tarihi ↓</option>
+<option data-i18n="admin.sort_total_desc" value="total_desc">Toplam: Yüksekten Düşüğe</option>
+<option data-i18n="admin.sort_total_asc" value="total_asc">Toplam: Düşükten Yükseğe</option>
+</select>
+</div>
+</div>
+<div class="toolbar__right">
+<span id="bookingsResultsCount" style="font-size:.85rem; color:var(--slate-500);"></span>
+<button class="btn btn--ghost btn--sm" id="printBookingsBtn"><svg fill="none" height="15" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="15"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect height="8" width="12" x="6" y="14"></rect></svg><span data-i18n="admin.print">Yazdır</span></button>
+<button class="btn btn--outline-dark btn--sm" id="exportBookingsBtn"><svg fill="none" height="15" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="15"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" x2="12" y1="15" y2="3"></line></svg><span data-i18n="admin.export_csv">CSV Olarak Dışa Aktar</span></button>
+</div>
+</div>
+<div class="data-table-wrap">
+<table class="data-table">
+<thead>
+<tr>
+<th data-i18n="admin.reservation">Rezervasyon</th><th data-i18n="admin.customer">Müşteri</th><th data-i18n="confirm.tour">Tur</th><th data-i18n="admin.date">Tarih</th><th data-i18n="admin.guests">Misafir</th><th data-i18n="admin.total">Toplam</th><th data-i18n="admin.status">Durum</th><th data-i18n="admin.actions">İşlemler</th>
+</tr>
+</thead>
+<tbody id="bookingsTableBody"></tbody>
+</table>
+</div>
+<div class="pagination" id="bookingsPagination"></div>
+</div>
+</div>
+<div class="modal-overlay" id="bookingDetailModal">
+<div class="modal-box" style="position:relative; max-width:600px;">
+<button aria-label="Close" class="modal-close" data-modal-close="" type="button"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><line x1="18" x2="6" y1="6" y2="18"></line><line x1="6" x2="18" y1="6" y2="18"></line></svg></button>
+<div style="display:flex; align-items:center; justify-content:space-between; margin-bottom:20px; padding-right:30px;">
+<h3 style="margin:0;"><span data-i18n="admin.reservation">Rezervasyon</span> <span data-detail-id=""></span></h3>
+<div class="select-wrap" style="width:170px;">
+<select class="select" data-detail-status-select="">
+<option data-i18n="admin.status_pending" value="Pending">Beklemede</option>
+<option data-i18n="admin.status_confirmed" value="Confirmed">Onaylandı</option>
+<option data-i18n="admin.status_completed" value="Completed">Tamamlandı</option>
+<option data-i18n="admin.status_cancelled" value="Cancelled">İptal Edildi</option>
+</select>
+<svg fill="none" height="16" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="16"><polyline points="6 9 12 15 18 9"></polyline></svg>
+</div>
+</div>
+<ul class="check-list" style="grid-template-columns:1fr 1fr;">
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg><span><strong data-i18n="admin.customer_label">Müşteri:</strong> <span data-detail-customer=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><circle cx="12" cy="12" r="10"></circle><line x1="2" x2="22" y1="12" y2="12"></line><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10Z"></path></svg><span><strong data-i18n="form.country_label">Ülke:</strong> <span data-detail-country=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><rect height="16" rx="2" width="20" x="2" y="4"></rect><path d="m22 6-10 7L2 6"></path></svg><span><strong data-i18n="form.email_label">E-posta:</strong> <span data-detail-email=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.362 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.338 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"></path></svg><span><strong data-i18n="form.phone_label">Telefon:</strong> <span data-detail-phone=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><polygon points="1 6 1 22 8 18 16 22 23 18 23 2 16 6 8 2 1 6"></polygon><line x1="8" x2="8" y1="2" y2="18"></line><line x1="16" x2="16" y1="6" y2="22"></line></svg><span><strong data-i18n="confirm.tour_label">Tur:</strong> <span data-detail-tour=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><rect height="18" rx="2" width="18" x="3" y="4"></rect><line x1="16" x2="16" y1="2" y2="6"></line><line x1="8" x2="8" y1="2" y2="6"></line><line x1="3" x2="21" y1="10" y2="10"></line></svg><span><strong data-i18n="admin.date_label">Tarih:</strong> <span data-detail-date=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path><circle cx="9" cy="7" r="4"></circle><path d="M23 21v-2a4 4 0 0 0-3-3.87"></path><path d="M16 3.13a4 4 0 0 1 0 7.75"></path></svg><span><strong data-i18n="admin.guests_label">Misafirler:</strong> <span data-detail-guests=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"></path><circle cx="12" cy="10" r="3"></circle></svg><span><strong data-i18n="admin.hotel_label">Otel:</strong> <span data-detail-hotel=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><rect height="16" rx="2" width="22" x="1" y="4"></rect><line x1="1" x2="23" y1="10" y2="10"></line></svg><span><strong data-i18n="admin.total_label">Toplam:</strong> <span data-detail-total=""></span></span></li>
+<li><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><circle cx="12" cy="12" r="10"></circle><polyline points="12 6 12 12 16 14"></polyline></svg><span><strong data-i18n="admin.created_label">Oluşturulma:</strong> <span data-detail-created=""></span></span></li>
+</ul>
+<div class="field" style="margin-top:16px;">
+<label class="field-label" data-i18n="admin.internal_notes">Dahili Notlar</label>
+<textarea class="textarea" data-detail-notes="" data-i18n-placeholder="admin.notes_placeholder" placeholder="Bu rezervasyon için özel bir not ekleyin..." style="min-height:70px;"></textarea>
+<button class="btn btn--ghost btn--sm" data-detail-save-notes="" style="margin-top:8px;" type="button"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><polyline points="20 6 9 17 4 12"></polyline></svg><span data-i18n="admin.save_notes">Notları Kaydet</span></button>
+</div>
+<div class="dt-actions" style="margin-top:18px; justify-content:space-between; gap:10px; flex-wrap:wrap;">
+<div style="display:flex; gap:10px; flex-wrap:wrap;">
+<button class="btn btn--outline-dark btn--sm" data-detail-print="" type="button"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect height="8" width="12" x="6" y="14"></rect></svg><span data-i18n="admin.print">Yazdır</span></button>
+<button class="btn btn--outline-dark btn--sm" data-detail-email-btn="" type="button"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><rect height="16" rx="2" width="20" x="2" y="4"></rect><path d="m22 6-10 7L2 6"></path></svg><span data-i18n="admin.email_customer">Müşteriye E-posta Gönder</span></button>
+<button class="btn btn--whatsapp btn--sm" data-detail-whatsapp-btn="" type="button"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><path d="M17.5 14.4c-.3-.1-1.6-.8-1.9-.9-.2-.1-.4-.1-.6.1-.2.3-.7.9-.8 1-.2.2-.3.2-.5.1-.3-.1-1.1-.4-2.1-1.3-.8-.7-1.3-1.6-1.5-1.8-.2-.3 0-.4.1-.6l.4-.5c.1-.1.2-.3.2-.4.1-.2 0-.3 0-.4-.1-.1-.6-1.4-.8-1.9-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.5.1-.7.3-.2.3-.9.9-.9 2.1s.9 2.4 1.1 2.6c.1.2 1.9 2.9 4.6 4 .6.3 1.1.4 1.5.6.6.2 1.2.2 1.6.1.5-.1 1.6-.6 1.8-1.3.2-.6.2-1.1.2-1.3-.1-.1-.3-.2-.6-.3Z"></path><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Z"></path></svg><span data-i18n="admin.whatsapp_customer">Müşteriye WhatsApp Gönder</span></button>
+</div>
+<button class="btn btn--danger btn--sm" data-detail-delete="" type="button"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><polyline points="3 6 5 6 21 6"></polyline><path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path></svg><span data-i18n="admin.delete">Sil</span></button>
+</div>
+</div>
+</div>
+<div class="modal-overlay" id="deleteConfirmModal">
+<div class="modal-box" style="max-width:400px; text-align:center;">
+<div style="width:52px; height:52px; border-radius:50%; background:var(--danger-100); color:var(--danger-600); display:flex; align-items:center; justify-content:center; margin:0 auto 16px;">
+<svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24"><path d="m10.29 3.86-8.18 14.14A2 2 0 0 0 3.82 21h16.36a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z"></path><line x1="12" x2="12" y1="9" y2="13"></line><line x1="12" x2="12.01" y1="17" y2="17"></line></svg>
+</div>
+<h3 data-i18n="admin.delete_reservation_confirm_title">Bu rezervasyonu silmek istediğinizden emin misiniz?</h3>
+<p data-i18n="admin.delete_irreversible" style="color:var(--slate-500); font-size:.88rem; margin-bottom:24px;">Bu işlem geri alınamaz.</p>
+<div style="display:flex; gap:10px; justify-content:center;">
+<button class="btn btn--ghost" data-delete-cancel="" data-i18n="admin.cancel" type="button">İptal</button>
+<button class="btn btn--danger" data-delete-confirm="" data-i18n="admin.delete" type="button">Sil</button>
+</div>
+</div>
+</div>
+
+<div class="modal-overlay" id="emailCustomerModal">
+<div class="modal-box" style="max-width:480px;">
+<div class="modal-header">
+<h3 data-i18n="admin.email_customer_title">Müşteriye E-posta Gönder</h3>
+<button class="modal-close" data-email-cancel="" type="button"><svg fill="none" height="18" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="18"><line x1="18" x2="6" y1="6" y2="18"></line><line x1="6" x2="18" y1="6" y2="18"></line></svg></button>
+</div>
+<p data-email-recipient-line="" style="color:var(--slate-500); font-size:.86rem; margin-top:-8px; margin-bottom:16px;"></p>
+<div class="field">
+<label class="field-label" data-i18n="admin.email_subject_label">Konu</label>
+<input class="input" id="emailCustomerSubject" type="text"/>
+</div>
+<div class="field" style="margin-top:12px;">
+<label class="field-label" data-i18n="admin.email_message_label">Mesaj</label>
+<textarea class="textarea" id="emailCustomerMessage" style="min-height:140px;"></textarea>
+</div>
+<div class="field-error" id="emailCustomerErrorBox" style="display:none; margin-top:12px;"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"></path><line x1="12" x2="12" y1="9" y2="13"></line><line x1="12" x2="12.01" y1="17" y2="17"></line></svg><span></span></div>
+<div style="display:flex; gap:10px; justify-content:flex-end; margin-top:20px;">
+<button class="btn btn--ghost" data-email-cancel="" data-i18n="admin.cancel" type="button">İptal</button>
+<button class="btn btn--primary" id="emailCustomerSendBtn" type="button"><svg fill="none" height="14" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="14"><rect height="16" rx="2" width="20" x="2" y="4"></rect><path d="m22 6-10 7L2 6"></path></svg><span data-i18n="admin.email_send">E-postayı Gönder</span></button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="../assets/js/utils.js"></script>
+<script src="../assets/js/data/site-data.js"></script>
+<script src="../assets/js/data/tours-data.js"></script>
+<script src="../assets/js/data/countries-data.js"></script>
+<script src="../assets/js/i18n/bundle.js"></script>
+<script src="../assets/js/api-client.js"></script>
+<script src="../assets/js/language.js"></script>
+<script src="../assets/js/main.js"></script>
+<script src="../assets/js/admin-common.js"></script>
+<script src="../assets/js/admin-reservations.js"></script>
+</body>
+</html>

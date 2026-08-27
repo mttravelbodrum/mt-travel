@@ -1,0 +1,339 @@
+{
+  "kos-island": {
+    "name": "Kos Insel Tour",
+    "short": "Ein voller Tag auf der griechischen Insel Kos - Burgen, antike Ruinen und das klarste Wasser der Ägäis.",
+    "location": "Kos, Griechenland (per Fähre ab Bodrum)",
+    "duration": "10 Stunden - Ganztägig",
+    "departure": "08:00 Uhr, täglich",
+    "return_time": "18:30 Uhr",
+    "meeting_point": "Internationales Fährterminal Bodrum, Neyzen-Tevfik-Straße",
+    "description": [
+      "Kos liegt nur eine kurze Fährfahrt von Bodrum entfernt und fühlt sich dennoch wie eine andere Welt an - weiß getünchte Gassen, Architektur aus der italienischen Zeit und die unverwechselbare Ruhe eines griechischen Inselmorgens. Ihr Tag beginnt mit einer malerischen Überfahrt direkt ins Herz von Kos-Stadt.",
+      "An Land angekommen spazieren Sie an der Ritterburg aus dem 15. Jahrhundert vorbei, stehen unter der antiken Platane, unter der Hippokrates gelehrt haben soll, und schlendern durch Cafes und Boutiquen am Hafen. Es bleibt Zeit zum Baden am Stadtstrand, für griechische Küche oder zum Verlaufen in der Altstadt, bevor die Fähre Sie bei Sonnenuntergang zurück nach Bodrum bringt."
+    ],
+    "highlights": [
+      "Fährüberfahrt mit Meerblick auf der gesamten Strecke",
+      "Freie Zeit zur Erkundung von Kos-Stadt im eigenen Tempo",
+      "Ritterburg und die Hippokrates-Platane",
+      "Optionales Baden am Stadtstrand",
+      "Griechische Tavernen, Backereien und Boutiquen",
+      "Unterstützung durch englischsprachigen Guide im Hafen"
+    ],
+    "included": [
+      "Fährticket Bodrum - Kos hin und zurück",
+      "Hotelabholung auf der Bodrum-Halbinsel",
+      "Englischsprachiger Reiseleiter",
+      "Hafengebühren und Steuern",
+      "Freizeit in Kos-Stadt",
+      "Reiseversicherung während der Überfahrt"
+    ],
+    "excluded": [
+      "Mittagessen und Getränke auf Kos",
+      "Persönliche Ausgaben und Einkäufe",
+      "Optionale Ausflüge auf der Insel",
+      "Trinkgelder"
+    ],
+    "program": [
+      {"time": "07:00", "title": "Hotelabholung", "text": "Unser Fahrer holt Sie in der Lobby Ihres Hotels auf der Bodrum-Halbinsel ab."},
+      {"time": "08:00", "title": "Abfahrt mit der Fähre", "text": "Einschiffung am Internationalen Fährterminal Bodrum für die Überfahrt nach Kos."},
+      {"time": "09:15", "title": "Ankunft in Kos-Stadt", "text": "Passkontrolle und kurzer Orientierungsspaziergang mit Ihrem Guide."},
+      {"time": "09:45", "title": "Freie Erkundung", "text": "Besuchen Sie Burg, Altstadt, Strand und Cafes in Ihrem eigenen Tempo."},
+      {"time": "17:00", "title": "Rückfahrt", "text": "Einschiffung zur Rückfahrt nach Bodrum, Ankunft am frühen Abend."}
+    ],
+    "faq": [
+      {"q": "Brauche ich einen Reisepass für die Kos-Insel-Tour?", "a": "Ja, ein gültiger Reisepass ist für alle Gäste erforderlich, auch für Kinder. Bitte prüfen Sie vor der Buchung die Einreisebestimmungen für Ihre Staatsangehörigkeit."},
+      {"q": "Ist das Mittagessen bei der Kos-Insel-Tour inbegriffen?", "a": "Das Mittagessen ist nicht inbegriffen, damit Sie frei zwischen den Tavernen und Cafes in Kos-Stadt wählen können. Gerne empfehlen wir Ihnen ein Restaurant."},
+      {"q": "Wie viel Freizeit haben wir in Kos-Stadt?", "a": "Sie haben etwa sieben Stunden Freizeit, um Burg, Altstadt, Geschäfte und Strand in Ihrem eigenen Tempo zu erkunden."},
+      {"q": "Ist die Kos-Insel-Tour für Kinder geeignet?", "a": "Ja, die Tour ist familienfreundlich und beinhaltet Badezeit, allerdings benötigen auch Kinder einen gültigen Reisepass."}
+    ]
+  },
+  "leros-island": {
+    "name": "Leros Insel Tour",
+    "short": "Ein ruhigerer griechischer Inseltrip - Art-Deco-Hafen, versteckte Buchten und ein entschleunigtes Inselleben.",
+    "location": "Leros, Griechenland (per Fähre ab Bodrum)",
+    "duration": "11 Stunden - Ganztägig",
+    "departure": "07:30 Uhr, an ausgewählten Tagen",
+    "return_time": "18:30 Uhr",
+    "meeting_point": "Internationales Fährterminal Bodrum, Neyzen-Tevfik-Straße",
+    "description": [
+      "Leros ist die Insel des Dodekanes, die die meisten Besucher gar nicht erst einplanen - und an die sie sich später am längsten erinnern. Abseits der großen Ausflugsgruppen säumen markante italienische Rationalismus-Bauten aus den 1930er Jahren die Häfen, ein Erbe der ungewöhnlichen Geschichte der Insel als italienischer Marinestützpunkt.",
+      "Ihr Tag verläuft entspannt: ein Spaziergang durch den stimmungsvollen Hafen von Lakki, ein Aufstieg zur Kastro-Burg von Panteli mit weitem Blick über die Bucht und freie Zeit zum Baden in Buchten, die selbst zur Hauptsaison ruhig bleiben. Die richtige Wahl für alle, die das 'echte' Ägäische Meer Bucht für Bucht erleben möchten."
+    ],
+    "highlights": [
+      "Malerische Fährüberfahrt zu einer selten besuchten griechischen Insel",
+      "Architektur des italienischen Rationalismus im Hafen von Lakki",
+      "Aussichtspunkt Panteli-Burg über die Bucht",
+      "Ruhige Buchten zum Baden abseits der Menschenmengen",
+      "Traditionelle Dörfer Alinda und Pandeli",
+      "Kleingruppentempo mit englischsprachigem Guide"
+    ],
+    "included": [
+      "Fährticket Bodrum - Leros hin und zurück",
+      "Hotelabholung auf der Bodrum-Halbinsel",
+      "Englischsprachiger Reiseleiter",
+      "Hafengebühren und Steuern",
+      "Geführter Spaziergang durch Lakki und Panteli",
+      "Reiseversicherung während der Überfahrt"
+    ],
+    "excluded": [
+      "Mittagessen und Getränke auf der Insel",
+      "Persönliche Ausgaben und Einkäufe",
+      "Museumseintritte",
+      "Trinkgelder"
+    ],
+    "program": [
+      {"time": "06:30", "title": "Hotelabholung", "text": "Frühe Abholung von Ihrem Hotel, um rechtzeitig das Fährterminal zu erreichen."},
+      {"time": "07:30", "title": "Abfahrt mit der Fähre", "text": "Einschiffung in Bodrum für die Überfahrt nach Leros."},
+      {"time": "09:00", "title": "Ankunft in Lakki", "text": "Geführter Spaziergang durch die Art-Deco-Hafenstadt, anschließend weiter nach Panteli."},
+      {"time": "10:30", "title": "Freizeit und Baden", "text": "Erkunden Sie den Strand von Alinda, die Burg oder entspannen Sie am Wasser."},
+      {"time": "17:00", "title": "Rückfahrt", "text": "Einschiffung zur Rückfahrt, Ankunft am frühen Abend in Bodrum."}
+    ],
+    "faq": [
+      {"q": "Warum ist Leros weniger überlaufen als Kos?", "a": "Leros wird von deutlich weniger Tagesausflüglern besucht, daher sind Strände, Cafes und die Altstadt spürbar ruhiger - ideal, wenn Sie ein entspanntes Tempo einem belebten Urlaubsort vorziehen."},
+      {"q": "Brauche ich einen Reisepass für Leros?", "a": "Ja, ein gültiger Reisepass ist für alle Gäste erforderlich. Bitte prüfen Sie vor der Buchung eventuelle Visabestimmungen für Ihre Staatsangehörigkeit."},
+      {"q": "Gibt es bei dieser Tour Zeit zum Baden?", "a": "Ja, im Programm ist freie Zeit speziell zum Baden in einer der ruhigen Buchten der Insel vorgesehen."},
+      {"q": "An welchen Tagen findet die Leros-Tour statt?", "a": "Diese Tour findet je nach Fährplan an ausgewählten Wochentagen statt - unser Team bestätigt die Verfügbarkeit bei der Buchung."}
+    ]
+  },
+  "kalymnos-island": {
+    "name": "Kalymnos Insel Tour",
+    "short": "Die Insel der Schwammtaucher - dramatische Kalksteinfelsen, türkisfarbene Buchten und eine authentische griechische Hafenstadt.",
+    "location": "Kalymnos, Griechenland (per Fähre ab Bodrum)",
+    "duration": "10 Stunden - Ganztägig",
+    "departure": "08:00 Uhr, täglich",
+    "return_time": "18:00 Uhr",
+    "meeting_point": "Internationales Fährterminal Bodrum, Neyzen-Tevfik-Straße",
+    "description": [
+      "Seit über einem Jahrhundert als 'Insel der Schwammtaucher' bekannt, verdankt Kalymnos seinen Wohlstand und seine Identität dem ägäischen Schwammhandel - noch heute können Sie in Werkstätten rund um den Hafen von Pothia beobachten, wie Schwämme gereinigt und verkauft werden. Über der Stadt erheben sich einige der höchsten Kalksteinfelsen des Mittelmeers, die die Insel zu einem weltberühmten Ziel für Kletterer gemacht haben.",
+      "Zum Genießen von Kalymnos müssen Sie jedoch nicht klettern: Diese Tour gibt Ihnen freie Zeit, um die klassizistische Uferpromenade von Pothia zu erkunden, in Schwamm- und Schmuckläden zu stöbern und über die Meerenge zur winzigen Insel Telendos zu blicken. Badestopps in klaren, ruhigen Buchten runden einen Tag ab, der sich spürbar von den größeren Inselüberfahrten unterscheidet."
+    ],
+    "highlights": [
+      "Fährüberfahrt unterhalb der berühmten Kalksteinfelsen von Kalymnos",
+      "Schwammwerkstätten und Vorführungen in Pothia",
+      "Ausblicke auf die Insel Telendos",
+      "Freie Zeit zum Baden in klaren Küstenbuchten",
+      "Klassizistische Hafenarchitektur",
+      "Englischsprachiger Guide während der gesamten Überfahrt"
+    ],
+    "included": [
+      "Fährticket Bodrum - Kalymnos hin und zurück",
+      "Hotelabholung auf der Bodrum-Halbinsel",
+      "Englischsprachiger Reiseleiter",
+      "Hafengebühren und Steuern",
+      "Orientierungsspaziergang durch Pothia",
+      "Reiseversicherung während der Überfahrt"
+    ],
+    "excluded": [
+      "Mittagessen und Getränke auf der Insel",
+      "Persönliche Ausgaben und Einkäufe",
+      "Bootsfahrt zur Insel Telendos (optional, vor Ort zahlbar)",
+      "Trinkgelder"
+    ],
+    "program": [
+      {"time": "07:00", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel auf der Bodrum-Halbinsel."},
+      {"time": "08:00", "title": "Abfahrt mit der Fähre", "text": "Einschiffung in Bodrum für die Überfahrt nach Kalymnos."},
+      {"time": "09:15", "title": "Ankunft in Pothia", "text": "Geführter Orientierungsspaziergang entlang des Hafens und der Schwammwerkstätten."},
+      {"time": "10:00", "title": "Freizeit und Baden", "text": "Erkunden Sie die Stadt, kaufen Sie Schwämme oder entspannen Sie in einer nahegelegenen Bucht."},
+      {"time": "16:30", "title": "Rückfahrt", "text": "Einschiffung zur Rückfahrt, Ankunft am Abend in Bodrum."}
+    ],
+    "faq": [
+      {"q": "Ist Kalymnos auch für Nicht-Kletterer geeignet?", "a": "Auf jeden Fall - die Kletterszene ist eher Kulisse als Pflichtprogramm. Die meisten Gäste verbringen den Tag mit der Erkundung des Hafens von Pothia, dem Kauf von Naturschwämmen und Baden."},
+      {"q": "Wofür ist Kalymnos bekannt?", "a": "Kalymnos ist seit Generationen das Zentrum des ägäischen Naturschwammhandels und hat sich zuletzt dank seiner Kalksteinfelsen zu einem der führenden Klettergebiete Europas entwickelt."},
+      {"q": "Können wir die Insel Telendos besuchen?", "a": "Die winzige Insel Telendos ist direkt gegenüber der Meerenge sichtbar und mit einem kurzen lokalen Boot erreichbar, das Sie in Ihrer Freizeit unabhängig organisieren können."},
+      {"q": "Brauche ich einen Reisepass?", "a": "Ja, ein gültiger Reisepass ist für jeden Gast erforderlich, auch für Kinder."}
+    ]
+  },
+  "boat-trip": {
+    "name": "Bodrum Bootstour",
+    "short": "Eine klassische Gulet-Kreuzfahrt zu Bodrums Buchten, Höhlen und Schlammhöhlen der Schwarzen Insel.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "7 Stunden - Tagestour",
+    "departure": "10:00 Uhr, täglich (wetterabhängig)",
+    "return_time": "17:00 Uhr",
+    "meeting_point": "Bodrum Marina, Steg 4 (oder Hotelabholpunkt)",
+    "description": [
+      "Es gibt einen Grund, warum die Bodrum-Bootstour unser meistgebuchter Ausflug ist: Sie ist schlicht der beste Weg, die Halbinsel zu erleben. An Bord eines traditionellen Holz-Gulets fahren Sie zu einer Reihe geschützter Buchten und werfen dort Anker, wo das Wasser zu einladend ist, um weiterzufahren.",
+      "Zu den Höhepunkten zählen die unglaublich klaren Untiefen der Aquarium-Bucht, ein Stopp an der Schwarzen Insel (Karaada), wo eine Höhlenquelle es Ihnen erlaubt, sich mit mineralreichem Schlamm einzureiben und im Meer abzuspülen, sowie reichlich Zeit zum Baden bei Musik an Deck. Unterwegs wird ein einfaches Mittagessen an Bord serviert."
+    ],
+    "highlights": [
+      "Kreuzfahrt an Bord eines traditionellen Holz-Gulets",
+      "Badestopp in den klaren Untiefen der Aquarium-Bucht",
+      "Mineralschlamm-Höhlenerlebnis auf der Schwarzen Insel",
+      "Mehrere Bade- und Sonnenstopps",
+      "Mittagessen und Musik an Bord",
+      "Kostenlose Hotelabholung auf der Bodrum-Halbinsel"
+    ],
+    "included": [
+      "Ganztägige Gulet-Kreuzfahrt",
+      "Hotelabholung und -rückbringung",
+      "Mittagessen an Bord",
+      "Softgetränke und Tee an Bord",
+      "Schnorchelausrüstung (begrenzte Anzahl)",
+      "Rettungswesten und Sicherheitseinweisung"
+    ],
+    "excluded": [
+      "Alkoholische Getränke",
+      "Eintritt zum Schlammbad auf der Schwarzen Insel (kleine Vor-Ort-Gebühr)",
+      "Persönliche Ausgaben",
+      "Trinkgeld für die Crew"
+    ],
+    "program": [
+      {"time": "09:15", "title": "Hotelabholung", "text": "Abholung von Ihrem Hotel und Transfer zur Marina."},
+      {"time": "10:00", "title": "Abfahrt", "text": "Der Gulet legt von der Bodrum Marina zur ersten Bucht ab."},
+      {"time": "11:00", "title": "Aquarium-Bucht", "text": "Ankern und Baden im flachen, kristallklaren Wasser."},
+      {"time": "13:00", "title": "Mittagessen an Bord", "text": "Ein entspanntes Mittagessen an Bord wird vor Anker in einer ruhigen Bucht serviert."},
+      {"time": "14:30", "title": "Schwarze Insel", "text": "Optionaler Besuch der Mineralschlamm-Höhle, anschließend weiteres Baden."},
+      {"time": "16:30", "title": "Rückkehr zur Marina", "text": "Rückfahrt zur Bodrum Marina und Transfer zu Ihrem Hotel."}
+    ],
+    "faq": [
+      {"q": "Was sollte ich zur Bodrum-Bootstour mitbringen?", "a": "Empfohlen werden Badebekleidung, Handtuch, Sonnencreme und Wechselkleidung. Schnorchelausrüstung und Rettungswesten werden an Bord gestellt."},
+      {"q": "Ist die Bodrum-Bootstour für Nichtschwimmer geeignet?", "a": "Ja, Rettungswesten stehen für alle zur Verfügung, die sich beim Schwimmen nicht sicher fühlen, und niemand muss ins Wasser gehen."},
+      {"q": "Was passiert bei schlechtem Wetter?", "a": "Die Route kann an die Seebedingungen angepasst werden; in seltenen Fällen unsicheren Wetters wird die Tour verschoben oder erstattet."},
+      {"q": "Ist das Mittagessen wirklich inbegriffen?", "a": "Ja, ein vollständiges Mittagessen an Bord sowie Softgetränke sind im Preis enthalten - nur alkoholische Getränke kosten extra."}
+    ]
+  },
+  "private-boat-trip": {
+    "name": "Private Bootstour",
+    "short": "Dieselben wunderschönen Buchten wie bei unserer klassischen Kreuzfahrt, auf einem Gulet exklusiv für Ihre Gruppe.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "6 Stunden - Individuell anpassbar",
+    "departure": "Flexibel, nach Vereinbarung",
+    "return_time": "Flexibel",
+    "meeting_point": "Bodrum Marina oder Ihr Hotelsteg (nach Vereinbarung)",
+    "description": [
+      "Für Reisende, die lieber ihr eigenes Tempo bestimmen, chartert die Private Bootstour ein Holz-Gulet ausschließlich für Ihre Gruppe - Familie, Freunde oder ein Paar, das etwas Besonderes feiert. Es gibt keinen gemeinsamen Zeitplan zu befolgen, Sie entscheiden, wie lange Sie in jeder Bucht verweilen.",
+      "Unsere Crew schlägt basierend auf den Bedingungen und Ihren Interessen eine Route vor, von ruhigen Badebuchten bis zur Mineralschlamm-Höhle der Schwarzen Insel - die Route gestalten jedoch wirklich Sie. Es gilt eine Mindestgruppengröße; kontaktieren Sie uns für genaue Preise darüber hinaus."
+    ],
+    "highlights": [
+      "Privates Gulet nur für Ihre Gruppe",
+      "Flexible Abfahrtszeit und Route",
+      "Wählen Sie Ihre eigene Mischung aus Buchten und Aktivitäten",
+      "Mittagessen an Bord nach Ihren Wünschen zubereitet",
+      "Ideal für Feiern und Familiengruppen",
+      "Persönliche, englischsprachige Crew"
+    ],
+    "included": [
+      "Private Gulet-Charter",
+      "Hotel- oder Stegabholung und -rückbringung",
+      "Mittagessen an Bord",
+      "Softgetränke und Tee an Bord",
+      "Schnorchelausrüstung",
+      "Rettungswesten und Sicherheitseinweisung"
+    ],
+    "excluded": [
+      "Alkoholische Getränke (auf Anfrage ergänzbar)",
+      "Eintritt zum Schlammbad auf der Schwarzen Insel (kleine Vor-Ort-Gebühr)",
+      "Spezielle Catering-Upgrades",
+      "Trinkgeld für die Crew"
+    ],
+    "program": [
+      {"time": "Nach Vereinbarung", "title": "Abholung", "text": "Wir stimmen eine für Ihre Gruppe passende Abholzeit ab."},
+      {"time": "Flexibel", "title": "Routenplanung", "text": "Der Kapitän schlägt eine Route vor; Sie entscheiden, was hinzukommt oder entfällt."},
+      {"time": "Flexibel", "title": "Buchten und Baden", "text": "Bleiben Sie so lange vor Anker, wie Sie möchten."},
+      {"time": "Flexibel", "title": "Mittagessen an Bord", "text": "Das Mittagessen wird serviert, wenn es zum Rhythmus Ihrer Gruppe passt."},
+      {"time": "Flexibel", "title": "Rückkehr", "text": "Rückfahrt zur mit Ihrem Kapitän vereinbarten Zeit."}
+    ],
+    "faq": [
+      {"q": "Wie viele Personen können an der Privaten Bootstour teilnehmen?", "a": "Boote sind in verschiedenen Größen verfügbar; teilen Sie uns bei der Buchung Ihre Gruppengröße mit, damit wir das passende Gulet zuordnen können."},
+      {"q": "Können wir unsere eigene Route wählen?", "a": "Ja, die Route ist flexibel - unsere Crew macht Vorschläge, aber Sie können frei entscheiden, welche Buchten und Aktivitäten Ihnen am wichtigsten sind."},
+      {"q": "Eignet sich das für einen besonderen Anlass?", "a": "Es ist eine unserer beliebtesten Optionen für Geburtstage, Jahrestage und Heiratsanträge - informieren Sie uns im Voraus, damit wir kleine Extras arrangieren können."},
+      {"q": "Ändern sich die Preise je nach Gruppengröße?", "a": "Der angegebene Preis gilt pro Person bei einer Mindestgruppengröße; für größere oder kleinere Gruppen kontaktieren Sie uns direkt für ein genaues Angebot."}
+    ]
+  },
+  "vip-yacht": {
+    "name": "VIP Yacht Charter",
+    "short": "Eine Premium-Motoryacht-Charter mit eigener Crew für Gäste, die die Ägäis in ihrer luxuriösesten Form erleben möchten.",
+    "location": "Bodrum-Halbinsel, Türkei",
+    "duration": "8 Stunden - Ganztägig (Halbtags-Option verfügbar)",
+    "departure": "Flexibel, nach Vereinbarung",
+    "return_time": "Flexibel",
+    "meeting_point": "Bodrum Marina, privater Liegeplatz (oder nach Vereinbarung)",
+    "description": [
+      "Unser VIP Yacht Charter wurde für Gäste konzipiert, die den Glanz einer privaten Yacht ohne den Aufwand des Besitzes genießen möchten. Sie fahren an Bord einer Premium-Motoryacht mit professionellem Kapitän und Crew und halten dort an, wo Wasser und Aussicht am schönsten sind.",
+      "Erwarten Sie ein sorgfältig zusammengestelltes Bordmenü, gekühlte Getränke, hochwertiges Wasserspielzeug und einen aufmerksamen Service, der den Tag mühelos wirken lässt. Ein Favorit für besondere Anlässe, Heiratsanträge und Gäste, die sich einfach die schönste Version eines Bodrum-Tages auf See gönnen möchten."
+    ],
+    "highlights": [
+      "Premium-Motoryacht mit professioneller Crew",
+      "Vollständig flexible Route und Zeitplanung",
+      "Sorgfältig zusammengestelltes Bordmenü und Erfrischungen",
+      "Wasserspielzeug und hochwertige Schnorchelausrüstung",
+      "Ideal für Heiratsanträge und Feiern",
+      "Diskreter Service auf Fünf-Sterne-Niveau"
+    ],
+    "included": [
+      "Private Yacht-Charter mit Kapitän und Crew",
+      "Hotel- oder Marina-Abholung und -rückbringung",
+      "Bordmenü und Erfrischungen",
+      "Premium-Schnorchelausrüstung und Wasserspielzeug",
+      "Rettungswesten und vollständige Sicherheitseinweisung",
+      "Bluetooth-Soundsystem an Bord"
+    ],
+    "excluded": [
+      "Premium-Champagner und Spirituosen (auf Anfrage)",
+      "Besondere Eventdekoration oder Catering-Upgrades",
+      "Eintritt zum Schlammbad auf der Schwarzen Insel (kleine Vor-Ort-Gebühr)",
+      "Trinkgeld für die Crew"
+    ],
+    "program": [
+      {"time": "Nach Vereinbarung", "title": "Abholung", "text": "Eine zu Ihrem Zeitplan passende Abholzeit wird abgestimmt."},
+      {"time": "Flexibel", "title": "Abfahrt", "text": "Einschiffung an der Marina oder am vereinbarten privaten Liegeplatz."},
+      {"time": "Flexibel", "title": "Kreuzfahrt und Baden", "text": "Besuchen Sie Ihre gewählten Buchten mit so viel Ankerzeit, wie Sie möchten."},
+      {"time": "Flexibel", "title": "Bordessen", "text": "Ein sorgfältig zusammengestelltes Menü wird zu der für Sie passenden Zeit serviert."},
+      {"time": "Flexibel", "title": "Rückkehr", "text": "Rückkehr zur Marina zur vereinbarten Zeit."}
+    ],
+    "faq": [
+      {"q": "Wie viele Gäste fasst die VIP Yacht?", "a": "Die Kapazität hängt von der für Ihr Datum zugewiesenen Yacht ab; teilen Sie uns bei der Anfrage Ihre Gruppengröße mit, wir bestätigen das passende Schiff."},
+      {"q": "Können wir eine Halbtagescharter buchen?", "a": "Ja, eine kürzere Halbtagsoption ist verfügbar - teilen Sie uns bei der Buchung Ihre Präferenz mit, wir passen den Preis entsprechend an."},
+      {"q": "Ist das Catering anpassbar?", "a": "Ja, wir können das Bordmenü bei rechtzeitiger Ankündigung an Ernährungswünsche oder besondere Anfragen anpassen."},
+      {"q": "Eignet sich das für einen Heiratsantrag?", "a": "Es ist einer unserer meistgefragten Rahmen für Heiratsanträge - melden Sie sich im Voraus, unser Team hilft, den Moment zu gestalten."}
+    ]
+  },
+  "turkish-bath": {
+    "name": "Türkisches Hamam-Erlebnis",
+    "short": "Ein traditionelles Hamam-Ritual osmanischer Art - heißer Marmor, Dampf, Schaumwäsche und eine Ganzkörper-Peeling-Behandlung.",
+    "location": "Bodrum Stadtzentrum, Türkei",
+    "duration": "1,5 Stunden",
+    "departure": "Mehrere Zeitfenster, täglich",
+    "return_time": "Am selben Tag, nach Abschluss",
+    "meeting_point": "Historisches Hamam, Bodrum Stadtzentrum",
+    "description": [
+      "Das türkische Hamam ist jahrhundertealt, und dieses Erlebnis folgt dem traditionellen Ritual von Anfang bis Ende. Sie beginnen mit Entspannung auf der beheizten Marmorplattform (dem Göbek Tasi, dem 'Bauchstein'), um die Poren in sanftem Dampf zu öffnen, bevor eine Betreuerin eine Ganzkörper-Kese-Peeling-Behandlung durchführt, die die Haut bemerkenswert weich zurücklässt.",
+      "Es folgt eine warme, traditionelle Schaumwäsche, großzügig aus einem Tuch gegossen, und der Besuch endet mit einer optionalen Ölmassage. Getrennte Sitzungen für Männer und Frauen sind verfügbar, und das gesamte Erlebnis ist ebenso entspannend wie authentisch gestaltet."
+    ],
+    "highlights": [
+      "Historisches Hamam in Bodrums Altstadt",
+      "Traditionelle heiße Marmorplattform (Göbek Tasi)",
+      "Ganzkörper-Kese-Peeling",
+      "Warme, traditionelle Schaumwäsche",
+      "Optionales Ölmassage-Upgrade",
+      "Getrennte Sitzungen für Männer und Frauen"
+    ],
+    "included": [
+      "Hamam-Eintritt und vollständiges Ritual",
+      "Kese-Peeling und Schaumwäsche",
+      "Handtücher, Peshtemal-Tuch und Pantoffeln",
+      "Kräutertee nach der Sitzung",
+      "Spind für Ihre Wertsachen",
+      "Hotelabholung auf Anfrage"
+    ],
+    "excluded": [
+      "Ölmassage-Upgrade (optionale Ergänzung)",
+      "Transport, falls nicht im Voraus angefragt",
+      "Persönliche Pflegeartikel",
+      "Trinkgeld für die Betreuerin"
+    ],
+    "program": [
+      {"time": "00:00", "title": "Ankunft und Check-in", "text": "Wechseln Sie in Ihr Peshtemal und verstauen Sie Ihre Sachen in einem Spind."},
+      {"time": "00:15", "title": "Aufwärmen auf dem Marmor", "text": "Entspannen Sie auf dem beheizten Göbek Tasi, während Dampf die Poren öffnet."},
+      {"time": "00:45", "title": "Kese-Peeling", "text": "Eine traditionelle Ganzkörper-Peeling-Behandlung entfernt abgestorbene Hautzellen."},
+      {"time": "01:05", "title": "Schaumwäsche", "text": "Eine warme, großzügige Schaumwäsche nach traditioneller Art."},
+      {"time": "01:20", "title": "Entspannung und Tee", "text": "Abschluss mit Kräutertee im Ruhebereich."}
+    ],
+    "faq": [
+      {"q": "Ist das türkische Bad gemischt oder getrennt für Männer und Frauen?", "a": "Nach traditionellem Hamam-Brauch finden die Sitzungen getrennt für Männer und Frauen statt."},
+      {"q": "Was sollte ich zum Hamam mitbringen?", "a": "Nichts Zusätzliches ist erforderlich - Peshtemal-Tuch, Handtücher und Pantoffeln werden gestellt. Wer nicht das traditionelle Tuch nutzen möchte, kann eigene Badebekleidung mitbringen."},
+      {"q": "Ist die Ölmassage inbegriffen?", "a": "Das Kernritual (Marmor-Aufwärmung, Peeling und Schaumwäsche) ist inbegriffen; die Ölmassage ist ein optionales, kostenpflichtiges Upgrade, das Sie bei der Buchung hinzufügen können."},
+      {"q": "Können Kinder am türkischen Bad teilnehmen?", "a": "Ja, Kinder sind in Begleitung eines Elternteils willkommen, wobei das Peeling bei jüngeren Gästen in der Regel sanfter ausgeführt wird."}
+    ]
+  }
+}

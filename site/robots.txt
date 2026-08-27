@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /booking.html
+Disallow: /checkout.html
+Disallow: /success.html
+
+Sitemap: https://www.mttravel.com/sitemap.xml

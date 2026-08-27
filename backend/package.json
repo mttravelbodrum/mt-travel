@@ -1,0 +1,18 @@
+{
+  "name": "mt-group-travel-backend",
+  "version": "1.0.0",
+  "description": "Real REST API for MT Travel - reservations, tours, customers, settings, admin auth, real email (raw SMTP, no dependency), and real PDF ticket generation. Data lives in Supabase (PostgreSQL) via @supabase/supabase-js; pdf-lib generates the PDF ticket attachment.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.112.4",
+    "pdf-lib": "^1.17.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

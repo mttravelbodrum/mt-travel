@@ -1,0 +1,19 @@
+# Environment files - real Supabase keys, SMTP credentials, and the
+# admin password hash live here. Never commit this.
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Old JSON-file database (superseded by Supabase - see
+# supabase/migrations/ - kept in the repo only as historical reference,
+# its data/ contents should never be committed)
+backend/data/db.json
