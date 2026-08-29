@@ -11,7 +11,7 @@
    your HTML: <script>window.MT_API_BASE = 'https://api.yoursite.com/api';</script>).
    ========================================================================== */
 
-const MT_API_BASE = window.MT_API_BASE || (window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1" ? "http://localhost:4000/api" : "/api");
+const MT_API_BASE = window.MT_API_BASE || "https://mt-travel-backend.onrender.com/api";
 const MT_IS_FILE_PROTOCOL = window.location.protocol === "file:";
 
 const MTApi = (function () {
